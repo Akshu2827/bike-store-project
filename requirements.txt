@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+psycopg2-binary
+pymysql                  # Important for MySQL
+python-dotenv
+openpyxl
+matplotlib
+seaborn
+plotly

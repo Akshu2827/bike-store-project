@@ -1,0 +1,1001 @@
+order_id,order_date,order_status,customer_name,city,state,product_name,brand_name,category_name,quantity,list_price,discount,revenue,store_name,staff_name,shipped_date
+1615,2018-12-28,3,Sarita Parks,Forney,TX,Trek Verve+ Lowstep - 2018,Trek,Electric Bikes,2,2299.99,0.2,3679.98,Rowlett Bikes,Kali Vargas,
+1615,2018-12-28,3,Sarita Parks,Forney,TX,Electra Tiger Shark 3i - 2018,Electra,Cruisers Bicycles,1,899.99,0.07,836.99,Rowlett Bikes,Kali Vargas,
+1615,2018-12-28,3,Sarita Parks,Forney,TX,Trek Domane SL 5 Disc - 2018,Trek,Road Bikes,1,2499.99,0.2,1999.99,Rowlett Bikes,Kali Vargas,
+1614,2018-11-28,3,Dorthey Jackson,Houston,TX,Surly Krampus - 2018,Surly,Mountain Bikes,1,1499.0,0.07,1394.07,Rowlett Bikes,Kali Vargas,
+1614,2018-11-28,3,Dorthey Jackson,Houston,TX,Trek Emonda ALR 6 - 2018,Trek,Road Bikes,2,2299.99,0.07,4277.98,Rowlett Bikes,Kali Vargas,
+1614,2018-11-28,3,Dorthey Jackson,Houston,TX,Electra Cruiser 1 - 2016/2017/2018,Electra,Cruisers Bicycles,2,269.99,0.2,431.98,Rowlett Bikes,Kali Vargas,
+1613,2018-11-18,3,Debra Burks,Orchard Park,NY,Trek Domane SL 7 Women's - 2018,Trek,Road Bikes,1,4999.99,0.07,4649.99,Baldwin Bikes,Marcelene Boyer,
+1613,2018-11-18,3,Debra Burks,Orchard Park,NY,Electra Heartchya 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2,319.99,0.05,607.98,Baldwin Bikes,Marcelene Boyer,
+1612,2018-10-21,3,Tameka Fisher,Redondo Beach,CA,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,1,699.99,0.1,629.99,Santa Cruz Bikes,Genna Serrano,
+1612,2018-10-21,3,Tameka Fisher,Redondo Beach,CA,"Electra Superbolt 1 20"" - 2018",Electra,Children Bicycles,2,319.99,0.05,607.98,Santa Cruz Bikes,Genna Serrano,
+1612,2018-10-21,3,Tameka Fisher,Redondo Beach,CA,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,2,339.99,0.2,543.98,Santa Cruz Bikes,Genna Serrano,
+1612,2018-10-21,3,Tameka Fisher,Redondo Beach,CA,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,2,319.99,0.07,595.18,Santa Cruz Bikes,Genna Serrano,
+1612,2018-10-21,3,Tameka Fisher,Redondo Beach,CA,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,1,1559.99,0.1,1403.99,Santa Cruz Bikes,Genna Serrano,
+1611,2018-09-06,3,Lyndsey Bean,Fairport,NY,Electra Loft Go! 8i - 2018,Electra,Electric Bikes,1,2799.99,0.07,2603.99,Baldwin Bikes,Venita Daniel,
+1611,2018-09-06,3,Lyndsey Bean,Fairport,NY,Trek Domane SL 6 - 2018,Trek,Road Bikes,2,3199.99,0.1,5759.98,Baldwin Bikes,Venita Daniel,
+1611,2018-09-06,3,Lyndsey Bean,Fairport,NY,Electra Morningstar 3i Ladies' - 2018,Electra,Cruisers Bicycles,1,749.99,0.2,599.99,Baldwin Bikes,Venita Daniel,
+1610,2018-08-25,3,Linnie Branch,Plattsburgh,NY,Surly Troll Frameset - 2017,Surly,Mountain Bikes,1,832.99,0.07,774.68,Baldwin Bikes,Venita Daniel,
+1610,2018-08-25,3,Linnie Branch,Plattsburgh,NY,Trek Domane ALR Frameset - 2018,Trek,Road Bikes,2,3199.99,0.2,5119.98,Baldwin Bikes,Venita Daniel,
+1609,2018-08-23,3,Pamelia Newman,Monroe,NY,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,1,349.99,0.2,279.99,Baldwin Bikes,Venita Daniel,
+1609,2018-08-23,3,Pamelia Newman,Monroe,NY,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Cruisers Bicycles,2,749.99,0.2,1199.98,Baldwin Bikes,Venita Daniel,
+1609,2018-08-23,3,Pamelia Newman,Monroe,NY,Electra Cruiser 7D Tall - 2016/2018,Electra,Cruisers Bicycles,2,319.99,0.1,575.98,Baldwin Bikes,Venita Daniel,
+1609,2018-08-23,3,Pamelia Newman,Monroe,NY,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,1,533.99,0.2,427.19,Baldwin Bikes,Venita Daniel,
+1608,2018-07-12,3,Saturnina Garner,Glendora,CA,Electra Cruiser Lux 3i Ladies' - 2018,Electra,Cruisers Bicycles,2,529.99,0.05,1006.98,Santa Cruz Bikes,Mireya Copeland,
+1607,2018-07-11,3,Deloris Burke,Palos Verdes Peninsula,CA,Trek X-Caliber 8 - 2017,Trek,Mountain Bikes,1,999.99,0.05,949.99,Santa Cruz Bikes,Mireya Copeland,
+1606,2018-07-10,3,Thalia Dillard,San Angelo,TX,Electra Townie Original 3i EQ - 2017/2018,Electra,Cruisers Bicycles,1,659.99,0.1,593.99,Rowlett Bikes,Kali Vargas,
+1606,2018-07-10,3,Thalia Dillard,San Angelo,TX,Trek Precaliber 16 Girl's - 2018,Trek,Children Bicycles,1,209.99,0.1,188.99,Rowlett Bikes,Kali Vargas,
+1605,2018-07-01,3,Robena Hill,Corpus Christi,TX,Sun Bicycles Biscayne Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,1,619.99,0.1,557.99,Rowlett Bikes,Kali Vargas,
+1605,2018-07-01,3,Robena Hill,Corpus Christi,TX,Trek CrossRip+ - 2018,Trek,Electric Bikes,1,4499.99,0.2,3599.99,Rowlett Bikes,Kali Vargas,
+1605,2018-07-01,3,Robena Hill,Corpus Christi,TX,Trek Procal AL Frameset - 2018,Trek,Mountain Bikes,2,1499.99,0.1,2699.98,Rowlett Bikes,Kali Vargas,
+1605,2018-07-01,3,Robena Hill,Corpus Christi,TX,Electra Townie Balloon 7i EQ - 2018,Electra,Comfort Bicycles,1,899.99,0.1,809.99,Rowlett Bikes,Kali Vargas,
+1605,2018-07-01,3,Robena Hill,Corpus Christi,TX,Trek X-Caliber 8 - 2017,Trek,Mountain Bikes,1,999.99,0.07,929.99,Rowlett Bikes,Kali Vargas,
+1604,2018-06-17,3,Latasha Hays,Buffalo,NY,Trek Precaliber 16 Girl's - 2018,Trek,Children Bicycles,1,209.99,0.1,188.99,Baldwin Bikes,Venita Daniel,
+1602,2018-04-30,1,Diana Guerra,Merrick,NY,Sun Bicycles Atlas X-Type - 2017,Sun Bicycles,Cruisers Bicycles,2,416.99,0.05,792.28,Baldwin Bikes,Marcelene Boyer,
+1602,2018-04-30,1,Diana Guerra,Merrick,NY,Haro Flightline One ST - 2017,Haro,Mountain Bikes,1,379.99,0.07,353.39,Baldwin Bikes,Marcelene Boyer,
+1602,2018-04-30,1,Diana Guerra,Merrick,NY,Trek Precaliber 20 Girl's - 2018,Trek,Children Bicycles,2,229.99,0.2,367.98,Baldwin Bikes,Marcelene Boyer,
+1602,2018-04-30,1,Diana Guerra,Merrick,NY,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,Electra,Cruisers Bicycles,2,899.99,0.05,1709.98,Baldwin Bikes,Marcelene Boyer,
+1603,2018-04-30,2,Georgeann Waller,North Tonawanda,NY,Trek Precaliber 20 Girl's - 2018,Trek,Children Bicycles,2,229.99,0.05,436.98,Baldwin Bikes,Marcelene Boyer,
+1598,2018-04-29,2,Felice Guzman,Canyon Country,CA,Electra Townie Original 7D EQ - 2018,Electra,Cruisers Bicycles,1,599.99,0.2,479.99,Santa Cruz Bikes,Genna Serrano,
+1598,2018-04-29,2,Felice Guzman,Canyon Country,CA,Trek Domane SL 6 - 2017,Trek,Road Bikes,2,3499.99,0.07,6509.98,Santa Cruz Bikes,Genna Serrano,
+1598,2018-04-29,2,Felice Guzman,Canyon Country,CA,Trek Precaliber 12 Girls - 2017,Trek,Children Bicycles,1,189.99,0.2,151.99,Santa Cruz Bikes,Genna Serrano,
+1599,2018-04-29,1,Caroll Hays,Fairport,NY,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,2,481.99,0.2,771.18,Baldwin Bikes,Venita Daniel,
+1600,2018-04-29,1,Marjorie Logan,Franklin Square,NY,Trek Domane SLR 6 - 2018,Trek,Road Bikes,1,4999.99,0.1,4499.99,Baldwin Bikes,Marcelene Boyer,
+1600,2018-04-29,1,Marjorie Logan,Franklin Square,NY,"Electra Treasure 1 20"" - 2018",Electra,Children Bicycles,1,319.99,0.05,303.99,Baldwin Bikes,Marcelene Boyer,
+1600,2018-04-29,1,Marjorie Logan,Franklin Square,NY,Surly Troll Frameset - 2017,Surly,Mountain Bikes,1,832.99,0.2,666.39,Baldwin Bikes,Marcelene Boyer,
+1601,2018-04-29,1,Mozelle Carter,Houston,TX,Trek Marlin 6 - 2018,Trek,Mountain Bikes,2,579.99,0.2,927.98,Rowlett Bikes,Kali Vargas,
+1601,2018-04-29,1,Mozelle Carter,Houston,TX,Surly Straggler - 2016,Surly,Cyclocross Bicycles,1,1549.0,0.2,1239.2,Rowlett Bikes,Kali Vargas,
+1601,2018-04-29,1,Mozelle Carter,Houston,TX,Electra Cruiser 1 Ladies' - 2018,Electra,Cruisers Bicycles,2,269.99,0.07,502.18,Rowlett Bikes,Kali Vargas,
+1601,2018-04-29,1,Mozelle Carter,Houston,TX,Trek Slash 8 27.5 - 2016,Trek,Mountain Bikes,2,3999.99,0.07,7439.98,Rowlett Bikes,Kali Vargas,
+1601,2018-04-29,1,Mozelle Carter,Houston,TX,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,1,919.99,0.1,827.99,Rowlett Bikes,Kali Vargas,
+1594,2018-04-28,1,Bennett Armstrong,Bethpage,NY,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,Sun Bicycles,Cruisers Bicycles,2,402.99,0.1,725.38,Baldwin Bikes,Venita Daniel,
+1594,2018-04-28,1,Bennett Armstrong,Bethpage,NY,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,1,533.99,0.1,480.59,Baldwin Bikes,Venita Daniel,
+1595,2018-04-28,2,Takako Casey,Bronx,NY,Trek 820 - 2018,Trek,Mountain Bikes,1,379.99,0.2,303.99,Baldwin Bikes,Venita Daniel,
+1596,2018-04-28,2,Tobie Little,Victoria,TX,Trek Precaliber 24 (21-Speed) - Girls - 2017,Trek,Children Bicycles,1,349.99,0.05,332.49,Rowlett Bikes,Kali Vargas,
+1596,2018-04-28,2,Tobie Little,Victoria,TX,Pure Cycles Western 3-Speed - Women's - 2015/2016,Pure Cycles,Cruisers Bicycles,1,449.0,0.1,404.1,Rowlett Bikes,Kali Vargas,
+1597,2018-04-28,1,Lolita Mosley,Houston,TX,Trek Madone 9 Frameset - 2018,Trek,Road Bikes,1,3199.99,0.07,2975.99,Rowlett Bikes,Layla Terrell,
+1597,2018-04-28,1,Lolita Mosley,Houston,TX,Trek Domane S 5 Disc - 2017,Trek,Road Bikes,1,2599.99,0.07,2417.99,Rowlett Bikes,Layla Terrell,
+1589,2018-04-27,2,Ronna Butler,Encino,CA,Electra Townie Original 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,2,639.99,0.05,1215.98,Santa Cruz Bikes,Genna Serrano,
+1589,2018-04-27,2,Ronna Butler,Encino,CA,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,1,799.99,0.2,639.99,Santa Cruz Bikes,Genna Serrano,
+1589,2018-04-27,2,Ronna Butler,Encino,CA,Surly Karate Monkey 27.5+ Frameset - 2017,Surly,Mountain Bikes,2,2499.99,0.1,4499.98,Santa Cruz Bikes,Genna Serrano,
+1590,2018-04-27,1,Jone Bernard,Anaheim,CA,Trek Domane SLR Frameset - 2018,Trek,Road Bikes,2,3199.99,0.07,5951.98,Santa Cruz Bikes,Genna Serrano,
+1590,2018-04-27,1,Jone Bernard,Anaheim,CA,Electra Townie Original 7D EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,1,599.99,0.2,479.99,Santa Cruz Bikes,Genna Serrano,
+1590,2018-04-27,1,Jone Bernard,Anaheim,CA,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Electra,Children Bicycles,1,299.99,0.07,278.99,Santa Cruz Bikes,Genna Serrano,
+1591,2018-04-27,2,Jeromy Burch,San Jose,CA,"Electra Starship 1 16"" - 2018",Electra,Children Bicycles,2,279.99,0.2,447.98,Santa Cruz Bikes,Mireya Copeland,
+1591,2018-04-27,2,Jeromy Burch,San Jose,CA,Surly Big Fat Dummy Frameset - 2018,Surly,Mountain Bikes,2,469.99,0.2,751.98,Santa Cruz Bikes,Mireya Copeland,
+1591,2018-04-27,2,Jeromy Burch,San Jose,CA,Electra Savannah 3i (20-inch) - Girl's - 2017,Electra,Children Bicycles,2,349.99,0.07,650.98,Santa Cruz Bikes,Mireya Copeland,
+1591,2018-04-27,2,Jeromy Burch,San Jose,CA,Trek Fuel EX 5 Plus - 2018,Trek,Mountain Bikes,2,2249.99,0.05,4274.98,Santa Cruz Bikes,Mireya Copeland,
+1591,2018-04-27,2,Jeromy Burch,San Jose,CA,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,1,289.99,0.2,231.99,Santa Cruz Bikes,Mireya Copeland,
+1592,2018-04-27,2,Lyndsey Bean,Fairport,NY,Surly Straggler 650b - 2018,Surly,Cyclocross Bicycles,2,1549.0,0.05,2943.1,Baldwin Bikes,Venita Daniel,
+1592,2018-04-27,2,Lyndsey Bean,Fairport,NY,Trek Emonda ALR 6 - 2018,Trek,Road Bikes,1,2299.99,0.07,2138.99,Baldwin Bikes,Venita Daniel,
+1592,2018-04-27,2,Lyndsey Bean,Fairport,NY,Trek Fuel EX 9.8 29 - 2017,Trek,Mountain Bikes,2,4999.99,0.07,9299.98,Baldwin Bikes,Venita Daniel,
+1592,2018-04-27,2,Lyndsey Bean,Fairport,NY,Trek Conduit+ - 2016,Trek,Electric Bikes,1,2999.99,0.2,2399.99,Baldwin Bikes,Venita Daniel,
+1592,2018-04-27,2,Lyndsey Bean,Fairport,NY,Trek Precaliber 16 Girl's - 2018,Trek,Children Bicycles,2,209.99,0.05,398.98,Baldwin Bikes,Venita Daniel,
+1593,2018-04-27,1,Genoveva Baldwin,Port Washington,NY,Electra Savannah 3i (20-inch) - Girl's - 2017,Electra,Children Bicycles,2,349.99,0.2,559.98,Baldwin Bikes,Marcelene Boyer,
+1593,2018-04-27,1,Genoveva Baldwin,Port Washington,NY,Trek Session DH 27.5 Carbon Frameset - 2017,Trek,Mountain Bikes,1,469.99,0.07,437.09,Baldwin Bikes,Marcelene Boyer,
+1593,2018-04-27,1,Genoveva Baldwin,Port Washington,NY,Trek Dual Sport+ - 2018,Trek,Electric Bikes,2,2799.99,0.1,5039.98,Baldwin Bikes,Marcelene Boyer,
+1593,2018-04-27,1,Genoveva Baldwin,Port Washington,NY,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Comfort Bicycles,1,416.99,0.05,396.14,Baldwin Bikes,Marcelene Boyer,
+1593,2018-04-27,1,Genoveva Baldwin,Port Washington,NY,Trek Emonda SLR 8 - 2018,Trek,Road Bikes,2,6499.99,0.07,12089.98,Baldwin Bikes,Marcelene Boyer,
+1584,2018-04-26,2,Monica Sears,San Jose,CA,Haro SR 1.2 - 2017,Haro,Mountain Bikes,2,869.99,0.1,1565.98,Santa Cruz Bikes,Genna Serrano,
+1584,2018-04-26,2,Monica Sears,San Jose,CA,Electra Super Moto 8i - 2018,Electra,Cruisers Bicycles,2,899.99,0.1,1619.98,Santa Cruz Bikes,Genna Serrano,
+1584,2018-04-26,2,Monica Sears,San Jose,CA,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,1,5299.99,0.2,4239.99,Santa Cruz Bikes,Genna Serrano,
+1584,2018-04-26,2,Monica Sears,San Jose,CA,Trek Neko+ - 2018,Trek,Electric Bikes,1,2799.99,0.1,2519.99,Santa Cruz Bikes,Genna Serrano,
+1584,2018-04-26,2,Monica Sears,San Jose,CA,Trek Domane ALR 5 Gravel - 2018,Trek,Road Bikes,2,1799.99,0.07,3347.98,Santa Cruz Bikes,Genna Serrano,
+1585,2018-04-26,1,Carola Rodriquez,Banning,CA,Electra Townie Original 1 Ladies' - 2018,Electra,Comfort Bicycles,1,449.99,0.1,404.99,Santa Cruz Bikes,Genna Serrano,
+1585,2018-04-26,1,Carola Rodriquez,Banning,CA,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Comfort Bicycles,2,449.99,0.1,809.98,Santa Cruz Bikes,Genna Serrano,
+1585,2018-04-26,1,Carola Rodriquez,Banning,CA,Trek Boone 7 Disc - 2018,Trek,Cyclocross Bicycles,2,3999.99,0.07,7439.98,Santa Cruz Bikes,Genna Serrano,
+1585,2018-04-26,1,Carola Rodriquez,Banning,CA,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Children Bicycles,1,299.99,0.1,269.99,Santa Cruz Bikes,Genna Serrano,
+1585,2018-04-26,1,Carola Rodriquez,Banning,CA,Electra Loft Go! 8i - 2018,Electra,Electric Bikes,1,2799.99,0.1,2519.99,Santa Cruz Bikes,Genna Serrano,
+1586,2018-04-26,1,Carley Reynolds,South El Monte,CA,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Children Bicycles,2,269.99,0.1,485.98,Santa Cruz Bikes,Mireya Copeland,
+1586,2018-04-26,1,Carley Reynolds,South El Monte,CA,Trek Precaliber 24 21-speed Boy's - 2018,Trek,Children Bicycles,1,369.99,0.07,344.09,Santa Cruz Bikes,Mireya Copeland,
+1586,2018-04-26,1,Carley Reynolds,South El Monte,CA,"Electra Treasure 1 20"" - 2018",Electra,Children Bicycles,1,319.99,0.05,303.99,Santa Cruz Bikes,Mireya Copeland,
+1586,2018-04-26,1,Carley Reynolds,South El Monte,CA,Trek Domane ALR Frameset - 2018,Trek,Road Bikes,1,3199.99,0.2,2559.99,Santa Cruz Bikes,Mireya Copeland,
+1586,2018-04-26,1,Carley Reynolds,South El Monte,CA,Surly Troll Frameset - 2017,Surly,Mountain Bikes,1,832.99,0.1,749.69,Santa Cruz Bikes,Mireya Copeland,
+1587,2018-04-26,2,Jenee Rasmussen,Sacramento,CA,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,1,481.99,0.1,433.79,Santa Cruz Bikes,Mireya Copeland,
+1587,2018-04-26,2,Jenee Rasmussen,Sacramento,CA,Trek Boone Race Shop Limited - 2017,Trek,Cyclocross Bicycles,2,3499.99,0.05,6649.98,Santa Cruz Bikes,Mireya Copeland,
+1587,2018-04-26,2,Jenee Rasmussen,Sacramento,CA,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2,647.99,0.05,1231.18,Santa Cruz Bikes,Mireya Copeland,
+1587,2018-04-26,2,Jenee Rasmussen,Sacramento,CA,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,2,799.99,0.07,1487.98,Santa Cruz Bikes,Mireya Copeland,
+1588,2018-04-26,1,Deshawn Mendoza,Monsey,NY,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,2,209.99,0.07,390.58,Baldwin Bikes,Marcelene Boyer,
+1581,2018-04-25,2,Sharla Flynn,Oxnard,CA,Electra Townie Original 7D - 2017,Electra,Cruisers Bicycles,1,489.99,0.1,440.99,Santa Cruz Bikes,Mireya Copeland,
+1581,2018-04-25,2,Sharla Flynn,Oxnard,CA,Trek Precaliber 20 6-speed Boy's - 2018,Trek,Children Bicycles,1,289.99,0.2,231.99,Santa Cruz Bikes,Mireya Copeland,
+1582,2018-04-25,1,Le Deleon,Banning,CA,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,Electra,Cruisers Bicycles,1,599.99,0.07,557.99,Santa Cruz Bikes,Genna Serrano,
+1582,2018-04-25,1,Le Deleon,Banning,CA,Trek Procaliber Frameset - 2018,Trek,Mountain Bikes,2,1499.99,0.07,2789.98,Santa Cruz Bikes,Genna Serrano,
+1583,2018-04-25,1,Onita Johns,Elmont,NY,Electra Moto 1 - 2016,Electra,Cruisers Bicycles,1,529.99,0.05,503.49,Baldwin Bikes,Marcelene Boyer,
+1583,2018-04-25,1,Onita Johns,Elmont,NY,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,2,289.99,0.2,463.98,Baldwin Bikes,Marcelene Boyer,
+1579,2018-04-24,2,Katharina Bates,Campbell,CA,Trek Domane SL 6 - 2017,Trek,Road Bikes,1,3499.99,0.05,3324.99,Santa Cruz Bikes,Mireya Copeland,
+1579,2018-04-24,2,Katharina Bates,Campbell,CA,Electra Tiger Shark 3i - 2018,Electra,Cruisers Bicycles,1,899.99,0.1,809.99,Santa Cruz Bikes,Mireya Copeland,
+1579,2018-04-24,2,Katharina Bates,Campbell,CA,"Electra Starship 1 16"" - 2018",Electra,Children Bicycles,1,279.99,0.07,260.39,Santa Cruz Bikes,Mireya Copeland,
+1579,2018-04-24,2,Katharina Bates,Campbell,CA,Sun Bicycles Lil Bolt Type-R - 2017,Sun Bicycles,Cruisers Bicycles,2,346.99,0.1,624.58,Santa Cruz Bikes,Mireya Copeland,
+1580,2018-04-24,2,Graciela Barber,Oxnard,CA,Trek Kids' Neko - 2018,Trek,Mountain Bikes,2,469.99,0.07,874.18,Santa Cruz Bikes,Mireya Copeland,
+1580,2018-04-24,2,Graciela Barber,Oxnard,CA,Trek Girl's Kickster - 2017,Trek,Children Bicycles,2,149.99,0.2,239.98,Santa Cruz Bikes,Mireya Copeland,
+1573,2018-04-23,2,Corene Wall,Atwater,CA,Trek Conduit+ - 2016,Trek,Electric Bikes,1,2999.99,0.05,2849.99,Santa Cruz Bikes,Mireya Copeland,
+1573,2018-04-23,2,Corene Wall,Atwater,CA,Trek X-Caliber 7 - 2018,Trek,Mountain Bikes,1,919.99,0.07,855.59,Santa Cruz Bikes,Mireya Copeland,
+1573,2018-04-23,2,Corene Wall,Atwater,CA,Electra Moto 1 - 2016,Electra,Cruisers Bicycles,2,529.99,0.1,953.98,Santa Cruz Bikes,Mireya Copeland,
+1573,2018-04-23,2,Corene Wall,Atwater,CA,Electra Super Moto 8i - 2018,Electra,Cruisers Bicycles,2,899.99,0.07,1673.98,Santa Cruz Bikes,Mireya Copeland,
+1573,2018-04-23,2,Corene Wall,Atwater,CA,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,2,89.99,0.1,161.98,Santa Cruz Bikes,Mireya Copeland,
+1574,2018-04-23,1,Jeni Booker,South El Monte,CA,Surly Pack Rat Frameset - 2018,Surly,Mountain Bikes,1,469.99,0.1,422.99,Santa Cruz Bikes,Mireya Copeland,
+1575,2018-04-23,2,Moses Pope,Lawndale,CA,Haro SR 1.1 - 2017,Haro,Mountain Bikes,1,539.99,0.07,502.19,Santa Cruz Bikes,Genna Serrano,
+1575,2018-04-23,2,Moses Pope,Lawndale,CA,Trek Boone 7 Disc - 2018,Trek,Cyclocross Bicycles,2,3999.99,0.1,7199.98,Santa Cruz Bikes,Genna Serrano,
+1575,2018-04-23,2,Moses Pope,Lawndale,CA,Electra Cruiser 1 - 2016/2017/2018,Electra,Cruisers Bicycles,1,269.99,0.07,251.09,Santa Cruz Bikes,Genna Serrano,
+1575,2018-04-23,2,Moses Pope,Lawndale,CA,Surly Big Fat Dummy Frameset - 2018,Surly,Mountain Bikes,2,469.99,0.05,892.98,Santa Cruz Bikes,Genna Serrano,
+1575,2018-04-23,2,Moses Pope,Lawndale,CA,Haro Shredder 20 - 2017,Haro,Children Bicycles,2,209.99,0.2,335.98,Santa Cruz Bikes,Genna Serrano,
+1576,2018-04-23,2,Robby Sykes,Hempstead,NY,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,1,416.99,0.05,396.14,Baldwin Bikes,Venita Daniel,
+1576,2018-04-23,2,Robby Sykes,Hempstead,NY,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,1,319.99,0.05,303.99,Baldwin Bikes,Venita Daniel,
+1576,2018-04-23,2,Robby Sykes,Hempstead,NY,Trek Powerfly 5 Women's - 2018,Trek,Electric Bikes,2,3499.99,0.05,6649.98,Baldwin Bikes,Venita Daniel,
+1577,2018-04-23,1,Cesar Jackson,Liverpool,NY,Electra Water Lily 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,2,279.99,0.05,531.98,Baldwin Bikes,Venita Daniel,
+1577,2018-04-23,1,Cesar Jackson,Liverpool,NY,Sun Bicycles Drifter 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2,470.99,0.1,847.78,Baldwin Bikes,Venita Daniel,
+1577,2018-04-23,1,Cesar Jackson,Liverpool,NY,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,2,799.99,0.2,1279.98,Baldwin Bikes,Venita Daniel,
+1577,2018-04-23,1,Cesar Jackson,Liverpool,NY,Heller Bloodhound Trail - 2018,Heller,Mountain Bikes,2,2599.0,0.07,4834.14,Baldwin Bikes,Venita Daniel,
+1577,2018-04-23,1,Cesar Jackson,Liverpool,NY,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,2,279.99,0.05,531.98,Baldwin Bikes,Venita Daniel,
+1578,2018-04-23,2,Corrina Sawyer,Troy,NY,Trek Super Commuter+ 7 - 2018,Trek,Electric Bikes,2,3599.99,0.07,6695.98,Baldwin Bikes,Venita Daniel,
+1578,2018-04-23,2,Corrina Sawyer,Troy,NY,Electra Townie Commute 27D Ladies - 2018,Electra,Comfort Bicycles,1,899.99,0.05,854.99,Baldwin Bikes,Venita Daniel,
+1578,2018-04-23,2,Corrina Sawyer,Troy,NY,Electra Townie Commute 8D - 2018,Electra,Cruisers Bicycles,2,749.99,0.2,1199.98,Baldwin Bikes,Venita Daniel,
+1569,2018-04-22,2,Syreeta Hendricks,Mahopac,NY,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,1,2999.99,0.1,2699.99,Baldwin Bikes,Venita Daniel,
+1570,2018-04-22,2,Fran Yang,Utica,NY,Trek Domane SLR 9 Disc - 2018,Trek,Road Bikes,1,11999.99,0.07,11159.99,Baldwin Bikes,Venita Daniel,
+1571,2018-04-22,1,Sarai Mckee,Buffalo,NY,Electra Townie Commute 8D Ladies' - 2018,Electra,Comfort Bicycles,2,699.99,0.1,1259.98,Baldwin Bikes,Venita Daniel,
+1571,2018-04-22,1,Sarai Mckee,Buffalo,NY,Electra Townie Original 21D - 2018,Electra,Cruisers Bicycles,1,559.99,0.07,520.79,Baldwin Bikes,Venita Daniel,
+1571,2018-04-22,1,Sarai Mckee,Buffalo,NY,Electra Townie Original 7D EQ - Women's - 2016,Electra,Cruisers Bicycles,2,599.99,0.2,959.98,Baldwin Bikes,Venita Daniel,
+1572,2018-04-22,1,Garry Espinoza,Forney,TX,Electra Super Moto 8i - 2018,Electra,Cruisers Bicycles,2,899.99,0.05,1709.98,Rowlett Bikes,Layla Terrell,
+1572,2018-04-22,1,Garry Espinoza,Forney,TX,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,1,2999.99,0.2,2399.99,Rowlett Bikes,Layla Terrell,
+1572,2018-04-22,1,Garry Espinoza,Forney,TX,Trek Fuel EX 8 29 - 2018,Trek,Mountain Bikes,1,3199.99,0.05,3039.99,Rowlett Bikes,Layla Terrell,
+1572,2018-04-22,1,Garry Espinoza,Forney,TX,Electra Townie Original 21D EQ - 2017/2018,Electra,Comfort Bicycles,2,679.99,0.2,1087.98,Rowlett Bikes,Layla Terrell,
+1564,2018-04-21,1,Monika Berg,Encino,CA,Electra Townie Commute 27D - 2018,Electra,Comfort Bicycles,1,899.99,0.07,836.99,Santa Cruz Bikes,Genna Serrano,
+1564,2018-04-21,1,Monika Berg,Encino,CA,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,1,269.99,0.1,242.99,Santa Cruz Bikes,Genna Serrano,
+1565,2018-04-21,2,Neil Mccall,San Carlos,CA,Haro Flightline One ST - 2017,Haro,Mountain Bikes,1,379.99,0.07,353.39,Santa Cruz Bikes,Mireya Copeland,
+1565,2018-04-21,2,Neil Mccall,San Carlos,CA,Haro Shredder 20 - 2017,Haro,Children Bicycles,1,209.99,0.1,188.99,Santa Cruz Bikes,Mireya Copeland,
+1565,2018-04-21,2,Neil Mccall,San Carlos,CA,Electra Townie Balloon 7i EQ - 2018,Electra,Cruisers Bicycles,1,899.99,0.1,809.99,Santa Cruz Bikes,Mireya Copeland,
+1565,2018-04-21,2,Neil Mccall,San Carlos,CA,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Children Bicycles,1,299.99,0.07,278.99,Santa Cruz Bikes,Mireya Copeland,
+1565,2018-04-21,2,Neil Mccall,San Carlos,CA,Electra Townie Original 21D EQ - 2017/2018,Electra,Cruisers Bicycles,2,679.99,0.2,1087.98,Santa Cruz Bikes,Mireya Copeland,
+1566,2018-04-21,1,Petronila Norris,South El Monte,CA,Trek Domane AL 3 - 2018,Trek,Road Bikes,1,919.99,0.05,873.99,Santa Cruz Bikes,Genna Serrano,
+1566,2018-04-21,1,Petronila Norris,South El Monte,CA,Trek Powerfly 8 FS Plus - 2017,Trek,Electric Bikes,2,4999.99,0.05,9499.98,Santa Cruz Bikes,Genna Serrano,
+1567,2018-04-21,2,Arvilla Osborn,Upland,CA,Trek Precaliber 24 7-speed Girl's - 2018,Trek,Children Bicycles,1,319.99,0.2,255.99,Santa Cruz Bikes,Mireya Copeland,
+1568,2018-04-21,2,Bong Hebert,Torrance,CA,Trek Domane SLR 6 - 2018,Trek,Road Bikes,1,4999.99,0.2,3999.99,Santa Cruz Bikes,Genna Serrano,
+1568,2018-04-21,2,Bong Hebert,Torrance,CA,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,1,533.99,0.07,496.61,Santa Cruz Bikes,Genna Serrano,
+1568,2018-04-21,2,Bong Hebert,Torrance,CA,Electra Townie Balloon 7i EQ - 2018,Electra,Comfort Bicycles,1,899.99,0.1,809.99,Santa Cruz Bikes,Genna Serrano,
+1559,2018-04-20,2,Tangela Quinn,Richmond Hill,NY,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,2,339.99,0.07,632.38,Baldwin Bikes,Marcelene Boyer,
+1559,2018-04-20,2,Tangela Quinn,Richmond Hill,NY,Pure Cycles Western 3-Speed - Women's - 2015/2016,Pure Cycles,Cruisers Bicycles,1,449.0,0.1,404.1,Baldwin Bikes,Marcelene Boyer,
+1559,2018-04-20,2,Tangela Quinn,Richmond Hill,NY,Trek Domane SL Disc Frameset - 2017,Trek,Road Bikes,2,3199.99,0.1,5759.98,Baldwin Bikes,Marcelene Boyer,
+1559,2018-04-20,2,Tangela Quinn,Richmond Hill,NY,Electra Cruiser 7D Ladies' - 2016/2018,Electra,Cruisers Bicycles,1,319.99,0.1,287.99,Baldwin Bikes,Marcelene Boyer,
+1560,2018-04-20,1,Pamala Henry,Bronx,NY,Trek X-Caliber 8 - 2018,Trek,Mountain Bikes,2,999.99,0.2,1599.98,Baldwin Bikes,Venita Daniel,
+1560,2018-04-20,1,Pamala Henry,Bronx,NY,Haro Shift R3 - 2017,Haro,Mountain Bikes,1,1469.99,0.2,1175.99,Baldwin Bikes,Venita Daniel,
+1561,2018-04-20,2,Kanesha Vega,Rome,NY,Trek Domane SL 5 - 2018,Trek,Road Bikes,2,2199.99,0.07,4091.98,Baldwin Bikes,Venita Daniel,
+1561,2018-04-20,2,Kanesha Vega,Rome,NY,"Electra Under-The-Sea 1 16"" - 2018",Electra,Children Bicycles,2,279.99,0.05,531.98,Baldwin Bikes,Venita Daniel,
+1562,2018-04-20,1,Titus Bullock,Hollis,NY,Trek Domane SL Disc Frameset - 2017,Trek,Road Bikes,1,3199.99,0.2,2559.99,Baldwin Bikes,Venita Daniel,
+1562,2018-04-20,1,Titus Bullock,Hollis,NY,Sun Bicycles Revolutions 24 - 2017,Sun Bicycles,Cruisers Bicycles,1,250.99,0.2,200.79,Baldwin Bikes,Venita Daniel,
+1562,2018-04-20,1,Titus Bullock,Hollis,NY,Trek Fuel EX 8 29 - 2018,Trek,Mountain Bikes,2,3199.99,0.07,5951.98,Baldwin Bikes,Venita Daniel,
+1563,2018-04-20,2,Keri Bridges,Richardson,TX,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,1,3499.99,0.07,3254.99,Rowlett Bikes,Layla Terrell,
+1557,2018-04-19,2,Lucy Woods,Palos Verdes Peninsula,CA,Surly Pack Rat - 2018,Surly,Road Bikes,2,1349.0,0.07,2509.14,Santa Cruz Bikes,Genna Serrano,
+1558,2018-04-19,1,Tenisha Lyons,Amityville,NY,Haro SR 1.3 - 2017,Haro,Mountain Bikes,2,1409.99,0.07,2622.58,Baldwin Bikes,Marcelene Boyer,
+1558,2018-04-19,1,Tenisha Lyons,Amityville,NY,Trek Farley Carbon Frameset - 2018,Trek,Mountain Bikes,1,999.99,0.07,929.99,Baldwin Bikes,Marcelene Boyer,
+1558,2018-04-19,1,Tenisha Lyons,Amityville,NY,Trek Fuel EX 8 29 - 2016,Trek,Mountain Bikes,1,2899.99,0.05,2754.99,Baldwin Bikes,Marcelene Boyer,
+1558,2018-04-19,1,Tenisha Lyons,Amityville,NY,Trek Domane S 6 - 2017,Trek,Road Bikes,1,2699.99,0.2,2159.99,Baldwin Bikes,Marcelene Boyer,
+1558,2018-04-19,1,Tenisha Lyons,Amityville,NY,Electra Townie Go! 8i Ladies' - 2018,Electra,Cruisers Bicycles,1,2599.99,0.07,2417.99,Baldwin Bikes,Marcelene Boyer,
+1553,2018-04-18,2,Jamaal Albert,Torrance,CA,Electra Townie Original 7D - 2017,Electra,Comfort Bicycles,1,489.99,0.07,455.69,Santa Cruz Bikes,Genna Serrano,
+1553,2018-04-18,2,Jamaal Albert,Torrance,CA,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,1,549.99,0.1,494.99,Santa Cruz Bikes,Genna Serrano,
+1553,2018-04-18,2,Jamaal Albert,Torrance,CA,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,1,2999.99,0.05,2849.99,Santa Cruz Bikes,Genna Serrano,
+1553,2018-04-18,2,Jamaal Albert,Torrance,CA,Trek Precaliber 16 Boys - 2017,Trek,Children Bicycles,1,209.99,0.05,199.49,Santa Cruz Bikes,Genna Serrano,
+1554,2018-04-18,1,Jeanie Kirkland,Santa Clara,CA,Trek Domane AL 2 Women's - 2018,Trek,Road Bikes,1,749.99,0.05,712.49,Santa Cruz Bikes,Genna Serrano,
+1554,2018-04-18,1,Jeanie Kirkland,Santa Clara,CA,Electra Soft Serve 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,1,279.99,0.2,223.99,Santa Cruz Bikes,Genna Serrano,
+1555,2018-04-18,1,Debra Burks,Orchard Park,NY,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,2,549.99,0.1,989.98,Baldwin Bikes,Venita Daniel,
+1555,2018-04-18,1,Debra Burks,Orchard Park,NY,Trek Domane SL Frameset - 2018,Trek,Road Bikes,1,6499.99,0.1,5849.99,Baldwin Bikes,Venita Daniel,
+1555,2018-04-18,1,Debra Burks,Orchard Park,NY,Surly Big Fat Dummy Frameset - 2018,Surly,Mountain Bikes,1,469.99,0.1,422.99,Baldwin Bikes,Venita Daniel,
+1555,2018-04-18,1,Debra Burks,Orchard Park,NY,Surly ECR 27.5 - 2018,Surly,Mountain Bikes,2,1899.0,0.05,3608.1,Baldwin Bikes,Venita Daniel,
+1555,2018-04-18,1,Debra Burks,Orchard Park,NY,Trek Domane SLR Disc Frameset - 2018,Trek,Road Bikes,1,3199.99,0.2,2559.99,Baldwin Bikes,Venita Daniel,
+1556,2018-04-18,2,Daryl Spence,Uniondale,NY,Trek Domane SL 6 - 2017,Trek,Road Bikes,2,3499.99,0.2,5599.98,Baldwin Bikes,Marcelene Boyer,
+1556,2018-04-18,2,Daryl Spence,Uniondale,NY,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,1,659.99,0.07,613.79,Baldwin Bikes,Marcelene Boyer,
+1556,2018-04-18,2,Daryl Spence,Uniondale,NY,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,1,289.99,0.1,260.99,Baldwin Bikes,Marcelene Boyer,
+1556,2018-04-18,2,Daryl Spence,Uniondale,NY,Trek Kids' Neko - 2018,Trek,Mountain Bikes,2,469.99,0.05,892.98,Baldwin Bikes,Marcelene Boyer,
+1556,2018-04-18,2,Daryl Spence,Uniondale,NY,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,2,899.99,0.1,1619.98,Baldwin Bikes,Marcelene Boyer,
+1544,2018-04-17,1,Charolette Rice,Sacramento,CA,Trek XM700+ - 2018,Trek,Electric Bikes,2,3499.99,0.1,6299.98,Santa Cruz Bikes,Mireya Copeland,
+1544,2018-04-17,1,Charolette Rice,Sacramento,CA,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Comfort Bicycles,2,416.99,0.2,667.18,Santa Cruz Bikes,Mireya Copeland,
+1545,2018-04-17,1,Tommie Melton,Sacramento,CA,Haro SR 1.2 - 2017,Haro,Mountain Bikes,1,869.99,0.1,782.99,Santa Cruz Bikes,Genna Serrano,
+1546,2018-04-17,2,Marvin Mullins,San Diego,CA,Trek Domane SL Frameset - 2018,Trek,Road Bikes,1,6499.99,0.1,5849.99,Santa Cruz Bikes,Genna Serrano,
+1546,2018-04-17,2,Marvin Mullins,San Diego,CA,Trek Conduit+ - 2018,Trek,Electric Bikes,2,2799.99,0.1,5039.98,Santa Cruz Bikes,Genna Serrano,
+1546,2018-04-17,2,Marvin Mullins,San Diego,CA,Electra Queen of Hearts 3i - 2018,Electra,Cruisers Bicycles,1,749.99,0.1,674.99,Santa Cruz Bikes,Genna Serrano,
+1546,2018-04-17,2,Marvin Mullins,San Diego,CA,Electra Townie Original 7D - 2015/2016,Electra,Comfort Bicycles,1,499.99,0.05,474.99,Santa Cruz Bikes,Genna Serrano,
+1547,2018-04-17,1,Karla Kirk,Palos Verdes Peninsula,CA,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Comfort Bicycles,2,449.99,0.2,719.98,Santa Cruz Bikes,Genna Serrano,
+1547,2018-04-17,1,Karla Kirk,Palos Verdes Peninsula,CA,Trek Super Commuter+ 7 - 2018,Trek,Electric Bikes,1,3599.99,0.2,2879.99,Santa Cruz Bikes,Genna Serrano,
+1548,2018-04-17,1,Regine Gonzales,Oxnard,CA,Trek Farley Alloy Frameset - 2017,Trek,Mountain Bikes,1,469.99,0.1,422.99,Santa Cruz Bikes,Mireya Copeland,
+1548,2018-04-17,1,Regine Gonzales,Oxnard,CA,Trek Powerfly 5 Women's - 2018,Trek,Electric Bikes,1,3499.99,0.07,3254.99,Santa Cruz Bikes,Mireya Copeland,
+1548,2018-04-17,1,Regine Gonzales,Oxnard,CA,Trek Boone 7 - 2017,Trek,Cyclocross Bicycles,2,3499.99,0.2,5599.98,Santa Cruz Bikes,Mireya Copeland,
+1549,2018-04-17,1,Caren Stephens,Scarsdale,NY,Trek CrossRip 1 - 2018,Trek,Road Bikes,1,959.99,0.2,767.99,Baldwin Bikes,Venita Daniel,
+1549,2018-04-17,1,Caren Stephens,Scarsdale,NY,Trek Kids' Neko - 2018,Trek,Mountain Bikes,1,469.99,0.05,446.49,Baldwin Bikes,Venita Daniel,
+1549,2018-04-17,1,Caren Stephens,Scarsdale,NY,Electra White Water 3i - 2018,Electra,Cruisers Bicycles,2,749.99,0.05,1424.98,Baldwin Bikes,Venita Daniel,
+1549,2018-04-17,1,Caren Stephens,Scarsdale,NY,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,2,699.99,0.1,1259.98,Baldwin Bikes,Venita Daniel,
+1550,2018-04-17,1,Janetta Aguirre,Lancaster,NY,Electra Townie Original 21D Ladies' - 2018,Electra,Comfort Bicycles,2,559.99,0.05,1063.98,Baldwin Bikes,Marcelene Boyer,
+1550,2018-04-17,1,Janetta Aguirre,Lancaster,NY,Electra Townie Original 3i EQ - 2017/2018,Electra,Cruisers Bicycles,1,659.99,0.07,613.79,Baldwin Bikes,Marcelene Boyer,
+1550,2018-04-17,1,Janetta Aguirre,Lancaster,NY,Trek Conduit+ - 2018,Trek,Electric Bikes,2,2799.99,0.1,5039.98,Baldwin Bikes,Marcelene Boyer,
+1550,2018-04-17,1,Janetta Aguirre,Lancaster,NY,Trek Domane SL 8 Disc - 2018,Trek,Road Bikes,1,5499.99,0.07,5114.99,Baldwin Bikes,Marcelene Boyer,
+1550,2018-04-17,1,Janetta Aguirre,Lancaster,NY,Trek Girl's Kickster - 2017,Trek,Children Bicycles,2,149.99,0.05,284.98,Baldwin Bikes,Marcelene Boyer,
+1551,2018-04-17,1,Tomasa Carson,East Elmhurst,NY,Trek Boone 7 Disc - 2018,Trek,Cyclocross Bicycles,2,3999.99,0.2,6399.98,Baldwin Bikes,Venita Daniel,
+1552,2018-04-17,1,Melanie Hayes,Liverpool,NY,Trek Verve+ Lowstep - 2018,Trek,Electric Bikes,1,2299.99,0.1,2069.99,Baldwin Bikes,Venita Daniel,
+1552,2018-04-17,1,Melanie Hayes,Liverpool,NY,Haro Shift R3 - 2017,Haro,Mountain Bikes,2,1469.99,0.05,2792.98,Baldwin Bikes,Venita Daniel,
+1540,2018-04-16,1,Hedwig Paul,Apple Valley,CA,Sun Bicycles Atlas X-Type - 2017,Sun Bicycles,Cruisers Bicycles,2,416.99,0.05,792.28,Santa Cruz Bikes,Mireya Copeland,
+1540,2018-04-16,1,Hedwig Paul,Apple Valley,CA,Electra Morningstar 3i Ladies' - 2018,Electra,Cruisers Bicycles,1,749.99,0.07,697.49,Santa Cruz Bikes,Mireya Copeland,
+1540,2018-04-16,1,Hedwig Paul,Apple Valley,CA,Electra Cruiser Lux 7D - 2018,Electra,Cruisers Bicycles,1,479.99,0.05,455.99,Santa Cruz Bikes,Mireya Copeland,
+1540,2018-04-16,1,Hedwig Paul,Apple Valley,CA,Trek Domane SLR 6 Disc - 2018,Trek,Road Bikes,2,5499.99,0.05,10449.98,Santa Cruz Bikes,Mireya Copeland,
+1540,2018-04-16,1,Hedwig Paul,Apple Valley,CA,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,1,647.99,0.2,518.39,Santa Cruz Bikes,Mireya Copeland,
+1541,2018-04-16,2,Pamelia Newman,Monroe,NY,Trek Domane SLR 9 Disc - 2018,Trek,Road Bikes,2,11999.99,0.1,21599.98,Baldwin Bikes,Venita Daniel,
+1541,2018-04-16,2,Pamelia Newman,Monroe,NY,Electra Townie Original 7D EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,2,599.99,0.07,1115.98,Baldwin Bikes,Venita Daniel,
+1541,2018-04-16,2,Pamelia Newman,Monroe,NY,Trek Fuel EX 8 29 XT - 2018,Trek,Mountain Bikes,2,3199.99,0.1,5759.98,Baldwin Bikes,Venita Daniel,
+1541,2018-04-16,2,Pamelia Newman,Monroe,NY,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,1,429.0,0.1,386.1,Baldwin Bikes,Venita Daniel,
+1541,2018-04-16,2,Pamelia Newman,Monroe,NY,Trek Girl's Kickster - 2017,Trek,Children Bicycles,2,149.99,0.05,284.98,Baldwin Bikes,Venita Daniel,
+1542,2018-04-16,2,Damien Dorsey,Central Islip,NY,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,Sun Bicycles,Cruisers Bicycles,1,402.99,0.2,322.39,Baldwin Bikes,Marcelene Boyer,
+1542,2018-04-16,2,Damien Dorsey,Central Islip,NY,Surly Troll Frameset - 2018,Surly,Mountain Bikes,2,2499.99,0.05,4749.98,Baldwin Bikes,Marcelene Boyer,
+1542,2018-04-16,2,Damien Dorsey,Central Islip,NY,Trek Domane SL 6 Disc - 2018,Trek,Road Bikes,2,3499.99,0.2,5599.98,Baldwin Bikes,Marcelene Boyer,
+1542,2018-04-16,2,Damien Dorsey,Central Islip,NY,Haro Flightline One ST - 2017,Haro,Mountain Bikes,2,379.99,0.1,683.98,Baldwin Bikes,Marcelene Boyer,
+1542,2018-04-16,2,Damien Dorsey,Central Islip,NY,"Electra Under-The-Sea 1 16"" - 2018",Electra,Children Bicycles,1,279.99,0.2,223.99,Baldwin Bikes,Marcelene Boyer,
+1543,2018-04-16,1,Parker Prince,Port Jefferson Station,NY,Sun Bicycles Cruz 3 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2,449.99,0.1,809.98,Baldwin Bikes,Marcelene Boyer,
+1543,2018-04-16,1,Parker Prince,Port Jefferson Station,NY,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,1,209.99,0.2,167.99,Baldwin Bikes,Marcelene Boyer,
+1543,2018-04-16,1,Parker Prince,Port Jefferson Station,NY,Trek CrossRip 1 - 2018,Trek,Road Bikes,2,959.99,0.07,1785.58,Baldwin Bikes,Marcelene Boyer,
+1543,2018-04-16,1,Parker Prince,Port Jefferson Station,NY,Electra Savannah 3i (20-inch) - Girl's - 2017,Electra,Children Bicycles,2,349.99,0.05,664.98,Baldwin Bikes,Marcelene Boyer,
+1543,2018-04-16,1,Parker Prince,Port Jefferson Station,NY,Trek Procaliber 6 - 2018,Trek,Mountain Bikes,1,1799.99,0.2,1439.99,Baldwin Bikes,Marcelene Boyer,
+1537,2018-04-15,1,Bernita Mcdaniel,Liverpool,NY,Electra Relic 3i - 2018,Electra,Cruisers Bicycles,2,849.99,0.05,1614.98,Baldwin Bikes,Marcelene Boyer,
+1538,2018-04-15,2,Ashanti Parks,Baldwin,NY,Trek Boone 5 Disc - 2018,Trek,Cyclocross Bicycles,1,3299.99,0.07,3068.99,Baldwin Bikes,Marcelene Boyer,
+1538,2018-04-15,2,Ashanti Parks,Baldwin,NY,Haro SR 1.3 - 2017,Haro,Mountain Bikes,2,1409.99,0.07,2622.58,Baldwin Bikes,Marcelene Boyer,
+1538,2018-04-15,2,Ashanti Parks,Baldwin,NY,Trek Ticket S Frame - 2018,Trek,Mountain Bikes,1,1469.99,0.07,1367.09,Baldwin Bikes,Marcelene Boyer,
+1538,2018-04-15,2,Ashanti Parks,Baldwin,NY,Trek Verve+ Lowstep - 2018,Trek,Electric Bikes,1,2299.99,0.2,1839.99,Baldwin Bikes,Marcelene Boyer,
+1538,2018-04-15,2,Ashanti Parks,Baldwin,NY,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Comfort Bicycles,2,899.99,0.05,1709.98,Baldwin Bikes,Marcelene Boyer,
+1539,2018-04-15,1,Merlene Vinson,Euless,TX,Surly Ice Cream Truck Frameset - 2016,Surly,Mountain Bikes,2,469.99,0.05,892.98,Rowlett Bikes,Layla Terrell,
+1539,2018-04-15,1,Merlene Vinson,Euless,TX,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,2,549.99,0.05,1044.98,Rowlett Bikes,Layla Terrell,
+1534,2018-04-14,2,Georgetta Hardin,Canandaigua,NY,Trek XM700+ - 2018,Trek,Electric Bikes,1,3499.99,0.1,3149.99,Baldwin Bikes,Venita Daniel,
+1534,2018-04-14,2,Georgetta Hardin,Canandaigua,NY,Trek Ticket S Frame - 2018,Trek,Mountain Bikes,1,1469.99,0.05,1396.49,Baldwin Bikes,Venita Daniel,
+1534,2018-04-14,2,Georgetta Hardin,Canandaigua,NY,Trek Precaliber 12 Boy's - 2018,Trek,Children Bicycles,2,199.99,0.2,319.98,Baldwin Bikes,Venita Daniel,
+1534,2018-04-14,2,Georgetta Hardin,Canandaigua,NY,Trek Domane ALR Disc Frameset - 2018,Trek,Road Bikes,2,3199.99,0.2,5119.98,Baldwin Bikes,Venita Daniel,
+1535,2018-04-14,2,Lizzette Stein,Orchard Park,NY,Haro Shredder 20 - 2017,Haro,Children Bicycles,1,209.99,0.05,199.49,Baldwin Bikes,Venita Daniel,
+1535,2018-04-14,2,Lizzette Stein,Orchard Park,NY,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,Electra,Cruisers Bicycles,2,599.99,0.05,1139.98,Baldwin Bikes,Venita Daniel,
+1536,2018-04-14,2,Brittney Woodward,East Northport,NY,Trek Domane SL 5 Women's - 2018,Trek,Road Bikes,1,2199.99,0.2,1759.99,Baldwin Bikes,Venita Daniel,
+1536,2018-04-14,2,Brittney Woodward,East Northport,NY,Trek Conduit+ - 2018,Trek,Electric Bikes,2,2799.99,0.07,5207.98,Baldwin Bikes,Venita Daniel,
+1536,2018-04-14,2,Brittney Woodward,East Northport,NY,Trek Verve+ - 2018,Trek,Electric Bikes,2,2299.99,0.2,3679.98,Baldwin Bikes,Venita Daniel,
+1530,2018-04-13,1,Ollie Zimmerman,Anaheim,CA,Electra Cruiser 1 - 2016/2017/2018,Electra,Cruisers Bicycles,2,269.99,0.1,485.98,Santa Cruz Bikes,Mireya Copeland,
+1530,2018-04-13,1,Ollie Zimmerman,Anaheim,CA,Trek Marlin 7 - 2017/2018,Trek,Mountain Bikes,1,749.99,0.1,674.99,Santa Cruz Bikes,Mireya Copeland,
+1531,2018-04-13,1,Mariana Strong,Santa Clara,CA,Surly ECR 27.5 - 2018,Surly,Mountain Bikes,1,1899.0,0.1,1709.1,Santa Cruz Bikes,Mireya Copeland,
+1532,2018-04-13,2,Latasha Hays,Buffalo,NY,Trek Crockett 7 Disc - 2018,Trek,Cyclocross Bicycles,2,2999.99,0.07,5579.98,Baldwin Bikes,Venita Daniel,
+1533,2018-04-13,2,Jeanice Frost,Ossining,NY,Trek Precaliber 20 Boy's - 2018,Trek,Children Bicycles,2,229.99,0.1,413.98,Baldwin Bikes,Marcelene Boyer,
+1533,2018-04-13,2,Jeanice Frost,Ossining,NY,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,1,647.99,0.1,583.19,Baldwin Bikes,Marcelene Boyer,
+1533,2018-04-13,2,Jeanice Frost,Ossining,NY,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,1,349.99,0.1,314.99,Baldwin Bikes,Marcelene Boyer,
+1533,2018-04-13,2,Jeanice Frost,Ossining,NY,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,2,899.99,0.1,1619.98,Baldwin Bikes,Marcelene Boyer,
+1533,2018-04-13,2,Jeanice Frost,Ossining,NY,Trek Silque SLR 8 Women's - 2017,Trek,Road Bikes,1,6499.99,0.1,5849.99,Baldwin Bikes,Marcelene Boyer,
+1521,2018-04-12,1,Saturnina Garner,Glendora,CA,Electra Townie 3i EQ (20-inch) - Boys' - 2017,Electra,Children Bicycles,1,489.99,0.2,391.99,Santa Cruz Bikes,Genna Serrano,
+1521,2018-04-12,1,Saturnina Garner,Glendora,CA,Electra Townie Original 21D EQ Ladies' - 2018,Electra,Comfort Bicycles,2,679.99,0.2,1087.98,Santa Cruz Bikes,Genna Serrano,
+1521,2018-04-12,1,Saturnina Garner,Glendora,CA,Trek Farley Carbon Frameset - 2018,Trek,Mountain Bikes,1,999.99,0.1,899.99,Santa Cruz Bikes,Genna Serrano,
+1521,2018-04-12,1,Saturnina Garner,Glendora,CA,Trek X-Caliber Frameset - 2018,Trek,Mountain Bikes,2,1499.99,0.2,2399.98,Santa Cruz Bikes,Genna Serrano,
+1522,2018-04-12,1,Chi Goff,Palos Verdes Peninsula,CA,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Children Bicycles,1,299.99,0.1,269.99,Santa Cruz Bikes,Genna Serrano,
+1522,2018-04-12,1,Chi Goff,Palos Verdes Peninsula,CA,Trek Stache 5 - 2018,Trek,Mountain Bikes,1,1599.99,0.07,1487.99,Santa Cruz Bikes,Genna Serrano,
+1522,2018-04-12,1,Chi Goff,Palos Verdes Peninsula,CA,Trek Ticket S Frame - 2018,Trek,Mountain Bikes,1,1469.99,0.07,1367.09,Santa Cruz Bikes,Genna Serrano,
+1523,2018-04-12,1,Jacquline Duncan,Jackson Heights,NY,Electra Townie Commute 8D - 2018,Electra,Comfort Bicycles,2,749.99,0.2,1199.98,Baldwin Bikes,Venita Daniel,
+1524,2018-04-12,1,Melia Brady,Maspeth,NY,Surly Straggler - 2018,Surly,Road Bikes,1,1549.0,0.1,1394.1,Baldwin Bikes,Marcelene Boyer,
+1524,2018-04-12,1,Melia Brady,Maspeth,NY,"Electra Treasure 1 20"" - 2018",Electra,Children Bicycles,2,319.99,0.2,511.98,Baldwin Bikes,Marcelene Boyer,
+1524,2018-04-12,1,Melia Brady,Maspeth,NY,Electra Townie Original 1 Ladies' - 2018,Electra,Comfort Bicycles,1,449.99,0.2,359.99,Baldwin Bikes,Marcelene Boyer,
+1524,2018-04-12,1,Melia Brady,Maspeth,NY,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,2,2999.99,0.2,4799.98,Baldwin Bikes,Marcelene Boyer,
+1525,2018-04-12,2,Zelma Browning,Astoria,NY,Trek Domane SL Frameset - 2018,Trek,Road Bikes,1,6499.99,0.1,5849.99,Baldwin Bikes,Venita Daniel,
+1525,2018-04-12,2,Zelma Browning,Astoria,NY,Surly Pack Rat - 2018,Surly,Road Bikes,2,1349.0,0.07,2509.14,Baldwin Bikes,Venita Daniel,
+1525,2018-04-12,2,Zelma Browning,Astoria,NY,Trek Lift+ - 2018,Trek,Electric Bikes,1,2799.99,0.07,2603.99,Baldwin Bikes,Venita Daniel,
+1526,2018-04-12,2,Latasha Stanley,Rockville Centre,NY,Trek Domane ALR 4 Disc Women's - 2018,Trek,Road Bikes,1,1549.99,0.07,1441.49,Baldwin Bikes,Venita Daniel,
+1526,2018-04-12,2,Latasha Stanley,Rockville Centre,NY,Trek Domane SLR 6 Disc - 2017,Trek,Road Bikes,1,5499.99,0.1,4949.99,Baldwin Bikes,Venita Daniel,
+1526,2018-04-12,2,Latasha Stanley,Rockville Centre,NY,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Cruisers Bicycles,1,749.99,0.1,674.99,Baldwin Bikes,Venita Daniel,
+1526,2018-04-12,2,Latasha Stanley,Rockville Centre,NY,Electra Townie Original 21D EQ Ladies' - 2018,Electra,Cruisers Bicycles,1,679.99,0.05,645.99,Baldwin Bikes,Venita Daniel,
+1527,2018-04-12,2,Lashawn Ortiz,Longview,TX,Surly Wednesday Frameset - 2017,Surly,Mountain Bikes,1,469.99,0.1,422.99,Rowlett Bikes,Layla Terrell,
+1527,2018-04-12,2,Lashawn Ortiz,Longview,TX,Sun Bicycles Streamway 3 - 2017,Sun Bicycles,Comfort Bicycles,1,551.99,0.05,524.39,Rowlett Bikes,Layla Terrell,
+1527,2018-04-12,2,Lashawn Ortiz,Longview,TX,Trek Emonda S 5 - 2017,Trek,Road Bikes,2,1999.99,0.05,3799.98,Rowlett Bikes,Layla Terrell,
+1528,2018-04-12,1,Aleta Shepard,Sugar Land,TX,Electra Cruiser Lux 1 - 2016/2018,Electra,Cruisers Bicycles,2,429.99,0.2,687.98,Rowlett Bikes,Kali Vargas,
+1529,2018-04-12,1,Cleotilde Booth,Sugar Land,TX,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Electra,Children Bicycles,1,299.99,0.05,284.99,Rowlett Bikes,Kali Vargas,
+1529,2018-04-12,1,Cleotilde Booth,Sugar Land,TX,Trek Silque SLR 7 Women's - 2017,Trek,Road Bikes,2,5999.99,0.1,10799.98,Rowlett Bikes,Kali Vargas,
+1516,2018-04-11,2,Bridgette Guerra,San Lorenzo,CA,Trek Domane ALR Disc Frameset - 2018,Trek,Road Bikes,2,3199.99,0.1,5759.98,Santa Cruz Bikes,Genna Serrano,
+1516,2018-04-11,2,Bridgette Guerra,San Lorenzo,CA,Electra Townie Go! 8i Ladies' - 2018,Electra,Cruisers Bicycles,1,2599.99,0.1,2339.99,Santa Cruz Bikes,Genna Serrano,
+1516,2018-04-11,2,Bridgette Guerra,San Lorenzo,CA,Trek Verve+ - 2018,Trek,Electric Bikes,2,2299.99,0.2,3679.98,Santa Cruz Bikes,Genna Serrano,
+1516,2018-04-11,2,Bridgette Guerra,San Lorenzo,CA,Electra Amsterdam Royal 8i Ladies - 2018,Electra,Cruisers Bicycles,2,1199.99,0.2,1919.98,Santa Cruz Bikes,Genna Serrano,
+1516,2018-04-11,2,Bridgette Guerra,San Lorenzo,CA,Trek Precaliber 16 Girl's - 2018,Trek,Children Bicycles,2,209.99,0.2,335.98,Santa Cruz Bikes,Genna Serrano,
+1517,2018-04-11,1,Louanne Martin,Yuba City,CA,Electra Townie Go! 8i - 2017/2018,Electra,Comfort Bicycles,2,2599.99,0.07,4835.98,Santa Cruz Bikes,Mireya Copeland,
+1517,2018-04-11,1,Louanne Martin,Yuba City,CA,Electra Townie Original 21D EQ - 2017/2018,Electra,Cruisers Bicycles,2,679.99,0.05,1291.98,Santa Cruz Bikes,Mireya Copeland,
+1518,2018-04-11,1,Nova Hess,Duarte,CA,Electra Townie Original 21D EQ - 2017/2018,Electra,Comfort Bicycles,2,679.99,0.1,1223.98,Santa Cruz Bikes,Mireya Copeland,
+1518,2018-04-11,1,Nova Hess,Duarte,CA,Trek Domane SL 5 Disc - 2018,Trek,Road Bikes,2,2499.99,0.05,4749.98,Santa Cruz Bikes,Mireya Copeland,
+1518,2018-04-11,1,Nova Hess,Duarte,CA,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,2,2999.99,0.05,5699.98,Santa Cruz Bikes,Mireya Copeland,
+1519,2018-04-11,2,Theo Reese,Long Beach,NY,Trek Emonda SL 7 - 2018,Trek,Road Bikes,1,4499.99,0.2,3599.99,Baldwin Bikes,Venita Daniel,
+1519,2018-04-11,2,Theo Reese,Long Beach,NY,Haro Downtown 16 - 2017,Haro,Children Bicycles,2,329.99,0.2,527.98,Baldwin Bikes,Venita Daniel,
+1519,2018-04-11,2,Theo Reese,Long Beach,NY,Surly Krampus - 2018,Surly,Mountain Bikes,2,1499.0,0.07,2788.14,Baldwin Bikes,Venita Daniel,
+1519,2018-04-11,2,Theo Reese,Long Beach,NY,Sun Bicycles Lil Bolt Type-R - 2017,Sun Bicycles,Cruisers Bicycles,1,346.99,0.2,277.59,Baldwin Bikes,Venita Daniel,
+1519,2018-04-11,2,Theo Reese,Long Beach,NY,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,2,289.99,0.05,550.98,Baldwin Bikes,Venita Daniel,
+1520,2018-04-11,2,Lorrie Becker,Garland,TX,Trek CrossRip+ - 2018,Trek,Electric Bikes,1,4499.99,0.05,4274.99,Rowlett Bikes,Kali Vargas,
+1520,2018-04-11,2,Lorrie Becker,Garland,TX,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,2,3499.99,0.2,5599.98,Rowlett Bikes,Kali Vargas,
+1520,2018-04-11,2,Lorrie Becker,Garland,TX,Electra Townie Commute 27D Ladies - 2018,Electra,Comfort Bicycles,2,899.99,0.07,1673.98,Rowlett Bikes,Kali Vargas,
+1520,2018-04-11,2,Lorrie Becker,Garland,TX,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,2,89.99,0.1,161.98,Rowlett Bikes,Kali Vargas,
+1513,2018-04-10,2,Araceli Golden,Fullerton,CA,Trek Domane AL 2 Women's - 2018,Trek,Road Bikes,1,749.99,0.1,674.99,Santa Cruz Bikes,Mireya Copeland,
+1513,2018-04-10,2,Araceli Golden,Fullerton,CA,Trek Powerfly 8 FS Plus - 2017,Trek,Electric Bikes,2,4999.99,0.05,9499.98,Santa Cruz Bikes,Mireya Copeland,
+1513,2018-04-10,2,Araceli Golden,Fullerton,CA,Trek Emonda ALR 6 - 2018,Trek,Road Bikes,2,2299.99,0.05,4369.98,Santa Cruz Bikes,Mireya Copeland,
+1514,2018-04-10,2,Yan Mcgowan,Duarte,CA,Electra Townie Commute 27D Ladies - 2018,Electra,Cruisers Bicycles,2,899.99,0.1,1619.98,Santa Cruz Bikes,Genna Serrano,
+1514,2018-04-10,2,Yan Mcgowan,Duarte,CA,Trek Powerfly 7 FS - 2018,Trek,Electric Bikes,2,4999.99,0.05,9499.98,Santa Cruz Bikes,Genna Serrano,
+1515,2018-04-10,1,Elinore Aguilar,San Angelo,TX,Surly Big Dummy Frameset - 2017,Surly,Mountain Bikes,2,999.99,0.2,1599.98,Rowlett Bikes,Layla Terrell,
+1515,2018-04-10,1,Elinore Aguilar,San Angelo,TX,Trek Powerfly 5 Women's - 2018,Trek,Electric Bikes,2,3499.99,0.1,6299.98,Rowlett Bikes,Layla Terrell,
+1515,2018-04-10,1,Elinore Aguilar,San Angelo,TX,Electra Townie Commute 27D Ladies - 2018,Electra,Comfort Bicycles,2,899.99,0.05,1709.98,Rowlett Bikes,Layla Terrell,
+1515,2018-04-10,1,Elinore Aguilar,San Angelo,TX,Trek Fuel EX 9.8 29 - 2017,Trek,Mountain Bikes,1,4999.99,0.1,4499.99,Rowlett Bikes,Layla Terrell,
+1515,2018-04-10,1,Elinore Aguilar,San Angelo,TX,Trek CrossRip 1 - 2018,Trek,Road Bikes,2,959.99,0.2,1535.98,Rowlett Bikes,Layla Terrell,
+1509,2018-04-09,1,Kasha Todd,Campbell,CA,Electra Queen of Hearts 3i - 2018,Electra,Cruisers Bicycles,2,749.99,0.07,1394.98,Santa Cruz Bikes,Genna Serrano,
+1510,2018-04-09,2,Emmitt Sanchez,New York,NY,Trek Fuel EX 8 29 XT - 2018,Trek,Mountain Bikes,2,3199.99,0.05,6079.98,Baldwin Bikes,Marcelene Boyer,
+1510,2018-04-09,2,Emmitt Sanchez,New York,NY,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Cruisers Bicycles,1,449.99,0.1,404.99,Baldwin Bikes,Marcelene Boyer,
+1510,2018-04-09,2,Emmitt Sanchez,New York,NY,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,2,2999.99,0.1,5399.98,Baldwin Bikes,Marcelene Boyer,
+1510,2018-04-09,2,Emmitt Sanchez,New York,NY,Electra Cruiser 1 Ladies' - 2018,Electra,Cruisers Bicycles,2,269.99,0.1,485.98,Baldwin Bikes,Marcelene Boyer,
+1510,2018-04-09,2,Emmitt Sanchez,New York,NY,Heller Shagamaw GX1 - 2018,Heller,Mountain Bikes,1,2599.0,0.05,2469.05,Baldwin Bikes,Marcelene Boyer,
+1511,2018-04-09,1,Regenia Vaughan,Mahopac,NY,Trek Domane ALR 4 Disc - 2018,Trek,Road Bikes,2,1549.99,0.2,2479.98,Baldwin Bikes,Marcelene Boyer,
+1511,2018-04-09,1,Regenia Vaughan,Mahopac,NY,Electra Straight 8 1 (20-inch) - Boy's - 2018,Electra,Children Bicycles,1,389.99,0.07,362.69,Baldwin Bikes,Marcelene Boyer,
+1511,2018-04-09,1,Regenia Vaughan,Mahopac,NY,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,2,429.0,0.07,797.94,Baldwin Bikes,Marcelene Boyer,
+1511,2018-04-09,1,Regenia Vaughan,Mahopac,NY,Haro Shift R3 - 2017,Haro,Mountain Bikes,1,1469.99,0.05,1396.49,Baldwin Bikes,Marcelene Boyer,
+1511,2018-04-09,1,Regenia Vaughan,Mahopac,NY,Surly Krampus - 2018,Surly,Mountain Bikes,2,1499.0,0.2,2398.4,Baldwin Bikes,Marcelene Boyer,
+1512,2018-04-09,1,Jayne Kirkland,Rowlett,TX,Electra Straight 8 3i - 2018,Electra,Cruisers Bicycles,1,909.99,0.07,846.29,Rowlett Bikes,Layla Terrell,
+1504,2018-04-08,2,Elvera Peck,Banning,CA,Trek Precaliber 24 (7-Speed) - Boys - 2018,Trek,Children Bicycles,1,319.99,0.07,297.59,Santa Cruz Bikes,Mireya Copeland,
+1505,2018-04-08,1,Adelle Larsen,East Northport,NY,Electra Cruiser Lux 3i - 2018,Electra,Cruisers Bicycles,2,529.99,0.05,1006.98,Baldwin Bikes,Venita Daniel,
+1505,2018-04-08,1,Adelle Larsen,East Northport,NY,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,2,549.99,0.07,1022.98,Baldwin Bikes,Venita Daniel,
+1505,2018-04-08,1,Adelle Larsen,East Northport,NY,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,2,5299.99,0.05,10069.98,Baldwin Bikes,Venita Daniel,
+1506,2018-04-08,1,Abby Gamble,Amityville,NY,Trek Domane SL 6 Disc - 2018,Trek,Road Bikes,1,3499.99,0.05,3324.99,Baldwin Bikes,Venita Daniel,
+1506,2018-04-08,1,Abby Gamble,Amityville,NY,Trek Domane SL 7 Women's - 2018,Trek,Road Bikes,2,4999.99,0.2,7999.98,Baldwin Bikes,Venita Daniel,
+1506,2018-04-08,1,Abby Gamble,Amityville,NY,Trek Domane SLR 8 Disc - 2018,Trek,Road Bikes,2,7499.99,0.05,14249.98,Baldwin Bikes,Venita Daniel,
+1507,2018-04-08,2,Teofila Fischer,Huntington Station,NY,Trek Stache 5 - 2017,Trek,Mountain Bikes,2,1499.99,0.2,2399.98,Baldwin Bikes,Marcelene Boyer,
+1507,2018-04-08,2,Teofila Fischer,Huntington Station,NY,Surly Straggler 650b - 2016,Surly,Cyclocross Bicycles,2,1680.99,0.1,3025.78,Baldwin Bikes,Marcelene Boyer,
+1507,2018-04-08,2,Teofila Fischer,Huntington Station,NY,Electra Amsterdam Royal 8i Ladies - 2018,Electra,Cruisers Bicycles,1,1199.99,0.07,1115.99,Baldwin Bikes,Marcelene Boyer,
+1507,2018-04-08,2,Teofila Fischer,Huntington Station,NY,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Children Bicycles,1,319.99,0.07,297.59,Baldwin Bikes,Marcelene Boyer,
+1507,2018-04-08,2,Teofila Fischer,Huntington Station,NY,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,2,319.99,0.05,607.98,Baldwin Bikes,Marcelene Boyer,
+1508,2018-04-08,2,Tena Cruz,Farmingdale,NY,Haro Flightline One ST - 2017,Haro,Mountain Bikes,1,379.99,0.2,303.99,Baldwin Bikes,Marcelene Boyer,
+1508,2018-04-08,2,Tena Cruz,Farmingdale,NY,Sun Bicycles Cruz 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,1,416.99,0.1,375.29,Baldwin Bikes,Marcelene Boyer,
+1508,2018-04-08,2,Tena Cruz,Farmingdale,NY,Surly Steamroller - 2017,Surly,Road Bikes,2,875.99,0.05,1664.38,Baldwin Bikes,Marcelene Boyer,
+1508,2018-04-08,2,Tena Cruz,Farmingdale,NY,Trek Precaliber 12 Girls - 2017,Trek,Children Bicycles,1,189.99,0.05,180.49,Baldwin Bikes,Marcelene Boyer,
+1503,2018-04-07,2,Denis Logan,Ridgecrest,CA,Electra Straight 8 3i - 2018,Electra,Cruisers Bicycles,1,909.99,0.1,818.99,Santa Cruz Bikes,Genna Serrano,
+1503,2018-04-07,2,Denis Logan,Ridgecrest,CA,Electra Townie Original 1 - 2018,Electra,Comfort Bicycles,2,449.99,0.05,854.98,Santa Cruz Bikes,Genna Serrano,
+1496,2018-04-06,1,Tameka Fisher,Redondo Beach,CA,Electra Townie Original 7D EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,1,599.99,0.07,557.99,Santa Cruz Bikes,Genna Serrano,
+1496,2018-04-06,1,Tameka Fisher,Redondo Beach,CA,Electra Tiger Shark 3i - 2018,Electra,Cruisers Bicycles,1,899.99,0.07,836.99,Santa Cruz Bikes,Genna Serrano,
+1496,2018-04-06,1,Tameka Fisher,Redondo Beach,CA,Electra Cruiser Lux 7D - 2018,Electra,Cruisers Bicycles,2,479.99,0.05,911.98,Santa Cruz Bikes,Genna Serrano,
+1496,2018-04-06,1,Tameka Fisher,Redondo Beach,CA,Electra Townie Original 1 - 2018,Electra,Comfort Bicycles,1,449.99,0.05,427.49,Santa Cruz Bikes,Genna Serrano,
+1496,2018-04-06,1,Tameka Fisher,Redondo Beach,CA,Electra Delivery 3i - 2016/2017/2018,Electra,Cruisers Bicycles,2,959.99,0.2,1535.98,Santa Cruz Bikes,Genna Serrano,
+1497,2018-04-06,2,Williemae Holloway,Oakland,CA,Trek Stache 5 - 2018,Trek,Mountain Bikes,2,1599.99,0.2,2559.98,Santa Cruz Bikes,Mireya Copeland,
+1497,2018-04-06,2,Williemae Holloway,Oakland,CA,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,2,2999.99,0.1,5399.98,Santa Cruz Bikes,Mireya Copeland,
+1497,2018-04-06,2,Williemae Holloway,Oakland,CA,Trek Super Commuter+ 7 - 2018,Trek,Electric Bikes,2,3599.99,0.07,6695.98,Santa Cruz Bikes,Mireya Copeland,
+1498,2018-04-06,1,Zina Bonner,San Lorenzo,CA,Trek Domane ALR Disc Frameset - 2018,Trek,Road Bikes,1,3199.99,0.05,3039.99,Santa Cruz Bikes,Mireya Copeland,
+1498,2018-04-06,1,Zina Bonner,San Lorenzo,CA,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,2,799.99,0.07,1487.98,Santa Cruz Bikes,Mireya Copeland,
+1499,2018-04-06,2,Luz House,Fresno,CA,Sun Bicycles Drifter 7 - 2017,Sun Bicycles,Comfort Bicycles,1,470.99,0.05,447.44,Santa Cruz Bikes,Mireya Copeland,
+1499,2018-04-06,2,Luz House,Fresno,CA,Trek Crockett 5 Disc - 2018,Trek,Cyclocross Bicycles,1,1799.99,0.07,1673.99,Santa Cruz Bikes,Mireya Copeland,
+1499,2018-04-06,2,Luz House,Fresno,CA,Trek Kickster - 2018,Trek,Children Bicycles,2,159.99,0.05,303.98,Santa Cruz Bikes,Mireya Copeland,
+1499,2018-04-06,2,Luz House,Fresno,CA,Ritchey Timberwolf Frameset - 2016,Ritchey,Mountain Bikes,1,749.99,0.05,712.49,Santa Cruz Bikes,Mireya Copeland,
+1499,2018-04-06,2,Luz House,Fresno,CA,Trek Domane SL 6 - 2018,Trek,Road Bikes,2,3199.99,0.1,5759.98,Santa Cruz Bikes,Mireya Copeland,
+1500,2018-04-06,2,Joesph Delacruz,Atwater,CA,Haro Shift R3 - 2017,Haro,Mountain Bikes,2,1469.99,0.07,2734.18,Santa Cruz Bikes,Genna Serrano,
+1500,2018-04-06,2,Joesph Delacruz,Atwater,CA,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,Electra,Children Bicycles,1,319.99,0.07,297.59,Santa Cruz Bikes,Genna Serrano,
+1501,2018-04-06,1,Tu Ramirez,East Elmhurst,NY,Electra Townie Original 7D EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,1,599.99,0.05,569.99,Baldwin Bikes,Marcelene Boyer,
+1501,2018-04-06,1,Tu Ramirez,East Elmhurst,NY,Electra Moto 3i - 2018,Electra,Cruisers Bicycles,1,639.99,0.07,595.19,Baldwin Bikes,Marcelene Boyer,
+1501,2018-04-06,1,Tu Ramirez,East Elmhurst,NY,Electra Moto 1 - 2016,Electra,Cruisers Bicycles,1,529.99,0.05,503.49,Baldwin Bikes,Marcelene Boyer,
+1501,2018-04-06,1,Tu Ramirez,East Elmhurst,NY,Sun Bicycles Revolutions 24 - Girl's - 2017,Sun Bicycles,Cruisers Bicycles,1,250.99,0.2,200.79,Baldwin Bikes,Marcelene Boyer,
+1501,2018-04-06,1,Tu Ramirez,East Elmhurst,NY,Surly Straggler - 2018,Surly,Cyclocross Bicycles,1,1549.0,0.05,1471.55,Baldwin Bikes,Marcelene Boyer,
+1502,2018-04-06,2,Tiesha Daniel,Scarsdale,NY,Electra Cruiser Lux 3i Ladies' - 2018,Electra,Cruisers Bicycles,2,529.99,0.2,847.98,Baldwin Bikes,Marcelene Boyer,
+1502,2018-04-06,2,Tiesha Daniel,Scarsdale,NY,Pure Cycles William 3-Speed - 2016,Pure Cycles,Cruisers Bicycles,2,449.0,0.07,835.14,Baldwin Bikes,Marcelene Boyer,
+1502,2018-04-06,2,Tiesha Daniel,Scarsdale,NY,Electra Townie Original 7D EQ - 2016,Electra,Comfort Bicycles,2,599.99,0.07,1115.98,Baldwin Bikes,Marcelene Boyer,
+1502,2018-04-06,2,Tiesha Daniel,Scarsdale,NY,Trek Kickster - 2018,Trek,Children Bicycles,1,159.99,0.2,127.99,Baldwin Bikes,Marcelene Boyer,
+1502,2018-04-06,2,Tiesha Daniel,Scarsdale,NY,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,1,899.99,0.07,836.99,Baldwin Bikes,Marcelene Boyer,
+1494,2018-04-05,2,Katelin Kennedy,Rocklin,CA,Electra Cruiser Lux 1 Ladies' - 2018,Electra,Cruisers Bicycles,2,429.99,0.1,773.98,Santa Cruz Bikes,Genna Serrano,
+1494,2018-04-05,2,Katelin Kennedy,Rocklin,CA,Trek Domane AL 2 - 2018,Trek,Road Bikes,2,749.99,0.2,1199.98,Santa Cruz Bikes,Genna Serrano,
+1494,2018-04-05,2,Katelin Kennedy,Rocklin,CA,Strider Sport 16 - 2018,Strider,Children Bicycles,2,249.99,0.05,474.98,Santa Cruz Bikes,Genna Serrano,
+1495,2018-04-05,2,Lissa Vargas,Oswego,NY,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,Electra,Children Bicycles,2,369.99,0.05,702.98,Baldwin Bikes,Venita Daniel,
+1495,2018-04-05,2,Lissa Vargas,Oswego,NY,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Comfort Bicycles,2,749.99,0.2,1199.98,Baldwin Bikes,Venita Daniel,
+1495,2018-04-05,2,Lissa Vargas,Oswego,NY,Heller Shagamaw GX1 - 2018,Heller,Mountain Bikes,1,2599.0,0.1,2339.1,Baldwin Bikes,Venita Daniel,
+1491,2018-04-04,1,Lizzie Joyner,Coachella,CA,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Children Bicycles,2,299.99,0.2,479.98,Santa Cruz Bikes,Genna Serrano,
+1491,2018-04-04,1,Lizzie Joyner,Coachella,CA,Electra Townie Original 1 - 2018,Electra,Comfort Bicycles,1,449.99,0.05,427.49,Santa Cruz Bikes,Genna Serrano,
+1491,2018-04-04,1,Lizzie Joyner,Coachella,CA,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,2,1559.99,0.07,2901.58,Santa Cruz Bikes,Genna Serrano,
+1491,2018-04-04,1,Lizzie Joyner,Coachella,CA,Trek Remedy 7 27.5 - 2018,Trek,Mountain Bikes,2,2999.99,0.07,5579.98,Santa Cruz Bikes,Genna Serrano,
+1492,2018-04-04,1,Kathie Freeman,Queensbury,NY,Haro Flightline One ST - 2017,Haro,Mountain Bikes,2,379.99,0.1,683.98,Baldwin Bikes,Venita Daniel,
+1493,2018-04-04,2,Bobbie Foster,Desoto,TX,Electra Cruiser Lux 1 Ladies' - 2018,Electra,Cruisers Bicycles,1,429.99,0.1,386.99,Rowlett Bikes,Kali Vargas,
+1487,2018-04-03,1,Deloris Burke,Palos Verdes Peninsula,CA,Trek Emonda SLR 6 - 2018,Trek,Road Bikes,1,4499.99,0.07,4184.99,Santa Cruz Bikes,Genna Serrano,
+1487,2018-04-03,1,Deloris Burke,Palos Verdes Peninsula,CA,Trek Domane ALR 4 Disc Women's - 2018,Trek,Road Bikes,2,1549.99,0.2,2479.98,Santa Cruz Bikes,Genna Serrano,
+1487,2018-04-03,1,Deloris Burke,Palos Verdes Peninsula,CA,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,1,2999.99,0.05,2849.99,Santa Cruz Bikes,Genna Serrano,
+1487,2018-04-03,1,Deloris Burke,Palos Verdes Peninsula,CA,Trek Verve+ - 2018,Trek,Electric Bikes,1,2299.99,0.05,2184.99,Santa Cruz Bikes,Genna Serrano,
+1487,2018-04-03,1,Deloris Burke,Palos Verdes Peninsula,CA,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,2,349.99,0.2,559.98,Santa Cruz Bikes,Genna Serrano,
+1488,2018-04-03,2,Olevia Pitts,Redondo Beach,CA,Trek Fuel EX 5 27.5 Plus - 2017,Trek,Mountain Bikes,1,2299.99,0.07,2138.99,Santa Cruz Bikes,Genna Serrano,
+1488,2018-04-03,2,Olevia Pitts,Redondo Beach,CA,Surly Troll Frameset - 2018,Surly,Mountain Bikes,1,2499.99,0.07,2324.99,Santa Cruz Bikes,Genna Serrano,
+1489,2018-04-03,1,Dorine Roberson,Santa Cruz,CA,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,1,2999.99,0.2,2399.99,Santa Cruz Bikes,Genna Serrano,
+1489,2018-04-03,1,Dorine Roberson,Santa Cruz,CA,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,2,279.99,0.2,447.98,Santa Cruz Bikes,Genna Serrano,
+1489,2018-04-03,1,Dorine Roberson,Santa Cruz,CA,Surly Steamroller - 2017,Surly,Road Bikes,1,875.99,0.1,788.39,Santa Cruz Bikes,Genna Serrano,
+1490,2018-04-03,2,Carline Collier,Fresno,CA,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra,Children Bicycles,1,299.99,0.1,269.99,Santa Cruz Bikes,Genna Serrano,
+1490,2018-04-03,2,Carline Collier,Fresno,CA,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Cruisers Bicycles,1,749.99,0.1,674.99,Santa Cruz Bikes,Genna Serrano,
+1490,2018-04-03,2,Carline Collier,Fresno,CA,Electra Cruiser 7D - 2016/2017/2018,Electra,Cruisers Bicycles,1,319.99,0.05,303.99,Santa Cruz Bikes,Genna Serrano,
+1483,2018-04-02,1,Linnie Branch,Plattsburgh,NY,Trek Superfly 24 - 2017/2018,Trek,Children Bicycles,1,489.99,0.05,465.49,Baldwin Bikes,Venita Daniel,
+1483,2018-04-02,1,Linnie Branch,Plattsburgh,NY,Electra Townie Original 21D EQ - 2017/2018,Electra,Cruisers Bicycles,2,679.99,0.07,1264.78,Baldwin Bikes,Venita Daniel,
+1484,2018-04-02,2,Guillermina Noble,Baldwinsville,NY,"Electra Treasure 1 20"" - 2018",Electra,Children Bicycles,2,319.99,0.07,595.18,Baldwin Bikes,Marcelene Boyer,
+1484,2018-04-02,2,Guillermina Noble,Baldwinsville,NY,Trek Domane SL 6 - 2017,Trek,Road Bikes,2,3499.99,0.2,5599.98,Baldwin Bikes,Marcelene Boyer,
+1484,2018-04-02,2,Guillermina Noble,Baldwinsville,NY,Electra Townie Original 21D EQ - 2017/2018,Electra,Comfort Bicycles,2,679.99,0.05,1291.98,Baldwin Bikes,Marcelene Boyer,
+1485,2018-04-02,2,Gertrud Rhodes,Merrick,NY,Surly Troll Frameset - 2018,Surly,Mountain Bikes,2,2499.99,0.2,3999.98,Baldwin Bikes,Venita Daniel,
+1485,2018-04-02,2,Gertrud Rhodes,Merrick,NY,Trek Precaliber 24 (7-Speed) - Boys - 2018,Trek,Children Bicycles,1,319.99,0.2,255.99,Baldwin Bikes,Venita Daniel,
+1486,2018-04-02,2,Armand Whitehead,Lindenhurst,NY,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,2,1559.99,0.05,2963.98,Baldwin Bikes,Venita Daniel,
+1486,2018-04-02,2,Armand Whitehead,Lindenhurst,NY,Electra Straight 8 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,1,489.99,0.05,465.49,Baldwin Bikes,Venita Daniel,
+1486,2018-04-02,2,Armand Whitehead,Lindenhurst,NY,Trek Marlin 5 - 2018,Trek,Mountain Bikes,1,489.99,0.1,440.99,Baldwin Bikes,Venita Daniel,
+1486,2018-04-02,2,Armand Whitehead,Lindenhurst,NY,Trek Precaliber 12 Boy's - 2018,Trek,Children Bicycles,1,199.99,0.1,179.99,Baldwin Bikes,Venita Daniel,
+1479,2018-04-01,2,Kaylee English,Hollis,NY,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,1,2999.99,0.05,2849.99,Baldwin Bikes,Venita Daniel,
+1479,2018-04-01,2,Kaylee English,Hollis,NY,Electra Townie Commute 27D - 2018,Electra,Cruisers Bicycles,1,899.99,0.1,809.99,Baldwin Bikes,Venita Daniel,
+1480,2018-04-01,2,Santos Valencia,Sunnyside,NY,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Comfort Bicycles,2,749.99,0.1,1349.98,Baldwin Bikes,Venita Daniel,
+1480,2018-04-01,2,Santos Valencia,Sunnyside,NY,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,2,659.99,0.1,1187.98,Baldwin Bikes,Venita Daniel,
+1480,2018-04-01,2,Santos Valencia,Sunnyside,NY,Haro Shredder 20 - 2017,Haro,Children Bicycles,2,209.99,0.07,390.58,Baldwin Bikes,Venita Daniel,
+1480,2018-04-01,2,Santos Valencia,Sunnyside,NY,Electra Delivery 3i - 2016/2017/2018,Electra,Cruisers Bicycles,2,959.99,0.07,1785.58,Baldwin Bikes,Venita Daniel,
+1481,2018-04-01,1,Alica Hunter,East Elmhurst,NY,Surly Ogre Frameset - 2017,Surly,Road Bikes,2,749.99,0.07,1394.98,Baldwin Bikes,Marcelene Boyer,
+1481,2018-04-01,1,Alica Hunter,East Elmhurst,NY,Trek Stache Carbon Frameset - 2018,Trek,Mountain Bikes,1,919.99,0.1,827.99,Baldwin Bikes,Marcelene Boyer,
+1482,2018-04-01,1,Sharyn Hopkins,Baldwinsville,NY,Trek Emonda S 4 - 2017,Trek,Road Bikes,1,1499.99,0.1,1349.99,Baldwin Bikes,Venita Daniel,
+1482,2018-04-01,1,Sharyn Hopkins,Baldwinsville,NY,Trek Marlin 5 - 2018,Trek,Mountain Bikes,1,489.99,0.05,465.49,Baldwin Bikes,Venita Daniel,
+1482,2018-04-01,1,Sharyn Hopkins,Baldwinsville,NY,Trek Madone 9.2 - 2017,Trek,Road Bikes,2,4999.99,0.07,9299.98,Baldwin Bikes,Venita Daniel,
+1482,2018-04-01,1,Sharyn Hopkins,Baldwinsville,NY,Trek Fuel EX 9.8 29 - 2017,Trek,Mountain Bikes,1,4999.99,0.05,4749.99,Baldwin Bikes,Venita Daniel,
+1482,2018-04-01,1,Sharyn Hopkins,Baldwinsville,NY,Trek Super Commuter+ 8S - 2018,Trek,Electric Bikes,2,4999.99,0.05,9499.98,Baldwin Bikes,Venita Daniel,
+1476,2018-03-31,4,Guillermina Noble,Baldwinsville,NY,Trek Fuel EX 8 29 XT - 2018,Trek,Mountain Bikes,2,3199.99,0.07,5951.98,Baldwin Bikes,Venita Daniel,2018-04-01
+1476,2018-03-31,4,Guillermina Noble,Baldwinsville,NY,Trek Precaliber 24 (21-Speed) - Girls - 2017,Trek,Children Bicycles,2,349.99,0.07,650.98,Baldwin Bikes,Venita Daniel,2018-04-01
+1476,2018-03-31,4,Guillermina Noble,Baldwinsville,NY,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,1,5299.99,0.07,4928.99,Baldwin Bikes,Venita Daniel,2018-04-01
+1476,2018-03-31,4,Guillermina Noble,Baldwinsville,NY,Electra Loft Go! 8i - 2018,Electra,Electric Bikes,1,2799.99,0.1,2519.99,Baldwin Bikes,Venita Daniel,2018-04-01
+1476,2018-03-31,4,Guillermina Noble,Baldwinsville,NY,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,2,289.99,0.1,521.98,Baldwin Bikes,Venita Daniel,2018-04-01
+1477,2018-03-31,4,Karey Steele,Farmingdale,NY,Surly Straggler - 2018,Surly,Cyclocross Bicycles,2,1549.0,0.2,2478.4,Baldwin Bikes,Marcelene Boyer,2018-04-01
+1478,2018-03-31,4,Cyndi Bush,Elmhurst,NY,Electra Townie 3i EQ (20-inch) - Boys' - 2017,Electra,Children Bicycles,2,489.99,0.1,881.98,Baldwin Bikes,Marcelene Boyer,2018-04-02
+1478,2018-03-31,4,Cyndi Bush,Elmhurst,NY,Trek Farley Carbon Frameset - 2018,Trek,Mountain Bikes,1,999.99,0.2,799.99,Baldwin Bikes,Marcelene Boyer,2018-04-02
+1473,2018-03-30,4,Hayden Cross,Apple Valley,CA,Sun Bicycles Lil Kitt'n - 2017,Sun Bicycles,Children Bicycles,2,109.99,0.2,175.98,Santa Cruz Bikes,Mireya Copeland,2018-04-02
+1473,2018-03-30,4,Hayden Cross,Apple Valley,CA,Electra Townie Original 7D - 2017,Electra,Comfort Bicycles,1,489.99,0.07,455.69,Santa Cruz Bikes,Mireya Copeland,2018-04-02
+1474,2018-03-30,4,Marshall Johnson,Vista,CA,Electra Townie Balloon 7i EQ - 2018,Electra,Comfort Bicycles,1,899.99,0.2,719.99,Santa Cruz Bikes,Genna Serrano,2018-04-02
+1474,2018-03-30,4,Marshall Johnson,Vista,CA,Trek Farley Carbon Frameset - 2018,Trek,Mountain Bikes,1,999.99,0.05,949.99,Santa Cruz Bikes,Genna Serrano,2018-04-02
+1475,2018-03-30,4,Yuk Vega,West Hempstead,NY,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Comfort Bicycles,2,899.99,0.05,1709.98,Baldwin Bikes,Marcelene Boyer,2018-03-31
+1475,2018-03-30,4,Yuk Vega,West Hempstead,NY,Electra Townie Balloon 7i EQ - 2018,Electra,Cruisers Bicycles,2,899.99,0.07,1673.98,Baldwin Bikes,Marcelene Boyer,2018-03-31
+1475,2018-03-30,4,Yuk Vega,West Hempstead,NY,Surly ECR - 2018,Surly,Road Bikes,2,1899.0,0.05,3608.1,Baldwin Bikes,Marcelene Boyer,2018-03-31
+1475,2018-03-30,4,Yuk Vega,West Hempstead,NY,Electra Townie Original 7D EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,2,599.99,0.2,959.98,Baldwin Bikes,Marcelene Boyer,2018-03-31
+1472,2018-03-29,4,Thalia Horne,Amityville,NY,Sun Bicycles Lil Kitt'n - 2017,Sun Bicycles,Children Bicycles,1,109.99,0.2,87.99,Baldwin Bikes,Marcelene Boyer,2018-03-31
+1472,2018-03-29,4,Thalia Horne,Amityville,NY,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,1,799.99,0.2,639.99,Baldwin Bikes,Marcelene Boyer,2018-03-31
+1470,2018-03-28,4,Wilda Petersen,Jamaica,NY,Sun Bicycles Drifter 7 - 2017,Sun Bicycles,Comfort Bicycles,2,470.99,0.1,847.78,Baldwin Bikes,Venita Daniel,2018-03-31
+1470,2018-03-28,4,Wilda Petersen,Jamaica,NY,Electra Straight 8 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,1,279.99,0.05,265.99,Baldwin Bikes,Venita Daniel,2018-03-31
+1470,2018-03-28,4,Wilda Petersen,Jamaica,NY,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,2,2999.99,0.05,5699.98,Baldwin Bikes,Venita Daniel,2018-03-31
+1471,2018-03-28,4,Emanuel Mckee,Schenectady,NY,Trek Domane S 5 Disc - 2017,Trek,Road Bikes,2,2599.99,0.2,4159.98,Baldwin Bikes,Venita Daniel,2018-03-29
+1471,2018-03-28,4,Emanuel Mckee,Schenectady,NY,Trek Procaliber 6 - 2018,Trek,Mountain Bikes,1,1799.99,0.07,1673.99,Baldwin Bikes,Venita Daniel,2018-03-29
+1468,2018-03-27,4,Tameka Fisher,Redondo Beach,CA,Trek Precaliber 12 Boy's - 2018,Trek,Children Bicycles,1,199.99,0.05,189.99,Santa Cruz Bikes,Mireya Copeland,2018-03-29
+1468,2018-03-27,4,Tameka Fisher,Redondo Beach,CA,Trek Madone 9.2 - 2017,Trek,Road Bikes,1,4999.99,0.07,4649.99,Santa Cruz Bikes,Mireya Copeland,2018-03-29
+1468,2018-03-27,4,Tameka Fisher,Redondo Beach,CA,Trek Silque SLR 7 Women's - 2017,Trek,Road Bikes,2,5999.99,0.07,11159.98,Santa Cruz Bikes,Mireya Copeland,2018-03-29
+1469,2018-03-27,4,Alisia Albert,Garland,TX,Electra Glam Punk 3i Ladies' - 2017,Electra,Cruisers Bicycles,2,799.99,0.2,1279.98,Rowlett Bikes,Kali Vargas,2018-03-30
+1469,2018-03-27,4,Alisia Albert,Garland,TX,Electra Relic 3i - 2018,Electra,Cruisers Bicycles,2,849.99,0.05,1614.98,Rowlett Bikes,Kali Vargas,2018-03-30
+1469,2018-03-27,4,Alisia Albert,Garland,TX,Trek Domane SL 5 Disc - 2018,Trek,Road Bikes,1,2499.99,0.07,2324.99,Rowlett Bikes,Kali Vargas,2018-03-30
+1469,2018-03-27,4,Alisia Albert,Garland,TX,Electra Townie 3i EQ (20-inch) - Boys' - 2017,Electra,Children Bicycles,2,489.99,0.05,930.98,Rowlett Bikes,Kali Vargas,2018-03-30
+1466,2018-03-26,4,Fannie Jenkins,Oxnard,CA,Electra Townie Commute 27D Ladies - 2018,Electra,Comfort Bicycles,2,899.99,0.07,1673.98,Santa Cruz Bikes,Genna Serrano,2018-03-28
+1466,2018-03-26,4,Fannie Jenkins,Oxnard,CA,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,1,2999.99,0.05,2849.99,Santa Cruz Bikes,Genna Serrano,2018-03-28
+1466,2018-03-26,4,Fannie Jenkins,Oxnard,CA,Surly Pack Rat - 2018,Surly,Road Bikes,2,1349.0,0.2,2158.4,Santa Cruz Bikes,Genna Serrano,2018-03-28
+1466,2018-03-26,4,Fannie Jenkins,Oxnard,CA,Trek Stache 5 - 2017,Trek,Mountain Bikes,2,1499.99,0.05,2849.98,Santa Cruz Bikes,Genna Serrano,2018-03-28
+1467,2018-03-26,4,Katherina Odom,Plainview,NY,Pure Cycles Western 3-Speed - Women's - 2015/2016,Pure Cycles,Cruisers Bicycles,1,449.0,0.07,417.57,Baldwin Bikes,Venita Daniel,2018-03-29
+1467,2018-03-26,4,Katherina Odom,Plainview,NY,Trek Fuel EX 8 29 - 2018,Trek,Mountain Bikes,1,3199.99,0.2,2559.99,Baldwin Bikes,Venita Daniel,2018-03-29
+1467,2018-03-26,4,Katherina Odom,Plainview,NY,Trek Precaliber 24 21-speed Girl's - 2018,Trek,Children Bicycles,2,369.99,0.1,665.98,Baldwin Bikes,Venita Daniel,2018-03-29
+1465,2018-03-25,4,Cayla Johnson,Coram,NY,Electra Amsterdam Original 3i - 2015/2017,Electra,Cruisers Bicycles,2,659.99,0.05,1253.98,Baldwin Bikes,Venita Daniel,2018-03-28
+1464,2018-03-24,4,Stan Saunders,Canandaigua,NY,Sun Bicycles Cruz 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2,416.99,0.05,792.28,Baldwin Bikes,Venita Daniel,2018-03-25
+1464,2018-03-24,4,Stan Saunders,Canandaigua,NY,Surly Krampus - 2018,Surly,Mountain Bikes,1,1499.0,0.2,1199.2,Baldwin Bikes,Venita Daniel,2018-03-25
+1464,2018-03-24,4,Stan Saunders,Canandaigua,NY,Trek 1120 - 2018,Trek,Road Bikes,2,2499.99,0.2,3999.98,Baldwin Bikes,Venita Daniel,2018-03-25
+1464,2018-03-24,4,Stan Saunders,Canandaigua,NY,Trek Domane ALR 4 Disc Women's - 2018,Trek,Road Bikes,2,1549.99,0.05,2944.98,Baldwin Bikes,Venita Daniel,2018-03-25
+1463,2018-03-23,4,Dorothea Chang,Astoria,NY,Trek Silque SLR 8 Women's - 2017,Trek,Road Bikes,2,6499.99,0.05,12349.98,Baldwin Bikes,Venita Daniel,2018-03-24
+1463,2018-03-23,4,Dorothea Chang,Astoria,NY,Surly Straggler - 2018,Surly,Road Bikes,1,1549.0,0.05,1471.55,Baldwin Bikes,Venita Daniel,2018-03-24
+1461,2018-03-22,4,Wanita Davenport,Spring Valley,NY,Trek Emonda S 4 - 2017,Trek,Road Bikes,1,1499.99,0.2,1199.99,Baldwin Bikes,Marcelene Boyer,2018-03-23
+1461,2018-03-22,4,Wanita Davenport,Spring Valley,NY,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,2,699.99,0.2,1119.98,Baldwin Bikes,Marcelene Boyer,2018-03-23
+1462,2018-03-22,4,Louise Flowers,Depew,NY,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,1,89.99,0.2,71.99,Baldwin Bikes,Marcelene Boyer,2018-03-24
+1462,2018-03-22,4,Louise Flowers,Depew,NY,Electra Townie Original 7D - 2015/2016,Electra,Comfort Bicycles,1,499.99,0.07,464.99,Baldwin Bikes,Marcelene Boyer,2018-03-24
+1462,2018-03-22,4,Louise Flowers,Depew,NY,Electra Cruiser Lux 3i - 2018,Electra,Cruisers Bicycles,1,529.99,0.1,476.99,Baldwin Bikes,Marcelene Boyer,2018-03-24
+1462,2018-03-22,4,Louise Flowers,Depew,NY,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,Electra,Children Bicycles,1,369.99,0.1,332.99,Baldwin Bikes,Marcelene Boyer,2018-03-24
+1462,2018-03-22,4,Louise Flowers,Depew,NY,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,1,2999.99,0.05,2849.99,Baldwin Bikes,Marcelene Boyer,2018-03-24
+1459,2018-03-21,4,Genoveva Baldwin,Port Washington,NY,Electra Amsterdam Royal 8i - 2017/2018,Electra,Cruisers Bicycles,1,1259.9,0.1,1133.91,Baldwin Bikes,Venita Daniel,2018-03-22
+1460,2018-03-21,4,Desmond Rose,Mount Vernon,NY,Trek Powerfly 5 FS - 2018,Trek,Electric Bikes,1,4499.99,0.05,4274.99,Baldwin Bikes,Venita Daniel,2018-03-23
+1460,2018-03-21,4,Desmond Rose,Mount Vernon,NY,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Cruisers Bicycles,1,299.99,0.07,278.99,Baldwin Bikes,Venita Daniel,2018-03-23
+1460,2018-03-21,4,Desmond Rose,Mount Vernon,NY,Surly ECR Frameset - 2018,Surly,Road Bikes,1,749.99,0.05,712.49,Baldwin Bikes,Venita Daniel,2018-03-23
+1460,2018-03-21,4,Desmond Rose,Mount Vernon,NY,Trek Slash 8 27.5 - 2016,Trek,Mountain Bikes,2,3999.99,0.07,7439.98,Baldwin Bikes,Venita Daniel,2018-03-23
+1460,2018-03-21,4,Desmond Rose,Mount Vernon,NY,Trek Farley Carbon Frameset - 2018,Trek,Mountain Bikes,2,999.99,0.07,1859.98,Baldwin Bikes,Venita Daniel,2018-03-23
+1452,2018-03-20,4,Mireille Puckett,Oxnard,CA,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra,Children Bicycles,2,299.99,0.1,539.98,Santa Cruz Bikes,Genna Serrano,2018-03-23
+1452,2018-03-20,4,Mireille Puckett,Oxnard,CA,Electra Daydreamer 3i Ladies' - 2018,Electra,Cruisers Bicycles,1,899.99,0.2,719.99,Santa Cruz Bikes,Genna Serrano,2018-03-23
+1452,2018-03-20,4,Mireille Puckett,Oxnard,CA,Trek Girl's Kickster - 2017,Trek,Children Bicycles,2,149.99,0.05,284.98,Santa Cruz Bikes,Genna Serrano,2018-03-23
+1452,2018-03-20,4,Mireille Puckett,Oxnard,CA,Sun Bicycles Cruz 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2,416.99,0.07,775.6,Santa Cruz Bikes,Genna Serrano,2018-03-23
+1453,2018-03-20,4,Leland Mcdowell,Encino,CA,Trek Precaliber 16 Boys - 2017,Trek,Children Bicycles,2,209.99,0.1,377.98,Santa Cruz Bikes,Genna Serrano,2018-03-22
+1454,2018-03-20,4,Fairy Robinson,Liverpool,NY,Electra Heartchya 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,1,319.99,0.07,297.59,Baldwin Bikes,Marcelene Boyer,2018-03-22
+1454,2018-03-20,4,Fairy Robinson,Liverpool,NY,Sun Bicycles Spider 3i - 2017,Sun Bicycles,Mountain Bikes,2,832.99,0.1,1499.38,Baldwin Bikes,Marcelene Boyer,2018-03-22
+1454,2018-03-20,4,Fairy Robinson,Liverpool,NY,Surly Krampus - 2018,Surly,Mountain Bikes,1,1499.0,0.2,1199.2,Baldwin Bikes,Marcelene Boyer,2018-03-22
+1454,2018-03-20,4,Fairy Robinson,Liverpool,NY,Haro Flightline Two 26 Plus - 2017,Haro,Mountain Bikes,2,549.99,0.05,1044.98,Baldwin Bikes,Marcelene Boyer,2018-03-22
+1455,2018-03-20,4,Greta Page,Commack,NY,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,2,339.99,0.05,645.98,Baldwin Bikes,Marcelene Boyer,2018-03-21
+1455,2018-03-20,4,Greta Page,Commack,NY,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Cruisers Bicycles,1,749.99,0.2,599.99,Baldwin Bikes,Marcelene Boyer,2018-03-21
+1456,2018-03-20,4,Hue May,Valley Stream,NY,Trek Lift+ - 2018,Trek,Electric Bikes,2,2799.99,0.05,5319.98,Baldwin Bikes,Venita Daniel,2018-03-23
+1456,2018-03-20,4,Hue May,Valley Stream,NY,Electra Townie Original 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,1,639.99,0.07,595.19,Baldwin Bikes,Venita Daniel,2018-03-23
+1456,2018-03-20,4,Hue May,Valley Stream,NY,Trek Kickster - 2018,Trek,Children Bicycles,2,159.99,0.1,287.98,Baldwin Bikes,Venita Daniel,2018-03-23
+1456,2018-03-20,4,Hue May,Valley Stream,NY,Trek Precaliber 20 6-speed Boy's - 2018,Trek,Children Bicycles,1,289.99,0.1,260.99,Baldwin Bikes,Venita Daniel,2018-03-23
+1456,2018-03-20,4,Hue May,Valley Stream,NY,Surly Big Fat Dummy Frameset - 2018,Surly,Mountain Bikes,1,469.99,0.1,422.99,Baldwin Bikes,Venita Daniel,2018-03-23
+1457,2018-03-20,4,Shanda Stevenson,Freeport,NY,Trek Marlin 5 - 2018,Trek,Mountain Bikes,1,489.99,0.07,455.69,Baldwin Bikes,Marcelene Boyer,2018-03-23
+1457,2018-03-20,4,Shanda Stevenson,Freeport,NY,Sun Bicycles Drifter 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,1,470.99,0.2,376.79,Baldwin Bikes,Marcelene Boyer,2018-03-23
+1457,2018-03-20,4,Shanda Stevenson,Freeport,NY,Trek Kickster - 2018,Trek,Children Bicycles,1,159.99,0.2,127.99,Baldwin Bikes,Marcelene Boyer,2018-03-23
+1457,2018-03-20,4,Shanda Stevenson,Freeport,NY,Trek Domane SL 5 Disc Women's - 2018,Trek,Road Bikes,2,2499.99,0.2,3999.98,Baldwin Bikes,Marcelene Boyer,2018-03-23
+1458,2018-03-20,4,Ping Quinn,Rowlett,TX,"Electra Treasure 1 20"" - 2018",Electra,Children Bicycles,2,319.99,0.05,607.98,Rowlett Bikes,Kali Vargas,2018-03-21
+1458,2018-03-20,4,Ping Quinn,Rowlett,TX,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,1,533.99,0.05,507.29,Rowlett Bikes,Kali Vargas,2018-03-21
+1458,2018-03-20,4,Ping Quinn,Rowlett,TX,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,1,549.99,0.05,522.49,Rowlett Bikes,Kali Vargas,2018-03-21
+1458,2018-03-20,4,Ping Quinn,Rowlett,TX,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2,647.99,0.1,1166.38,Rowlett Bikes,Kali Vargas,2018-03-21
+1450,2018-03-19,4,Sophia Mcmillan,Uniondale,NY,Electra Straight 8 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,1,489.99,0.07,455.69,Baldwin Bikes,Venita Daniel,2018-03-22
+1450,2018-03-19,4,Sophia Mcmillan,Uniondale,NY,Trek Domane ALR Frameset - 2018,Trek,Road Bikes,2,3199.99,0.1,5759.98,Baldwin Bikes,Venita Daniel,2018-03-22
+1450,2018-03-19,4,Sophia Mcmillan,Uniondale,NY,Electra Townie Original 21D - 2018,Electra,Comfort Bicycles,1,559.99,0.2,447.99,Baldwin Bikes,Venita Daniel,2018-03-22
+1450,2018-03-19,4,Sophia Mcmillan,Uniondale,NY,Trek Crockett 7 Disc - 2018,Trek,Cyclocross Bicycles,2,2999.99,0.1,5399.98,Baldwin Bikes,Venita Daniel,2018-03-22
+1450,2018-03-19,4,Sophia Mcmillan,Uniondale,NY,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,2,899.99,0.05,1709.98,Baldwin Bikes,Venita Daniel,2018-03-22
+1451,2018-03-19,4,Kristy Watkins,Howard Beach,NY,Trek Ticket S Frame - 2018,Trek,Mountain Bikes,1,1469.99,0.05,1396.49,Baldwin Bikes,Marcelene Boyer,2018-03-20
+1447,2018-03-18,4,Lurlene Cotton,Pleasanton,CA,Trek Domane SL 8 Disc - 2018,Trek,Road Bikes,1,5499.99,0.2,4399.99,Santa Cruz Bikes,Genna Serrano,2018-03-20
+1448,2018-03-18,4,Whitney Estes,Brentwood,NY,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Cruisers Bicycles,1,749.99,0.1,674.99,Baldwin Bikes,Marcelene Boyer,2018-03-21
+1449,2018-03-18,4,Sheba Knapp,Woodside,NY,Trek Emonda ALR 6 - 2018,Trek,Road Bikes,1,2299.99,0.07,2138.99,Baldwin Bikes,Venita Daniel,2018-03-20
+1449,2018-03-18,4,Sheba Knapp,Woodside,NY,Trek Domane S 6 - 2017,Trek,Road Bikes,1,2699.99,0.2,2159.99,Baldwin Bikes,Venita Daniel,2018-03-20
+1449,2018-03-18,4,Sheba Knapp,Woodside,NY,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,2,799.99,0.07,1487.98,Baldwin Bikes,Venita Daniel,2018-03-20
+1449,2018-03-18,4,Sheba Knapp,Woodside,NY,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,2,2999.99,0.05,5699.98,Baldwin Bikes,Venita Daniel,2018-03-20
+1449,2018-03-18,4,Sheba Knapp,Woodside,NY,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,2,269.99,0.1,485.98,Baldwin Bikes,Venita Daniel,2018-03-20
+1445,2018-03-17,4,Reita Dickson,Scarsdale,NY,Electra Moto 3i - 2018,Electra,Cruisers Bicycles,2,639.99,0.1,1151.98,Baldwin Bikes,Venita Daniel,2018-03-20
+1445,2018-03-17,4,Reita Dickson,Scarsdale,NY,Surly Steamroller - 2017,Surly,Road Bikes,1,875.99,0.07,814.67,Baldwin Bikes,Venita Daniel,2018-03-20
+1445,2018-03-17,4,Reita Dickson,Scarsdale,NY,Trek Farley Carbon Frameset - 2018,Trek,Mountain Bikes,2,999.99,0.1,1799.98,Baldwin Bikes,Venita Daniel,2018-03-20
+1446,2018-03-17,4,Sandy Mills,Schenectady,NY,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Cruisers Bicycles,1,319.99,0.05,303.99,Baldwin Bikes,Marcelene Boyer,2018-03-18
+1446,2018-03-17,4,Sandy Mills,Schenectady,NY,Electra Cruiser Lux Fat Tire 7D - 2018,Electra,Cruisers Bicycles,2,639.99,0.05,1215.98,Baldwin Bikes,Marcelene Boyer,2018-03-18
+1446,2018-03-17,4,Sandy Mills,Schenectady,NY,Electra Daydreamer 3i Ladies' - 2018,Electra,Cruisers Bicycles,2,899.99,0.05,1709.98,Baldwin Bikes,Marcelene Boyer,2018-03-18
+1442,2018-03-16,4,Emmett Hahn,Freeport,NY,Trek Emonda SLR 6 - 2018,Trek,Road Bikes,1,4499.99,0.1,4049.99,Baldwin Bikes,Venita Daniel,2018-03-17
+1442,2018-03-16,4,Emmett Hahn,Freeport,NY,Electra Cruiser 1 Ladies' - 2018,Electra,Cruisers Bicycles,1,269.99,0.07,251.09,Baldwin Bikes,Venita Daniel,2018-03-17
+1442,2018-03-16,4,Emmett Hahn,Freeport,NY,Trek Precaliber 16 Girl's - 2018,Trek,Children Bicycles,2,209.99,0.05,398.98,Baldwin Bikes,Venita Daniel,2018-03-17
+1443,2018-03-16,4,Damian Mills,Long Beach,NY,Trek Emonda SLR 6 - 2018,Trek,Road Bikes,1,4499.99,0.07,4184.99,Baldwin Bikes,Venita Daniel,2018-03-17
+1443,2018-03-16,4,Damian Mills,Long Beach,NY,Trek Emonda S 5 - 2017,Trek,Road Bikes,1,1999.99,0.2,1599.99,Baldwin Bikes,Venita Daniel,2018-03-17
+1443,2018-03-16,4,Damian Mills,Long Beach,NY,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,2,339.99,0.1,611.98,Baldwin Bikes,Venita Daniel,2018-03-17
+1444,2018-03-16,4,Barry Albert,Auburn,NY,Trek Precaliber 16 Girls - 2017,Trek,Children Bicycles,1,209.99,0.1,188.99,Baldwin Bikes,Marcelene Boyer,2018-03-19
+1444,2018-03-16,4,Barry Albert,Auburn,NY,Surly ECR 27.5 - 2018,Surly,Mountain Bikes,2,1899.0,0.2,3038.4,Baldwin Bikes,Marcelene Boyer,2018-03-19
+1437,2018-03-15,4,Homer Powers,Palos Verdes Peninsula,CA,Trek Stache 5 - 2018,Trek,Mountain Bikes,2,1599.99,0.05,3039.98,Santa Cruz Bikes,Mireya Copeland,2018-03-16
+1438,2018-03-15,4,Dortha Jarvis,Oceanside,NY,Electra Delivery 3i - 2016/2017/2018,Electra,Cruisers Bicycles,1,959.99,0.2,767.99,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1438,2018-03-15,4,Dortha Jarvis,Oceanside,NY,Trek Remedy 9.8 27.5 - 2018,Trek,Mountain Bikes,1,4999.99,0.2,3999.99,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1438,2018-03-15,4,Dortha Jarvis,Oceanside,NY,Electra Amsterdam Fashion 7i Ladies' - 2017,Electra,Cruisers Bicycles,2,1099.99,0.05,2089.98,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1438,2018-03-15,4,Dortha Jarvis,Oceanside,NY,Heller Shagamaw GX1 - 2018,Heller,Mountain Bikes,1,2599.0,0.1,2339.1,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1438,2018-03-15,4,Dortha Jarvis,Oceanside,NY,Trek Dual Sport+ - 2018,Trek,Electric Bikes,2,2799.99,0.07,5207.98,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1439,2018-03-15,4,Jerlene Rios,Plainview,NY,Trek Fuel EX 5 27.5 Plus - 2017,Trek,Mountain Bikes,1,2299.99,0.07,2138.99,Baldwin Bikes,Venita Daniel,2018-03-17
+1439,2018-03-15,4,Jerlene Rios,Plainview,NY,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,1,89.99,0.2,71.99,Baldwin Bikes,Venita Daniel,2018-03-17
+1439,2018-03-15,4,Jerlene Rios,Plainview,NY,Electra Townie Original 7D - 2017,Electra,Comfort Bicycles,2,489.99,0.05,930.98,Baldwin Bikes,Venita Daniel,2018-03-17
+1439,2018-03-15,4,Jerlene Rios,Plainview,NY,Trek Domane SLR 8 Disc - 2018,Trek,Road Bikes,1,7499.99,0.05,7124.99,Baldwin Bikes,Venita Daniel,2018-03-17
+1440,2018-03-15,4,Julianne Shannon,Sugar Land,TX,Trek Marlin 7 - 2017/2018,Trek,Mountain Bikes,2,749.99,0.07,1394.98,Rowlett Bikes,Kali Vargas,2018-03-16
+1440,2018-03-15,4,Julianne Shannon,Sugar Land,TX,Sun Bicycles Cruz 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,1,416.99,0.07,387.8,Rowlett Bikes,Kali Vargas,2018-03-16
+1440,2018-03-15,4,Julianne Shannon,Sugar Land,TX,Trek CrossRip+ - 2018,Trek,Electric Bikes,1,4499.99,0.1,4049.99,Rowlett Bikes,Kali Vargas,2018-03-16
+1440,2018-03-15,4,Julianne Shannon,Sugar Land,TX,Trek Domane AL 2 - 2018,Trek,Road Bikes,2,749.99,0.05,1424.98,Rowlett Bikes,Kali Vargas,2018-03-16
+1440,2018-03-15,4,Julianne Shannon,Sugar Land,TX,Sun Bicycles Revolutions 24 - Girl's - 2017,Sun Bicycles,Cruisers Bicycles,2,250.99,0.2,401.58,Rowlett Bikes,Kali Vargas,2018-03-16
+1441,2018-03-15,4,Orval Hunter,San Angelo,TX,Surly Ice Cream Truck Frameset - 2016,Surly,Mountain Bikes,1,469.99,0.05,446.49,Rowlett Bikes,Kali Vargas,2018-03-18
+1441,2018-03-15,4,Orval Hunter,San Angelo,TX,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,2,699.99,0.2,1119.98,Rowlett Bikes,Kali Vargas,2018-03-18
+1441,2018-03-15,4,Orval Hunter,San Angelo,TX,Haro SR 1.3 - 2017,Haro,Mountain Bikes,1,1409.99,0.07,1311.29,Rowlett Bikes,Kali Vargas,2018-03-18
+1434,2018-03-14,4,Frederica Rojas,Ithaca,NY,Electra Cruiser Lux 1 - 2016/2018,Electra,Cruisers Bicycles,2,429.99,0.2,687.98,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1434,2018-03-14,4,Frederica Rojas,Ithaca,NY,Electra Townie Commute Go! - 2018,Electra,Electric Bikes,1,2999.99,0.1,2699.99,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1434,2018-03-14,4,Frederica Rojas,Ithaca,NY,"Electra Starship 1 16"" - 2018",Electra,Children Bicycles,2,279.99,0.1,503.98,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1434,2018-03-14,4,Frederica Rojas,Ithaca,NY,Trek Powerfly 8 FS Plus - 2017,Trek,Electric Bikes,2,4999.99,0.07,9299.98,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1435,2018-03-14,4,Laurel Schultz,Mount Vernon,NY,Trek Stache 5 - 2018,Trek,Mountain Bikes,2,1599.99,0.07,2975.98,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1435,2018-03-14,4,Laurel Schultz,Mount Vernon,NY,Trek X-Caliber 8 - 2017,Trek,Mountain Bikes,1,999.99,0.2,799.99,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1435,2018-03-14,4,Laurel Schultz,Mount Vernon,NY,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,1,1559.99,0.1,1403.99,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1435,2018-03-14,4,Laurel Schultz,Mount Vernon,NY,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Cruisers Bicycles,1,799.99,0.07,743.99,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1436,2018-03-14,4,Zenia Bruce,Rosedale,NY,Electra Townie Original 21D Ladies' - 2018,Electra,Cruisers Bicycles,2,559.99,0.07,1041.58,Baldwin Bikes,Marcelene Boyer,2018-03-16
+1431,2018-03-11,4,Mazie Fernandez,Webster,NY,Trek Boone 7 Disc - 2018,Trek,Cyclocross Bicycles,1,3999.99,0.1,3599.99,Baldwin Bikes,Marcelene Boyer,2018-03-14
+1431,2018-03-11,4,Mazie Fernandez,Webster,NY,Surly Ogre Frameset - 2017,Surly,Road Bikes,1,749.99,0.07,697.49,Baldwin Bikes,Marcelene Boyer,2018-03-14
+1431,2018-03-11,4,Mazie Fernandez,Webster,NY,Electra Townie Commute Go! Ladies' - 2018,Electra,Cruisers Bicycles,1,2999.99,0.2,2399.99,Baldwin Bikes,Marcelene Boyer,2018-03-14
+1431,2018-03-11,4,Mazie Fernandez,Webster,NY,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Cruisers Bicycles,1,749.99,0.07,697.49,Baldwin Bikes,Marcelene Boyer,2018-03-14
+1432,2018-03-11,4,Gayla Sims,Lindenhurst,NY,Surly ECR - 2018,Surly,Road Bikes,1,1899.0,0.2,1519.2,Baldwin Bikes,Marcelene Boyer,2018-03-14
+1433,2018-03-11,4,Britteny Schroeder,Pittsford,NY,Strider Sport 16 - 2018,Strider,Children Bicycles,1,249.99,0.07,232.49,Baldwin Bikes,Venita Daniel,2018-03-12
+1430,2018-03-10,4,Tara Maynard,Lindenhurst,NY,Electra Cruiser 7D Ladies' - 2016/2018,Electra,Cruisers Bicycles,1,319.99,0.05,303.99,Baldwin Bikes,Venita Daniel,2018-03-11
+1430,2018-03-10,4,Tara Maynard,Lindenhurst,NY,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Children Bicycles,1,319.99,0.07,297.59,Baldwin Bikes,Venita Daniel,2018-03-11
+1428,2018-03-08,4,Addie Hahn,Franklin Square,NY,Electra Super Moto 8i - 2018,Electra,Cruisers Bicycles,2,899.99,0.2,1439.98,Baldwin Bikes,Venita Daniel,2018-03-11
+1428,2018-03-08,4,Addie Hahn,Franklin Square,NY,Surly Big Fat Dummy Frameset - 2018,Surly,Mountain Bikes,1,469.99,0.07,437.09,Baldwin Bikes,Venita Daniel,2018-03-11
+1428,2018-03-08,4,Addie Hahn,Franklin Square,NY,Trek Neko+ - 2018,Trek,Electric Bikes,2,2799.99,0.07,5207.98,Baldwin Bikes,Venita Daniel,2018-03-11
+1428,2018-03-08,4,Addie Hahn,Franklin Square,NY,Surly Karate Monkey 27.5+ Frameset - 2017,Surly,Mountain Bikes,1,2499.99,0.1,2249.99,Baldwin Bikes,Venita Daniel,2018-03-11
+1428,2018-03-08,4,Addie Hahn,Franklin Square,NY,Trek XM700+ - 2018,Trek,Electric Bikes,2,3499.99,0.2,5599.98,Baldwin Bikes,Venita Daniel,2018-03-11
+1429,2018-03-08,4,Patria Harper,Astoria,NY,Electra Amsterdam Original 3i - 2015/2017,Electra,Cruisers Bicycles,2,659.99,0.2,1055.98,Baldwin Bikes,Marcelene Boyer,2018-03-09
+1424,2018-03-07,4,Ester Acevedo,San Lorenzo,CA,Trek Remedy 9.8 27.5 - 2018,Trek,Mountain Bikes,2,4999.99,0.2,7999.98,Santa Cruz Bikes,Mireya Copeland,2018-03-10
+1425,2018-03-07,4,Lavina Dejesus,Newburgh,NY,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Cruisers Bicycles,2,319.99,0.05,607.98,Baldwin Bikes,Marcelene Boyer,2018-03-09
+1425,2018-03-07,4,Lavina Dejesus,Newburgh,NY,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,1,89.99,0.07,83.69,Baldwin Bikes,Marcelene Boyer,2018-03-09
+1425,2018-03-07,4,Lavina Dejesus,Newburgh,NY,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,1,209.99,0.07,195.29,Baldwin Bikes,Marcelene Boyer,2018-03-09
+1425,2018-03-07,4,Lavina Dejesus,Newburgh,NY,Trek Domane SL Disc Frameset - 2017,Trek,Road Bikes,2,3199.99,0.05,6079.98,Baldwin Bikes,Marcelene Boyer,2018-03-09
+1425,2018-03-07,4,Lavina Dejesus,Newburgh,NY,Trek Domane ALR 5 Disc - 2018,Trek,Road Bikes,2,1799.99,0.07,3347.98,Baldwin Bikes,Marcelene Boyer,2018-03-09
+1426,2018-03-07,4,Emory O'connor,Rochester,NY,Electra Queen of Hearts 3i - 2018,Electra,Cruisers Bicycles,1,749.99,0.07,697.49,Baldwin Bikes,Marcelene Boyer,2018-03-10
+1426,2018-03-07,4,Emory O'connor,Rochester,NY,Electra Townie Original 7D EQ - Women's - 2016,Electra,Cruisers Bicycles,2,599.99,0.05,1139.98,Baldwin Bikes,Marcelene Boyer,2018-03-10
+1426,2018-03-07,4,Emory O'connor,Rochester,NY,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Children Bicycles,1,319.99,0.07,297.59,Baldwin Bikes,Marcelene Boyer,2018-03-10
+1427,2018-03-07,4,Latoya Johns,Ballston Spa,NY,Electra Cruiser Lux 1 Ladies' - 2018,Electra,Cruisers Bicycles,2,429.99,0.07,799.78,Baldwin Bikes,Marcelene Boyer,2018-03-08
+1427,2018-03-07,4,Latoya Johns,Ballston Spa,NY,Trek Remedy 7 27.5 - 2018,Trek,Mountain Bikes,1,2999.99,0.05,2849.99,Baldwin Bikes,Marcelene Boyer,2018-03-08
+1427,2018-03-07,4,Latoya Johns,Ballston Spa,NY,Surly Straggler 650b - 2018,Surly,Road Bikes,2,1549.0,0.07,2881.14,Baldwin Bikes,Marcelene Boyer,2018-03-08
+1423,2018-03-06,4,Selene Vega,Campbell,CA,Electra White Water 3i - 2018,Electra,Cruisers Bicycles,1,749.99,0.2,599.99,Santa Cruz Bikes,Mireya Copeland,2018-03-07
+1423,2018-03-06,4,Selene Vega,Campbell,CA,Sun Bicycles Atlas X-Type - 2017,Sun Bicycles,Cruisers Bicycles,1,416.99,0.1,375.29,Santa Cruz Bikes,Mireya Copeland,2018-03-07
+1423,2018-03-06,4,Selene Vega,Campbell,CA,Electra Townie Original 1 - 2018,Electra,Comfort Bicycles,1,449.99,0.2,359.99,Santa Cruz Bikes,Mireya Copeland,2018-03-07
+1423,2018-03-06,4,Selene Vega,Campbell,CA,Trek Marlin 5 - 2018,Trek,Mountain Bikes,2,489.99,0.2,783.98,Santa Cruz Bikes,Mireya Copeland,2018-03-07
+1421,2018-03-05,4,Sheree Blanchard,Queensbury,NY,Electra Water Lily 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,2,279.99,0.05,531.98,Baldwin Bikes,Venita Daniel,2018-03-07
+1422,2018-03-05,4,Jonell Rivas,Amarillo,TX,Sun Bicycles Brickell Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2,761.99,0.07,1417.3,Rowlett Bikes,Kali Vargas,2018-03-08
+1422,2018-03-05,4,Jonell Rivas,Amarillo,TX,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,2,919.99,0.2,1471.98,Rowlett Bikes,Kali Vargas,2018-03-08
+1422,2018-03-05,4,Jonell Rivas,Amarillo,TX,Electra Townie Original 21D EQ Ladies' - 2018,Electra,Cruisers Bicycles,1,679.99,0.05,645.99,Rowlett Bikes,Kali Vargas,2018-03-08
+1417,2018-03-04,4,Rayford Simon,Mountain View,CA,Electra Moto 3i - 2018,Electra,Cruisers Bicycles,2,639.99,0.2,1023.98,Santa Cruz Bikes,Mireya Copeland,2018-03-07
+1418,2018-03-04,4,Bev Chang,Ithaca,NY,Trek Fuel EX 7 29 - 2018,Trek,Mountain Bikes,2,2499.99,0.2,3999.98,Baldwin Bikes,Marcelene Boyer,2018-03-07
+1418,2018-03-04,4,Bev Chang,Ithaca,NY,Electra Townie Original 21D EQ Ladies' - 2018,Electra,Cruisers Bicycles,2,679.99,0.05,1291.98,Baldwin Bikes,Marcelene Boyer,2018-03-07
+1419,2018-03-04,4,Lavern Orr,Webster,NY,Surly Krampus - 2018,Surly,Mountain Bikes,1,1499.0,0.07,1394.07,Baldwin Bikes,Marcelene Boyer,2018-03-07
+1419,2018-03-04,4,Lavern Orr,Webster,NY,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,2,899.99,0.2,1439.98,Baldwin Bikes,Marcelene Boyer,2018-03-07
+1419,2018-03-04,4,Lavern Orr,Webster,NY,Electra Daydreamer 3i Ladies' - 2018,Electra,Cruisers Bicycles,1,899.99,0.1,809.99,Baldwin Bikes,Marcelene Boyer,2018-03-07
+1420,2018-03-04,4,Erna Sloan,Howard Beach,NY,Trek Verve+ Lowstep - 2018,Trek,Electric Bikes,1,2299.99,0.2,1839.99,Baldwin Bikes,Venita Daniel,2018-03-07
+1420,2018-03-04,4,Erna Sloan,Howard Beach,NY,Trek XM700+ - 2018,Trek,Electric Bikes,2,3499.99,0.1,6299.98,Baldwin Bikes,Venita Daniel,2018-03-07
+1420,2018-03-04,4,Erna Sloan,Howard Beach,NY,Surly ECR 27.5 - 2018,Surly,Mountain Bikes,1,1899.0,0.1,1709.1,Baldwin Bikes,Venita Daniel,2018-03-07
+1414,2018-03-03,4,Tiny French,Plainview,NY,Trek Emonda SL 6 Disc - 2018,Trek,Road Bikes,2,2999.99,0.1,5399.98,Baldwin Bikes,Venita Daniel,2018-03-06
+1414,2018-03-03,4,Tiny French,Plainview,NY,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,Electra,Children Bicycles,2,369.99,0.05,702.98,Baldwin Bikes,Venita Daniel,2018-03-06
+1415,2018-03-03,4,Carolann Russell,Glen Cove,NY,Surly Wednesday - 2017,Surly,Mountain Bikes,2,1632.99,0.07,3037.36,Baldwin Bikes,Venita Daniel,2018-03-05
+1415,2018-03-03,4,Carolann Russell,Glen Cove,NY,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,1,429.0,0.05,407.55,Baldwin Bikes,Venita Daniel,2018-03-05
+1415,2018-03-03,4,Carolann Russell,Glen Cove,NY,Strider Sport 16 - 2018,Strider,Children Bicycles,2,249.99,0.1,449.98,Baldwin Bikes,Venita Daniel,2018-03-05
+1415,2018-03-03,4,Carolann Russell,Glen Cove,NY,Electra Townie Original 3i EQ - 2017/2018,Electra,Cruisers Bicycles,1,659.99,0.05,626.99,Baldwin Bikes,Venita Daniel,2018-03-05
+1416,2018-03-03,4,Cinthia Poole,Lake Jackson,TX,Trek XM700+ - 2018,Trek,Electric Bikes,1,3499.99,0.2,2799.99,Rowlett Bikes,Kali Vargas,2018-03-06
+1416,2018-03-03,4,Cinthia Poole,Lake Jackson,TX,Electra Townie Commute 8D Ladies' - 2018,Electra,Cruisers Bicycles,2,699.99,0.1,1259.98,Rowlett Bikes,Kali Vargas,2018-03-06
+1416,2018-03-03,4,Cinthia Poole,Lake Jackson,TX,Haro Shredder 20 - 2017,Haro,Children Bicycles,2,209.99,0.05,398.98,Rowlett Bikes,Kali Vargas,2018-03-06
+1411,2018-03-01,4,Monica Sears,San Jose,CA,Trek Conduit+ - 2016,Trek,Electric Bikes,1,2999.99,0.1,2699.99,Santa Cruz Bikes,Mireya Copeland,2018-03-02
+1411,2018-03-01,4,Monica Sears,San Jose,CA,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,Electra,Comfort Bicycles,2,749.99,0.2,1199.98,Santa Cruz Bikes,Mireya Copeland,2018-03-02
+1412,2018-03-01,4,Diane Jones,Fresh Meadows,NY,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,2,919.99,0.07,1711.18,Baldwin Bikes,Venita Daniel,2018-03-04
+1412,2018-03-01,4,Diane Jones,Fresh Meadows,NY,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,1,5299.99,0.1,4769.99,Baldwin Bikes,Venita Daniel,2018-03-04
+1412,2018-03-01,4,Diane Jones,Fresh Meadows,NY,Sun Bicycles Cruz 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,2,416.99,0.07,775.6,Baldwin Bikes,Venita Daniel,2018-03-04
+1413,2018-03-01,4,Lolita Mosley,Houston,TX,"Electra Under-The-Sea 1 16"" - 2018",Electra,Children Bicycles,2,279.99,0.05,531.98,Rowlett Bikes,Kali Vargas,2018-03-04
+1410,2018-02-27,4,Ruthanne Franco,Astoria,NY,Trek Super Commuter+ 8S - 2018,Trek,Electric Bikes,2,4999.99,0.1,8999.98,Baldwin Bikes,Venita Daniel,2018-02-28
+1410,2018-02-27,4,Ruthanne Franco,Astoria,NY,Trek Powerfly 7 FS - 2018,Trek,Electric Bikes,2,4999.99,0.2,7999.98,Baldwin Bikes,Venita Daniel,2018-02-28
+1410,2018-02-27,4,Ruthanne Franco,Astoria,NY,Electra Townie Original 21D EQ - 2017/2018,Electra,Comfort Bicycles,1,679.99,0.1,611.99,Baldwin Bikes,Venita Daniel,2018-02-28
+1407,2018-02-26,3,Georgetta Hardin,Canandaigua,NY,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,1,799.99,0.05,759.99,Baldwin Bikes,Marcelene Boyer,
+1407,2018-02-26,3,Georgetta Hardin,Canandaigua,NY,Surly Troll Frameset - 2017,Surly,Mountain Bikes,2,832.99,0.1,1499.38,Baldwin Bikes,Marcelene Boyer,
+1407,2018-02-26,3,Georgetta Hardin,Canandaigua,NY,Trek Superfly 20 - 2018,Trek,Children Bicycles,1,399.99,0.1,359.99,Baldwin Bikes,Marcelene Boyer,
+1407,2018-02-26,3,Georgetta Hardin,Canandaigua,NY,Sun Bicycles Spider 3i - 2017,Sun Bicycles,Mountain Bikes,1,832.99,0.2,666.39,Baldwin Bikes,Marcelene Boyer,
+1408,2018-02-26,4,Katherin Clark,Pittsford,NY,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,Electra,Children Bicycles,2,299.99,0.2,479.98,Baldwin Bikes,Marcelene Boyer,2018-03-01
+1408,2018-02-26,4,Katherin Clark,Pittsford,NY,Trek Domane AL 2 Women's - 2018,Trek,Road Bikes,1,749.99,0.2,599.99,Baldwin Bikes,Marcelene Boyer,2018-03-01
+1408,2018-02-26,4,Katherin Clark,Pittsford,NY,Trek Marlin 6 - 2018,Trek,Mountain Bikes,1,579.99,0.07,539.39,Baldwin Bikes,Marcelene Boyer,2018-03-01
+1408,2018-02-26,4,Katherin Clark,Pittsford,NY,Heller Shagamaw GX1 - 2018,Heller,Mountain Bikes,2,2599.0,0.2,4158.4,Baldwin Bikes,Marcelene Boyer,2018-03-01
+1409,2018-02-26,4,Tobie Little,Victoria,TX,Electra Townie Balloon 7i EQ - 2018,Electra,Comfort Bicycles,2,899.99,0.07,1673.98,Rowlett Bikes,Kali Vargas,2018-02-28
+1409,2018-02-26,4,Tobie Little,Victoria,TX,Trek CrossRip 2 - 2018,Trek,Road Bikes,1,1299.99,0.07,1208.99,Rowlett Bikes,Kali Vargas,2018-02-28
+1409,2018-02-26,4,Tobie Little,Victoria,TX,Trek Domane SL 6 - 2018,Trek,Road Bikes,2,3199.99,0.05,6079.98,Rowlett Bikes,Kali Vargas,2018-02-28
+1409,2018-02-26,4,Tobie Little,Victoria,TX,Strider Strider 20 Sport - 2018,Strider,Children Bicycles,1,289.99,0.05,275.49,Rowlett Bikes,Kali Vargas,2018-02-28
+1409,2018-02-26,4,Tobie Little,Victoria,TX,Electra Cruiser 1 Tall - 2016/2018,Electra,Cruisers Bicycles,1,269.99,0.1,242.99,Rowlett Bikes,Kali Vargas,2018-02-28
+1405,2018-02-25,4,Kellie Franco,Commack,NY,Trek Emonda SL 6 Disc - 2018,Trek,Road Bikes,2,2999.99,0.1,5399.98,Baldwin Bikes,Marcelene Boyer,2018-02-27
+1406,2018-02-25,4,Parthenia Figueroa,Mahopac,NY,Electra Cruiser Lux 1 Ladies' - 2018,Electra,Cruisers Bicycles,2,429.99,0.05,816.98,Baldwin Bikes,Venita Daniel,2018-02-27
+1406,2018-02-25,4,Parthenia Figueroa,Mahopac,NY,Trek Marlin 5 - 2018,Trek,Mountain Bikes,1,489.99,0.1,440.99,Baldwin Bikes,Venita Daniel,2018-02-27
+1404,2018-02-23,4,Bella Perez,Duarte,CA,Trek 820 - 2018,Trek,Mountain Bikes,2,379.99,0.05,721.98,Santa Cruz Bikes,Genna Serrano,2018-02-24
+1404,2018-02-23,4,Bella Perez,Duarte,CA,Electra Cruiser 1 Ladies' - 2018,Electra,Cruisers Bicycles,1,269.99,0.1,242.99,Santa Cruz Bikes,Genna Serrano,2018-02-24
+1404,2018-02-23,4,Bella Perez,Duarte,CA,Trek Lift+ - 2018,Trek,Electric Bikes,2,2799.99,0.2,4479.98,Santa Cruz Bikes,Genna Serrano,2018-02-24
+1403,2018-02-21,4,Cassandra Nichols,Hicksville,NY,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,2,209.99,0.1,377.98,Baldwin Bikes,Venita Daniel,2018-02-22
+1402,2018-02-19,4,Earlean Pena,Rome,NY,Trek Lift+ Lowstep - 2018,Trek,Electric Bikes,2,2799.99,0.2,4479.98,Baldwin Bikes,Marcelene Boyer,2018-02-21
+1402,2018-02-19,4,Earlean Pena,Rome,NY,Surly Karate Monkey 27.5+ Frameset - 2017,Surly,Mountain Bikes,2,2499.99,0.05,4749.98,Baldwin Bikes,Marcelene Boyer,2018-02-21
+1402,2018-02-19,4,Earlean Pena,Rome,NY,Trek Powerfly 7 FS - 2018,Trek,Electric Bikes,1,4999.99,0.05,4749.99,Baldwin Bikes,Marcelene Boyer,2018-02-21
+1402,2018-02-19,4,Earlean Pena,Rome,NY,Trek Precaliber 20 6-speed Girl's - 2018,Trek,Children Bicycles,1,289.99,0.07,269.69,Baldwin Bikes,Marcelene Boyer,2018-02-21
+1401,2018-02-18,4,Linnie Branch,Plattsburgh,NY,Trek 820 - 2018,Trek,Mountain Bikes,1,379.99,0.07,353.39,Baldwin Bikes,Venita Daniel,2018-02-20
+1401,2018-02-18,4,Linnie Branch,Plattsburgh,NY,Electra Cruiser Lux 1 Ladies' - 2018,Electra,Cruisers Bicycles,1,429.99,0.05,408.49,Baldwin Bikes,Venita Daniel,2018-02-20
+1401,2018-02-18,4,Linnie Branch,Plattsburgh,NY,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Cruisers Bicycles,2,749.99,0.2,1199.98,Baldwin Bikes,Venita Daniel,2018-02-20
+1400,2018-02-17,4,Louis Powell,Staten Island,NY,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,2,549.99,0.2,879.98,Baldwin Bikes,Marcelene Boyer,2018-02-18
+1400,2018-02-17,4,Louis Powell,Staten Island,NY,Electra Straight 8 3i - 2018,Electra,Cruisers Bicycles,2,909.99,0.2,1455.98,Baldwin Bikes,Marcelene Boyer,2018-02-18
+1400,2018-02-17,4,Louis Powell,Staten Island,NY,Trek Precaliber 20 Girl's - 2018,Trek,Children Bicycles,1,229.99,0.1,206.99,Baldwin Bikes,Marcelene Boyer,2018-02-18
+1400,2018-02-17,4,Louis Powell,Staten Island,NY,Trek Precaliber 16 Girls - 2017,Trek,Children Bicycles,1,209.99,0.07,195.29,Baldwin Bikes,Marcelene Boyer,2018-02-18
+1398,2018-02-16,4,Desire Mcgowan,Bakersfield,CA,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,2,416.99,0.05,792.28,Santa Cruz Bikes,Genna Serrano,2018-02-19
+1398,2018-02-16,4,Desire Mcgowan,Bakersfield,CA,Surly Ogre Frameset - 2017,Surly,Road Bikes,1,749.99,0.2,599.99,Santa Cruz Bikes,Genna Serrano,2018-02-19
+1399,2018-02-16,4,Stefany Potter,Saratoga Springs,NY,Surly Straggler - 2018,Surly,Cyclocross Bicycles,2,1549.0,0.2,2478.4,Baldwin Bikes,Marcelene Boyer,2018-02-18
+1399,2018-02-16,4,Stefany Potter,Saratoga Springs,NY,Electra Cruiser Lux 7D - 2018,Electra,Cruisers Bicycles,1,479.99,0.05,455.99,Baldwin Bikes,Marcelene Boyer,2018-02-18
+1399,2018-02-16,4,Stefany Potter,Saratoga Springs,NY,Surly Pack Rat Frameset - 2018,Surly,Mountain Bikes,2,469.99,0.07,874.18,Baldwin Bikes,Marcelene Boyer,2018-02-18
+1399,2018-02-16,4,Stefany Potter,Saratoga Springs,NY,Surly Karate Monkey 27.5+ Frameset - 2017,Surly,Mountain Bikes,1,2499.99,0.05,2374.99,Baldwin Bikes,Marcelene Boyer,2018-02-18
+1395,2018-02-15,4,Zora Ford,Sacramento,CA,Trek Super Commuter+ 7 - 2018,Trek,Electric Bikes,1,3599.99,0.2,2879.99,Santa Cruz Bikes,Genna Serrano,2018-02-16
+1395,2018-02-15,4,Zora Ford,Sacramento,CA,Trek Emonda S 4 - 2017,Trek,Road Bikes,2,1499.99,0.1,2699.98,Santa Cruz Bikes,Genna Serrano,2018-02-16
+1395,2018-02-15,4,Zora Ford,Sacramento,CA,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,2,919.99,0.2,1471.98,Santa Cruz Bikes,Genna Serrano,2018-02-16
+1395,2018-02-15,4,Zora Ford,Sacramento,CA,Electra Townie Original 21D EQ - 2017/2018,Electra,Cruisers Bicycles,1,679.99,0.1,611.99,Santa Cruz Bikes,Genna Serrano,2018-02-16
+1396,2018-02-15,4,Lara Guy,Ronkonkoma,NY,Trek Emonda S 5 - 2017,Trek,Road Bikes,1,1999.99,0.05,1899.99,Baldwin Bikes,Venita Daniel,2018-02-16
+1396,2018-02-15,4,Lara Guy,Ronkonkoma,NY,Trek Domane SL 5 - 2018,Trek,Road Bikes,1,2199.99,0.2,1759.99,Baldwin Bikes,Venita Daniel,2018-02-16
+1397,2018-02-15,4,James Robles,North Tonawanda,NY,Surly Pack Rat Frameset - 2018,Surly,Mountain Bikes,2,469.99,0.1,845.98,Baldwin Bikes,Marcelene Boyer,2018-02-16
+1397,2018-02-15,4,James Robles,North Tonawanda,NY,Trek Remedy 7 27.5 - 2018,Trek,Mountain Bikes,1,2999.99,0.07,2789.99,Baldwin Bikes,Marcelene Boyer,2018-02-16
+1397,2018-02-15,4,James Robles,North Tonawanda,NY,Trek Slash 8 27.5 - 2016,Trek,Mountain Bikes,1,3999.99,0.05,3799.99,Baldwin Bikes,Marcelene Boyer,2018-02-16
+1397,2018-02-15,4,James Robles,North Tonawanda,NY,Electra White Water 3i - 2018,Electra,Cruisers Bicycles,1,749.99,0.05,712.49,Baldwin Bikes,Marcelene Boyer,2018-02-16
+1397,2018-02-15,4,James Robles,North Tonawanda,NY,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,2,647.99,0.1,1166.38,Baldwin Bikes,Marcelene Boyer,2018-02-16
+1393,2018-02-14,4,Tena Huber,Newburgh,NY,Haro Shredder 20 - 2017,Haro,Children Bicycles,1,209.99,0.07,195.29,Baldwin Bikes,Venita Daniel,2018-02-15
+1393,2018-02-14,4,Tena Huber,Newburgh,NY,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,1,659.99,0.07,613.79,Baldwin Bikes,Venita Daniel,2018-02-15
+1393,2018-02-14,4,Tena Huber,Newburgh,NY,Trek Remedy 9.8 - 2017,Trek,Mountain Bikes,2,5299.99,0.05,10069.98,Baldwin Bikes,Venita Daniel,2018-02-15
+1393,2018-02-14,4,Tena Huber,Newburgh,NY,Trek Kickster - 2018,Trek,Children Bicycles,2,159.99,0.05,303.98,Baldwin Bikes,Venita Daniel,2018-02-15
+1394,2018-02-14,4,Erik Leblanc,Sugar Land,TX,Trek 1120 - 2018,Trek,Road Bikes,2,2499.99,0.05,4749.98,Rowlett Bikes,Kali Vargas,2018-02-16
+1391,2018-02-13,4,Hortencia O'neil,Rockville Centre,NY,Electra Cruiser Lux 3i - 2018,Electra,Cruisers Bicycles,2,529.99,0.07,985.78,Baldwin Bikes,Venita Daniel,2018-02-14
+1391,2018-02-13,4,Hortencia O'neil,Rockville Centre,NY,"Electra Treasure 1 20"" - 2018",Electra,Children Bicycles,2,319.99,0.2,511.98,Baldwin Bikes,Venita Daniel,2018-02-14
+1391,2018-02-13,4,Hortencia O'neil,Rockville Centre,NY,Trek Precaliber 24 21-speed Boy's - 2018,Trek,Children Bicycles,1,369.99,0.2,295.99,Baldwin Bikes,Venita Daniel,2018-02-14
+1392,2018-02-13,4,Kenyetta Mason,Flushing,NY,Trek Precaliber 12 Boys - 2017,Trek,Children Bicycles,2,189.99,0.2,303.98,Baldwin Bikes,Marcelene Boyer,2018-02-14
+1392,2018-02-13,4,Kenyetta Mason,Flushing,NY,Electra Townie Commute 27D Ladies - 2018,Electra,Cruisers Bicycles,2,899.99,0.05,1709.98,Baldwin Bikes,Marcelene Boyer,2018-02-14
+1390,2018-02-12,4,Tenisha Lyons,Amityville,NY,Haro Shift R3 - 2017,Haro,Mountain Bikes,2,1469.99,0.05,2792.98,Baldwin Bikes,Venita Daniel,2018-02-13
+1390,2018-02-12,4,Tenisha Lyons,Amityville,NY,Surly Big Dummy Frameset - 2017,Surly,Mountain Bikes,2,999.99,0.05,1899.98,Baldwin Bikes,Venita Daniel,2018-02-13
+1390,2018-02-12,4,Tenisha Lyons,Amityville,NY,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Comfort Bicycles,1,899.99,0.1,809.99,Baldwin Bikes,Venita Daniel,2018-02-13
+1390,2018-02-12,4,Tenisha Lyons,Amityville,NY,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,1,481.99,0.05,457.89,Baldwin Bikes,Venita Daniel,2018-02-13
+1390,2018-02-12,4,Tenisha Lyons,Amityville,NY,Trek Domane ALR 5 Gravel - 2018,Trek,Road Bikes,2,1799.99,0.1,3239.98,Baldwin Bikes,Venita Daniel,2018-02-13
+1389,2018-02-11,4,Celestine Jacobs,Massapequa,NY,Haro Downtown 16 - 2017,Haro,Children Bicycles,2,329.99,0.1,593.98,Baldwin Bikes,Venita Daniel,2018-02-14
+1389,2018-02-11,4,Celestine Jacobs,Massapequa,NY,Trek Domane SL 6 - 2018,Trek,Road Bikes,2,3199.99,0.05,6079.98,Baldwin Bikes,Venita Daniel,2018-02-14
+1389,2018-02-11,4,Celestine Jacobs,Massapequa,NY,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,Electra,Cruisers Bicycles,1,319.99,0.07,297.59,Baldwin Bikes,Venita Daniel,2018-02-14
+1386,2018-02-09,4,Dung Reid,Canyon Country,CA,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,Electra,Children Bicycles,1,369.99,0.2,295.99,Santa Cruz Bikes,Mireya Copeland,2018-02-11
+1386,2018-02-09,4,Dung Reid,Canyon Country,CA,Trek MT 201 - 2018,Trek,Children Bicycles,1,249.99,0.1,224.99,Santa Cruz Bikes,Mireya Copeland,2018-02-11
+1386,2018-02-09,4,Dung Reid,Canyon Country,CA,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Comfort Bicycles,1,899.99,0.1,809.99,Santa Cruz Bikes,Mireya Copeland,2018-02-11
+1386,2018-02-09,4,Dung Reid,Canyon Country,CA,Trek Emonda SL 7 - 2018,Trek,Road Bikes,1,4499.99,0.07,4184.99,Santa Cruz Bikes,Mireya Copeland,2018-02-11
+1387,2018-02-09,4,Deshawn Mendoza,Monsey,NY,Sun Bicycles Cruz 3 - 2017,Sun Bicycles,Comfort Bicycles,1,449.99,0.1,404.99,Baldwin Bikes,Venita Daniel,2018-02-11
+1388,2018-02-09,4,Jeniffer Slater,Schenectady,NY,Electra Townie Commute Go! - 2018,Electra,Cruisers Bicycles,1,2999.99,0.1,2699.99,Baldwin Bikes,Venita Daniel,2018-02-12
+1384,2018-02-08,4,Elmira Levy,Spring Valley,NY,Trek Farley Alloy Frameset - 2017,Trek,Mountain Bikes,1,469.99,0.07,437.09,Baldwin Bikes,Venita Daniel,2018-02-09
+1384,2018-02-08,4,Elmira Levy,Spring Valley,NY,Trek Fuel EX 8 29 XT - 2018,Trek,Mountain Bikes,2,3199.99,0.1,5759.98,Baldwin Bikes,Venita Daniel,2018-02-09
+1384,2018-02-08,4,Elmira Levy,Spring Valley,NY,Trek Precaliber 16 Boys - 2017,Trek,Children Bicycles,1,209.99,0.1,188.99,Baldwin Bikes,Venita Daniel,2018-02-09
+1384,2018-02-08,4,Elmira Levy,Spring Valley,NY,Electra Savannah 3i (20-inch) - Girl's - 2017,Electra,Children Bicycles,1,349.99,0.05,332.49,Baldwin Bikes,Venita Daniel,2018-02-09
+1385,2018-02-08,4,Lynwood Jackson,Longview,TX,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,2,549.99,0.05,1044.98,Rowlett Bikes,Layla Terrell,2018-02-09
+1385,2018-02-08,4,Lynwood Jackson,Longview,TX,Trek Domane ALR 5 Disc - 2018,Trek,Road Bikes,1,1799.99,0.07,1673.99,Rowlett Bikes,Layla Terrell,2018-02-09
+1385,2018-02-08,4,Lynwood Jackson,Longview,TX,Trek Stache 5 - 2017,Trek,Mountain Bikes,2,1499.99,0.1,2699.98,Rowlett Bikes,Layla Terrell,2018-02-09
+1385,2018-02-08,4,Lynwood Jackson,Longview,TX,Trek X-Caliber Frameset - 2018,Trek,Mountain Bikes,1,1499.99,0.05,1424.99,Rowlett Bikes,Layla Terrell,2018-02-09
+1383,2018-02-07,4,Joaquin Hawkins,Anaheim,CA,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,2,3499.99,0.2,5599.98,Santa Cruz Bikes,Genna Serrano,2018-02-08
+1383,2018-02-07,4,Joaquin Hawkins,Anaheim,CA,Sun Bicycles Lil Bolt Type-R - 2017,Sun Bicycles,Cruisers Bicycles,2,346.99,0.05,659.28,Santa Cruz Bikes,Genna Serrano,2018-02-08
+1382,2018-02-06,4,Renay Atkins,Woodside,NY,Electra Cruiser Lux 7D Ladies' - 2018,Electra,Cruisers Bicycles,1,479.99,0.2,383.99,Baldwin Bikes,Marcelene Boyer,2018-02-08
+1382,2018-02-06,4,Renay Atkins,Woodside,NY,Electra Amsterdam Fashion 7i Ladies' - 2017,Electra,Cruisers Bicycles,2,1099.99,0.05,2089.98,Baldwin Bikes,Marcelene Boyer,2018-02-08
+1382,2018-02-06,4,Renay Atkins,Woodside,NY,Electra Delivery 3i - 2016/2017/2018,Electra,Cruisers Bicycles,1,959.99,0.1,863.99,Baldwin Bikes,Marcelene Boyer,2018-02-08
+1382,2018-02-06,4,Renay Atkins,Woodside,NY,Trek X-Caliber Frameset - 2018,Trek,Mountain Bikes,1,1499.99,0.07,1394.99,Baldwin Bikes,Marcelene Boyer,2018-02-08
+1382,2018-02-06,4,Renay Atkins,Woodside,NY,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Cruisers Bicycles,1,749.99,0.2,599.99,Baldwin Bikes,Marcelene Boyer,2018-02-08
+1380,2018-02-05,4,Joel Wynn,San Diego,CA,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,Electra,Cruisers Bicycles,2,899.99,0.1,1619.98,Santa Cruz Bikes,Genna Serrano,2018-02-08
+1380,2018-02-05,4,Joel Wynn,San Diego,CA,Electra Cruiser Lux 1 - 2016/2018,Electra,Cruisers Bicycles,2,429.99,0.07,799.78,Santa Cruz Bikes,Genna Serrano,2018-02-08
+1381,2018-02-05,4,Mathilda Pennington,New City,NY,Trek Precaliber 20 Boy's - 2018,Trek,Children Bicycles,2,229.99,0.2,367.98,Baldwin Bikes,Venita Daniel,2018-02-08
+1381,2018-02-05,4,Mathilda Pennington,New City,NY,Electra Tiger Shark 3i - 2018,Electra,Cruisers Bicycles,2,899.99,0.1,1619.98,Baldwin Bikes,Venita Daniel,2018-02-08
+1378,2018-02-02,4,Marguerite Berger,Fullerton,CA,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,2,349.99,0.07,650.98,Santa Cruz Bikes,Mireya Copeland,2018-02-04
+1378,2018-02-02,4,Marguerite Berger,Fullerton,CA,Trek Fuel EX 8 29 XT - 2018,Trek,Mountain Bikes,2,3199.99,0.07,5951.98,Santa Cruz Bikes,Mireya Copeland,2018-02-04
+1378,2018-02-02,4,Marguerite Berger,Fullerton,CA,Ritchey Timberwolf Frameset - 2016,Ritchey,Mountain Bikes,2,749.99,0.2,1199.98,Santa Cruz Bikes,Mireya Copeland,2018-02-04
+1378,2018-02-02,4,Marguerite Berger,Fullerton,CA,Sun Bicycles Drifter 7 - 2017,Sun Bicycles,Comfort Bicycles,1,470.99,0.07,438.02,Santa Cruz Bikes,Mireya Copeland,2018-02-04
+1378,2018-02-02,4,Marguerite Berger,Fullerton,CA,Trek X-Caliber 7 - 2018,Trek,Mountain Bikes,2,919.99,0.2,1471.98,Santa Cruz Bikes,Mireya Copeland,2018-02-04
+1379,2018-02-02,4,Nubia Anderson,Ronkonkoma,NY,Electra Moto 1 - 2016,Electra,Cruisers Bicycles,1,529.99,0.1,476.99,Baldwin Bikes,Marcelene Boyer,2018-02-05
+1379,2018-02-02,4,Nubia Anderson,Ronkonkoma,NY,Trek X-Caliber 8 - 2018,Trek,Mountain Bikes,1,999.99,0.1,899.99,Baldwin Bikes,Marcelene Boyer,2018-02-05
+1379,2018-02-02,4,Nubia Anderson,Ronkonkoma,NY,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,2,89.99,0.1,161.98,Baldwin Bikes,Marcelene Boyer,2018-02-05
+1376,2018-02-01,4,Kiesha Bond,San Carlos,CA,Heller Shagamaw Frame - 2016,Heller,Mountain Bikes,1,1320.99,0.07,1228.52,Santa Cruz Bikes,Mireya Copeland,2018-02-03
+1377,2018-02-01,4,Jimmy Russell,Howard Beach,NY,Trek Domane SL 7 Women's - 2018,Trek,Road Bikes,2,4999.99,0.05,9499.98,Baldwin Bikes,Venita Daniel,2018-02-03
+1377,2018-02-01,4,Jimmy Russell,Howard Beach,NY,Trek Stache Carbon Frameset - 2018,Trek,Mountain Bikes,1,919.99,0.05,873.99,Baldwin Bikes,Venita Daniel,2018-02-03
+1377,2018-02-01,4,Jimmy Russell,Howard Beach,NY,Trek Emonda S 4 - 2017,Trek,Road Bikes,1,1499.99,0.07,1394.99,Baldwin Bikes,Venita Daniel,2018-02-03
+1377,2018-02-01,4,Jimmy Russell,Howard Beach,NY,Trek XM700+ Lowstep - 2018,Trek,Electric Bikes,2,3499.99,0.07,6509.98,Baldwin Bikes,Venita Daniel,2018-02-03
+1374,2018-01-30,4,Karren Stevenson,San Carlos,CA,Trek Domane SL 5 - 2018,Trek,Road Bikes,2,2199.99,0.05,4179.98,Santa Cruz Bikes,Genna Serrano,2018-02-01
+1374,2018-01-30,4,Karren Stevenson,San Carlos,CA,Trek Stache Carbon Frameset - 2018,Trek,Mountain Bikes,2,919.99,0.07,1711.18,Santa Cruz Bikes,Genna Serrano,2018-02-01
+1375,2018-01-30,4,Cameron Carroll,Longview,TX,Trek Domane ALR 5 Gravel - 2018,Trek,Road Bikes,2,1799.99,0.05,3419.98,Rowlett Bikes,Kali Vargas,2018-02-01
+1375,2018-01-30,4,Cameron Carroll,Longview,TX,Trek Domane SL 5 Disc - 2018,Trek,Road Bikes,1,2499.99,0.2,1999.99,Rowlett Bikes,Kali Vargas,2018-02-01
+1371,2018-01-29,4,Aida Koch,West Hempstead,NY,Electra Cruiser Lux 3i - 2018,Electra,Cruisers Bicycles,2,529.99,0.07,985.78,Baldwin Bikes,Venita Daniel,2018-02-01
+1371,2018-01-29,4,Aida Koch,West Hempstead,NY,Trek Remedy 29 Carbon Frameset - 2016,Trek,Mountain Bikes,2,1799.99,0.2,2879.98,Baldwin Bikes,Venita Daniel,2018-02-01
+1372,2018-01-29,4,Alma Peck,Corona,NY,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Comfort Bicycles,1,749.99,0.07,697.49,Baldwin Bikes,Marcelene Boyer,2018-01-30
+1372,2018-01-29,4,Alma Peck,Corona,NY,Electra Heartchya 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2,319.99,0.2,511.98,Baldwin Bikes,Marcelene Boyer,2018-01-30
+1373,2018-01-29,4,Latonya Dixon,Garland,TX,Trek Boone Race Shop Limited - 2017,Trek,Cyclocross Bicycles,1,3499.99,0.1,3149.99,Rowlett Bikes,Layla Terrell,2018-01-31
+1369,2018-01-28,4,Tena Cruz,Farmingdale,NY,Electra Cruiser 1 - 2016/2017/2018,Electra,Cruisers Bicycles,2,269.99,0.05,512.98,Baldwin Bikes,Marcelene Boyer,2018-01-30
+1370,2018-01-28,4,Rey Lindsay,Monroe,NY,Trek Slash 8 27.5 - 2016,Trek,Mountain Bikes,1,3999.99,0.07,3719.99,Baldwin Bikes,Venita Daniel,2018-01-29
+1370,2018-01-28,4,Rey Lindsay,Monroe,NY,Trek Precaliber 16 Boys - 2017,Trek,Children Bicycles,2,209.99,0.1,377.98,Baldwin Bikes,Venita Daniel,2018-01-29
+1370,2018-01-28,4,Rey Lindsay,Monroe,NY,Trek Crockett 5 Disc - 2018,Trek,Cyclocross Bicycles,2,1799.99,0.2,2879.98,Baldwin Bikes,Venita Daniel,2018-01-29
+1370,2018-01-28,4,Rey Lindsay,Monroe,NY,Trek Remedy 27.5 C Frameset - 2018,Trek,Mountain Bikes,1,1499.99,0.1,1349.99,Baldwin Bikes,Venita Daniel,2018-01-29
+1367,2018-01-27,4,Ja Dillard,Canyon Country,CA,Trek Procal AL Frameset - 2018,Trek,Mountain Bikes,1,1499.99,0.1,1349.99,Santa Cruz Bikes,Genna Serrano,2018-01-28
+1367,2018-01-27,4,Ja Dillard,Canyon Country,CA,Heller Bloodhound Trail - 2018,Heller,Mountain Bikes,2,2599.0,0.2,4158.4,Santa Cruz Bikes,Genna Serrano,2018-01-28
+1367,2018-01-27,4,Ja Dillard,Canyon Country,CA,Surly Krampus - 2018,Surly,Mountain Bikes,1,1499.0,0.07,1394.07,Santa Cruz Bikes,Genna Serrano,2018-01-28
+1367,2018-01-27,4,Ja Dillard,Canyon Country,CA,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,2,549.99,0.05,1044.98,Santa Cruz Bikes,Genna Serrano,2018-01-28
+1368,2018-01-27,4,Spring Hayes,Ossining,NY,Sun Bicycles Revolutions 24 - 2017,Sun Bicycles,Cruisers Bicycles,1,250.99,0.1,225.89,Baldwin Bikes,Marcelene Boyer,2018-01-29
+1368,2018-01-27,4,Spring Hayes,Ossining,NY,Trek Marlin 5 - 2018,Trek,Mountain Bikes,2,489.99,0.07,911.38,Baldwin Bikes,Marcelene Boyer,2018-01-29
+1368,2018-01-27,4,Spring Hayes,Ossining,NY,Trek CrossRip+ - 2018,Trek,Electric Bikes,1,4499.99,0.2,3599.99,Baldwin Bikes,Marcelene Boyer,2018-01-29
+1366,2018-01-26,4,Jamaal Morrison,Staten Island,NY,Trek Fuel EX 8 29 - 2018,Trek,Mountain Bikes,1,3199.99,0.1,2879.99,Baldwin Bikes,Marcelene Boyer,2018-01-28
+1366,2018-01-26,4,Jamaal Morrison,Staten Island,NY,Surly ECR 27.5 - 2018,Surly,Mountain Bikes,2,1899.0,0.2,3038.4,Baldwin Bikes,Marcelene Boyer,2018-01-28
+1366,2018-01-26,4,Jamaal Morrison,Staten Island,NY,Trek Powerfly 5 - 2018,Trek,Electric Bikes,1,3499.99,0.07,3254.99,Baldwin Bikes,Marcelene Boyer,2018-01-28
+1364,2018-01-25,4,Shena Carter,Howard Beach,NY,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,1,647.99,0.07,602.63,Baldwin Bikes,Marcelene Boyer,2018-01-28
+1364,2018-01-25,4,Shena Carter,Howard Beach,NY,Trek Domane SLR 9 Disc - 2018,Trek,Road Bikes,2,11999.99,0.1,21599.98,Baldwin Bikes,Marcelene Boyer,2018-01-28
+1364,2018-01-25,4,Shena Carter,Howard Beach,NY,Trek Domane SL 5 Disc Women's - 2018,Trek,Road Bikes,1,2499.99,0.1,2249.99,Baldwin Bikes,Marcelene Boyer,2018-01-28
+1364,2018-01-25,4,Shena Carter,Howard Beach,NY,Sun Bicycles Drifter 7 - 2017,Sun Bicycles,Comfort Bicycles,1,470.99,0.07,438.02,Baldwin Bikes,Marcelene Boyer,2018-01-28
+1365,2018-01-25,4,Deirdre Ryan,Utica,NY,Trek Domane ALR 4 Disc - 2018,Trek,Road Bikes,1,1549.99,0.07,1441.49,Baldwin Bikes,Venita Daniel,2018-01-27
+1365,2018-01-25,4,Deirdre Ryan,Utica,NY,Trek Madone 9.2 - 2017,Trek,Road Bikes,1,4999.99,0.07,4649.99,Baldwin Bikes,Venita Daniel,2018-01-27
+1365,2018-01-25,4,Deirdre Ryan,Utica,NY,Electra Morningstar 3i Ladies' - 2018,Electra,Cruisers Bicycles,1,749.99,0.05,712.49,Baldwin Bikes,Venita Daniel,2018-01-27
+1363,2018-01-24,4,Loni Mullen,South Ozone Park,NY,Sun Bicycles Revolutions 24 - 2017,Sun Bicycles,Cruisers Bicycles,2,250.99,0.1,451.78,Baldwin Bikes,Marcelene Boyer,2018-01-25
+1362,2018-01-23,4,Gilberto Parsons,Middle Village,NY,Surly Big Dummy Frameset - 2017,Surly,Mountain Bikes,2,999.99,0.2,1599.98,Baldwin Bikes,Marcelene Boyer,2018-01-25
+1362,2018-01-23,4,Gilberto Parsons,Middle Village,NY,Trek Super Commuter+ 7 - 2018,Trek,Electric Bikes,2,3599.99,0.07,6695.98,Baldwin Bikes,Marcelene Boyer,2018-01-25
+1362,2018-01-23,4,Gilberto Parsons,Middle Village,NY,Trek Fuel EX 8 29 - 2016,Trek,Mountain Bikes,2,2899.99,0.2,4639.98,Baldwin Bikes,Marcelene Boyer,2018-01-25
+1360,2018-01-22,4,Takako Casey,Bronx,NY,Surly Wednesday - 2017,Surly,Mountain Bikes,1,1632.99,0.05,1551.34,Baldwin Bikes,Marcelene Boyer,2018-01-24
+1361,2018-01-22,4,Regine Odom,Franklin Square,NY,Electra Townie Balloon 8D EQ - 2016/2017/2018,Electra,Comfort Bicycles,2,749.99,0.07,1394.98,Baldwin Bikes,Venita Daniel,2018-01-23
+1361,2018-01-22,4,Regine Odom,Franklin Square,NY,Trek Domane SL 7 Women's - 2018,Trek,Road Bikes,1,4999.99,0.05,4749.99,Baldwin Bikes,Venita Daniel,2018-01-23
+1361,2018-01-22,4,Regine Odom,Franklin Square,NY,Surly Pack Rat - 2018,Surly,Road Bikes,2,1349.0,0.2,2158.4,Baldwin Bikes,Venita Daniel,2018-01-23
+1358,2018-01-21,4,Maurice Norton,Atwater,CA,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,Electra,Cruisers Bicycles,2,899.99,0.2,1439.98,Santa Cruz Bikes,Mireya Copeland,2018-01-24
+1359,2018-01-21,4,Berneice Pollard,Forney,TX,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,1,279.99,0.05,265.99,Rowlett Bikes,Layla Terrell,2018-01-22
+1359,2018-01-21,4,Berneice Pollard,Forney,TX,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,1,659.99,0.05,626.99,Rowlett Bikes,Layla Terrell,2018-01-22
+1357,2018-01-20,4,Yevette Todd,Ballston Spa,NY,Trek Domane ALR 5 Disc - 2018,Trek,Road Bikes,2,1799.99,0.2,2879.98,Baldwin Bikes,Marcelene Boyer,2018-01-21
+1357,2018-01-20,4,Yevette Todd,Ballston Spa,NY,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,1,1559.99,0.2,1247.99,Baldwin Bikes,Marcelene Boyer,2018-01-21
+1357,2018-01-20,4,Yevette Todd,Ballston Spa,NY,Trek Stache Carbon Frameset - 2018,Trek,Mountain Bikes,1,919.99,0.2,735.99,Baldwin Bikes,Marcelene Boyer,2018-01-21
+1354,2018-01-19,4,Christopher Richardson,Santa Cruz,CA,Trek Domane AL 2 Women's - 2018,Trek,Road Bikes,2,749.99,0.07,1394.98,Santa Cruz Bikes,Genna Serrano,2018-01-21
+1355,2018-01-19,4,Katia Henry,Bethpage,NY,"Electra Under-The-Sea 1 16"" - 2018",Electra,Children Bicycles,1,279.99,0.1,251.99,Baldwin Bikes,Venita Daniel,2018-01-20
+1355,2018-01-19,4,Katia Henry,Bethpage,NY,Electra Townie Go! 8i Ladies' - 2018,Electra,Cruisers Bicycles,1,2599.99,0.07,2417.99,Baldwin Bikes,Venita Daniel,2018-01-20
+1355,2018-01-19,4,Katia Henry,Bethpage,NY,Trek Domane SLR 8 Disc - 2018,Trek,Road Bikes,1,7499.99,0.2,5999.99,Baldwin Bikes,Venita Daniel,2018-01-20
+1355,2018-01-19,4,Katia Henry,Bethpage,NY,Electra Townie Original 1 Ladies' - 2018,Electra,Comfort Bicycles,2,449.99,0.1,809.98,Baldwin Bikes,Venita Daniel,2018-01-20
+1356,2018-01-19,4,Santa Larson,Valley Stream,NY,Electra Townie Go! 8i - 2017/2018,Electra,Electric Bikes,1,2599.99,0.05,2469.99,Baldwin Bikes,Marcelene Boyer,2018-01-22
+1356,2018-01-19,4,Santa Larson,Valley Stream,NY,Electra Townie Commute Go! Ladies' - 2018,Electra,Electric Bikes,2,2999.99,0.1,5399.98,Baldwin Bikes,Marcelene Boyer,2018-01-22
+1356,2018-01-19,4,Santa Larson,Valley Stream,NY,Trek Precaliber 24 (7-Speed) - Boys - 2018,Trek,Children Bicycles,2,319.99,0.1,575.98,Baldwin Bikes,Marcelene Boyer,2018-01-22
+1353,2018-01-17,4,Malinda Baxter,Whitestone,NY,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Comfort Bicycles,2,416.99,0.05,792.28,Baldwin Bikes,Marcelene Boyer,2018-01-18
+1353,2018-01-17,4,Malinda Baxter,Whitestone,NY,Electra Cruiser Lux Fat Tire 7D - 2018,Electra,Cruisers Bicycles,1,639.99,0.07,595.19,Baldwin Bikes,Marcelene Boyer,2018-01-18
+1353,2018-01-17,4,Malinda Baxter,Whitestone,NY,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,1,799.99,0.2,639.99,Baldwin Bikes,Marcelene Boyer,2018-01-18
+1353,2018-01-17,4,Malinda Baxter,Whitestone,NY,Trek Girl's Kickster - 2017,Trek,Children Bicycles,2,149.99,0.05,284.98,Baldwin Bikes,Marcelene Boyer,2018-01-18
+1351,2018-01-16,4,Shenna Benton,New York,NY,"Electra Under-The-Sea 1 16"" - 2018",Electra,Children Bicycles,2,279.99,0.2,447.98,Baldwin Bikes,Venita Daniel,2018-01-19
+1351,2018-01-16,4,Shenna Benton,New York,NY,Trek Procaliber Frameset - 2018,Trek,Mountain Bikes,1,1499.99,0.1,1349.99,Baldwin Bikes,Venita Daniel,2018-01-19
+1352,2018-01-16,4,Nicola Knight,Scarsdale,NY,Trek Procaliber 6 - 2018,Trek,Mountain Bikes,1,1799.99,0.2,1439.99,Baldwin Bikes,Marcelene Boyer,2018-01-18
+1352,2018-01-16,4,Nicola Knight,Scarsdale,NY,Surly Steamroller - 2017,Surly,Road Bikes,2,875.99,0.1,1576.78,Baldwin Bikes,Marcelene Boyer,2018-01-18
+1352,2018-01-16,4,Nicola Knight,Scarsdale,NY,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,2,279.99,0.1,503.98,Baldwin Bikes,Marcelene Boyer,2018-01-18
+1352,2018-01-16,4,Nicola Knight,Scarsdale,NY,Trek Girl's Kickster - 2017,Trek,Children Bicycles,2,149.99,0.2,239.98,Baldwin Bikes,Marcelene Boyer,2018-01-18
+1352,2018-01-16,4,Nicola Knight,Scarsdale,NY,Electra Townie 3i EQ (20-inch) - Boys' - 2017,Electra,Children Bicycles,1,489.99,0.05,465.49,Baldwin Bikes,Marcelene Boyer,2018-01-18
+1347,2018-01-15,4,Muriel Juarez,Palos Verdes Peninsula,CA,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,2,5299.99,0.07,9857.98,Santa Cruz Bikes,Mireya Copeland,2018-01-18
+1347,2018-01-15,4,Muriel Juarez,Palos Verdes Peninsula,CA,Surly Ogre Frameset - 2017,Surly,Road Bikes,1,749.99,0.05,712.49,Santa Cruz Bikes,Mireya Copeland,2018-01-18
+1348,2018-01-15,4,Brigid Sharp,Santa Clara,CA,Trek Powerfly 7 FS - 2018,Trek,Electric Bikes,1,4999.99,0.05,4749.99,Santa Cruz Bikes,Mireya Copeland,2018-01-17
+1348,2018-01-15,4,Brigid Sharp,Santa Clara,CA,Trek Domane SL 8 Disc - 2018,Trek,Road Bikes,1,5499.99,0.05,5224.99,Santa Cruz Bikes,Mireya Copeland,2018-01-17
+1348,2018-01-15,4,Brigid Sharp,Santa Clara,CA,Trek Madone 9.2 - 2017,Trek,Road Bikes,2,4999.99,0.1,8999.98,Santa Cruz Bikes,Mireya Copeland,2018-01-17
+1348,2018-01-15,4,Brigid Sharp,Santa Clara,CA,Trek Domane ALR 5 Gravel - 2018,Trek,Road Bikes,1,1799.99,0.07,1673.99,Santa Cruz Bikes,Mireya Copeland,2018-01-17
+1349,2018-01-15,4,Bess Mcbride,Garden City,NY,Trek Fuel EX 5 Plus - 2018,Trek,Mountain Bikes,2,2249.99,0.05,4274.98,Baldwin Bikes,Marcelene Boyer,2018-01-16
+1349,2018-01-15,4,Bess Mcbride,Garden City,NY,Trek Super Commuter+ 8S - 2018,Trek,Electric Bikes,2,4999.99,0.07,9299.98,Baldwin Bikes,Marcelene Boyer,2018-01-16
+1349,2018-01-15,4,Bess Mcbride,Garden City,NY,Surly Straggler - 2018,Surly,Road Bikes,2,1549.0,0.2,2478.4,Baldwin Bikes,Marcelene Boyer,2018-01-16
+1349,2018-01-15,4,Bess Mcbride,Garden City,NY,Trek Domane SL 6 Disc - 2018,Trek,Road Bikes,1,3499.99,0.2,2799.99,Baldwin Bikes,Marcelene Boyer,2018-01-16
+1350,2018-01-15,4,Kara Higgins,Ossining,NY,Electra Townie Balloon 3i EQ - 2017/2018,Electra,Comfort Bicycles,1,749.99,0.1,674.99,Baldwin Bikes,Venita Daniel,2018-01-17
+1350,2018-01-15,4,Kara Higgins,Ossining,NY,Electra Townie Go! 8i - 2017/2018,Electra,Cruisers Bicycles,1,2599.99,0.07,2417.99,Baldwin Bikes,Venita Daniel,2018-01-17
+1350,2018-01-15,4,Kara Higgins,Ossining,NY,Electra Townie Go! 8i Ladies' - 2018,Electra,Cruisers Bicycles,1,2599.99,0.07,2417.99,Baldwin Bikes,Venita Daniel,2018-01-17
+1350,2018-01-15,4,Kara Higgins,Ossining,NY,Trek Emonda ALR 6 - 2018,Trek,Road Bikes,1,2299.99,0.05,2184.99,Baldwin Bikes,Venita Daniel,2018-01-17
+1350,2018-01-15,4,Kara Higgins,Ossining,NY,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,2,269.99,0.2,431.98,Baldwin Bikes,Venita Daniel,2018-01-17
+1345,2018-01-14,4,Ashanti Hammond,Nanuet,NY,Trek Fuel EX 9.8 29 - 2017,Trek,Mountain Bikes,2,4999.99,0.2,7999.98,Baldwin Bikes,Marcelene Boyer,2018-01-15
+1345,2018-01-14,4,Ashanti Hammond,Nanuet,NY,Trek Domane ALR Disc Frameset - 2018,Trek,Road Bikes,2,3199.99,0.05,6079.98,Baldwin Bikes,Marcelene Boyer,2018-01-15
+1345,2018-01-14,4,Ashanti Hammond,Nanuet,NY,Surly Straggler 650b - 2018,Surly,Road Bikes,2,1549.0,0.2,2478.4,Baldwin Bikes,Marcelene Boyer,2018-01-15
+1345,2018-01-14,4,Ashanti Hammond,Nanuet,NY,Ritchey Timberwolf Frameset - 2016,Ritchey,Mountain Bikes,2,749.99,0.2,1199.98,Baldwin Bikes,Marcelene Boyer,2018-01-15
+1346,2018-01-14,4,Sarita Parks,Forney,TX,Trek Remedy 27.5 C Frameset - 2018,Trek,Mountain Bikes,2,1499.99,0.05,2849.98,Rowlett Bikes,Kali Vargas,2018-01-15
+1346,2018-01-14,4,Sarita Parks,Forney,TX,Trek Emonda SL 7 - 2018,Trek,Road Bikes,1,4499.99,0.05,4274.99,Rowlett Bikes,Kali Vargas,2018-01-15
+1346,2018-01-14,4,Sarita Parks,Forney,TX,Pure Cycles Western 3-Speed - Women's - 2015/2016,Pure Cycles,Cruisers Bicycles,2,449.0,0.05,853.1,Rowlett Bikes,Kali Vargas,2018-01-15
+1346,2018-01-14,4,Sarita Parks,Forney,TX,Electra White Water 3i - 2018,Electra,Cruisers Bicycles,1,749.99,0.1,674.99,Rowlett Bikes,Kali Vargas,2018-01-15
+1346,2018-01-14,4,Sarita Parks,Forney,TX,Strider Classic 12 Balance Bike - 2018,Strider,Children Bicycles,2,89.99,0.2,143.98,Rowlett Bikes,Kali Vargas,2018-01-15
+1343,2018-01-13,4,Deanne Parsons,Lindenhurst,NY,Electra Townie Original 21D Ladies' - 2018,Electra,Cruisers Bicycles,1,559.99,0.05,531.99,Baldwin Bikes,Marcelene Boyer,2018-01-14
+1343,2018-01-13,4,Deanne Parsons,Lindenhurst,NY,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra,Children Bicycles,1,299.99,0.05,284.99,Baldwin Bikes,Marcelene Boyer,2018-01-14
+1343,2018-01-13,4,Deanne Parsons,Lindenhurst,NY,Trek Domane SL 6 Disc - 2018,Trek,Road Bikes,2,3499.99,0.2,5599.98,Baldwin Bikes,Marcelene Boyer,2018-01-14
+1343,2018-01-13,4,Deanne Parsons,Lindenhurst,NY,Sun Bicycles Lil Bolt Type-R - 2017,Sun Bicycles,Cruisers Bicycles,2,346.99,0.2,555.18,Baldwin Bikes,Marcelene Boyer,2018-01-14
+1343,2018-01-13,4,Deanne Parsons,Lindenhurst,NY,Trek Boone 5 Disc - 2018,Trek,Cyclocross Bicycles,1,3299.99,0.1,2969.99,Baldwin Bikes,Marcelene Boyer,2018-01-14
+1344,2018-01-13,4,Alishia Elliott,Mount Vernon,NY,Electra Glam Punk 3i Ladies' - 2017,Electra,Cruisers Bicycles,2,799.99,0.07,1487.98,Baldwin Bikes,Marcelene Boyer,2018-01-15
+1344,2018-01-13,4,Alishia Elliott,Mount Vernon,NY,Sun Bicycles Streamway 3 - 2017,Sun Bicycles,Comfort Bicycles,2,551.99,0.2,883.18,Baldwin Bikes,Marcelene Boyer,2018-01-15
+1344,2018-01-13,4,Alishia Elliott,Mount Vernon,NY,Surly Wednesday Frameset - 2016,Surly,Mountain Bikes,1,999.99,0.07,929.99,Baldwin Bikes,Marcelene Boyer,2018-01-15
+1344,2018-01-13,4,Alishia Elliott,Mount Vernon,NY,Trek Powerfly 8 FS Plus - 2017,Trek,Electric Bikes,1,4999.99,0.07,4649.99,Baldwin Bikes,Marcelene Boyer,2018-01-15
+1340,2018-01-12,4,Raeann Duncan,Anaheim,CA,Electra Townie Go! 8i Ladies' - 2018,Electra,Cruisers Bicycles,1,2599.99,0.2,2079.99,Santa Cruz Bikes,Genna Serrano,2018-01-13
+1340,2018-01-12,4,Raeann Duncan,Anaheim,CA,Haro Shredder 20 - 2017,Haro,Children Bicycles,2,209.99,0.2,335.98,Santa Cruz Bikes,Genna Serrano,2018-01-13
+1340,2018-01-12,4,Raeann Duncan,Anaheim,CA,Electra Relic 3i - 2018,Electra,Cruisers Bicycles,2,849.99,0.05,1614.98,Santa Cruz Bikes,Genna Serrano,2018-01-13
+1341,2018-01-12,4,Todd Waters,Bay Shore,NY,Electra Queen of Hearts 3i - 2018,Electra,Cruisers Bicycles,2,749.99,0.07,1394.98,Baldwin Bikes,Venita Daniel,2018-01-14
+1341,2018-01-12,4,Todd Waters,Bay Shore,NY,Trek Domane SLR 6 Disc - 2017,Trek,Road Bikes,2,5499.99,0.2,8799.98,Baldwin Bikes,Venita Daniel,2018-01-14
+1341,2018-01-12,4,Todd Waters,Bay Shore,NY,Electra Daydreamer 3i Ladies' - 2018,Electra,Cruisers Bicycles,2,899.99,0.05,1709.98,Baldwin Bikes,Venita Daniel,2018-01-14
+1341,2018-01-12,4,Todd Waters,Bay Shore,NY,Sun Bicycles Revolutions 24 - 2017,Sun Bicycles,Cruisers Bicycles,2,250.99,0.05,476.88,Baldwin Bikes,Venita Daniel,2018-01-14
+1342,2018-01-12,4,Vivian Deleon,Jamaica,NY,Sun Bicycles ElectroLite - 2017,Sun Bicycles,Electric Bikes,1,1559.99,0.05,1481.99,Baldwin Bikes,Venita Daniel,2018-01-15
+1342,2018-01-12,4,Vivian Deleon,Jamaica,NY,Trek Precaliber 16 Boy's - 2018,Trek,Children Bicycles,1,209.99,0.05,199.49,Baldwin Bikes,Venita Daniel,2018-01-15
+1339,2018-01-11,4,Mellisa Kim,Los Angeles,CA,Trek Domane SLR Frameset - 2018,Trek,Road Bikes,1,3199.99,0.07,2975.99,Santa Cruz Bikes,Genna Serrano,2018-01-13
+1338,2018-01-10,4,Hae Ramirez,Baldwinsville,NY,Trek Emonda SLR 8 - 2018,Trek,Road Bikes,2,6499.99,0.07,12089.98,Baldwin Bikes,Marcelene Boyer,2018-01-13
+1336,2018-01-09,4,Jana Thomas,San Jose,CA,Trek X-Caliber 8 - 2017,Trek,Mountain Bikes,2,999.99,0.2,1599.98,Santa Cruz Bikes,Mireya Copeland,2018-01-12
+1336,2018-01-09,4,Jana Thomas,San Jose,CA,Trek Domane SL Frameset Women's - 2018,Trek,Road Bikes,1,6499.99,0.05,6174.99,Santa Cruz Bikes,Mireya Copeland,2018-01-12
+1336,2018-01-09,4,Jana Thomas,San Jose,CA,Electra Cruiser 1 (24-Inch) - 2016,Electra,Children Bicycles,2,269.99,0.07,502.18,Santa Cruz Bikes,Mireya Copeland,2018-01-12
+1336,2018-01-09,4,Jana Thomas,San Jose,CA,Trek Boone 7 Disc - 2018,Trek,Cyclocross Bicycles,1,3999.99,0.1,3599.99,Santa Cruz Bikes,Mireya Copeland,2018-01-12
+1336,2018-01-09,4,Jana Thomas,San Jose,CA,Trek Conduit+ - 2018,Trek,Electric Bikes,1,2799.99,0.1,2519.99,Santa Cruz Bikes,Mireya Copeland,2018-01-12
+1337,2018-01-09,4,Ruth Horton,Hollis,NY,Trek Domane SL 7 Women's - 2018,Trek,Road Bikes,1,4999.99,0.1,4499.99,Baldwin Bikes,Venita Daniel,2018-01-12
+1334,2018-01-07,4,Augustina Joyner,Mount Vernon,NY,Trek Powerfly 7 FS - 2018,Trek,Electric Bikes,2,4999.99,0.05,9499.98,Baldwin Bikes,Marcelene Boyer,2018-01-10
+1334,2018-01-07,4,Augustina Joyner,Mount Vernon,NY,Trek Emonda SLR 6 - 2018,Trek,Road Bikes,2,4499.99,0.07,8369.98,Baldwin Bikes,Marcelene Boyer,2018-01-10
+1334,2018-01-07,4,Augustina Joyner,Mount Vernon,NY,Sun Bicycles Lil Kitt'n - 2017,Sun Bicycles,Children Bicycles,2,109.99,0.1,197.98,Baldwin Bikes,Marcelene Boyer,2018-01-10
+1334,2018-01-07,4,Augustina Joyner,Mount Vernon,NY,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,1,269.99,0.05,256.49,Baldwin Bikes,Marcelene Boyer,2018-01-10
+1334,2018-01-07,4,Augustina Joyner,Mount Vernon,NY,Trek Fuel EX 5 27.5 Plus - 2017,Trek,Mountain Bikes,1,2299.99,0.05,2184.99,Baldwin Bikes,Marcelene Boyer,2018-01-10
+1335,2018-01-07,4,Delfina Gilliam,West Babylon,NY,Trek Fuel EX 5 Plus - 2018,Trek,Mountain Bikes,2,2249.99,0.05,4274.98,Baldwin Bikes,Venita Daniel,2018-01-08
+1332,2018-01-06,4,Erma Salinas,Merrick,NY,"Electra Treasure 3i 20"" - 2018",Electra,Children Bicycles,1,369.99,0.2,295.99,Baldwin Bikes,Venita Daniel,2018-01-09
+1332,2018-01-06,4,Erma Salinas,Merrick,NY,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,2,209.99,0.05,398.98,Baldwin Bikes,Venita Daniel,2018-01-09
+1332,2018-01-06,4,Erma Salinas,Merrick,NY,Trek Domane AL 3 - 2018,Trek,Road Bikes,2,919.99,0.07,1711.18,Baldwin Bikes,Venita Daniel,2018-01-09
+1332,2018-01-06,4,Erma Salinas,Merrick,NY,Electra Water Lily 1 (16-inch) - Girl's - 2018,Electra,Children Bicycles,1,279.99,0.1,251.99,Baldwin Bikes,Venita Daniel,2018-01-09
+1333,2018-01-06,4,Minerva Decker,Houston,TX,Trek Super Commuter+ 8S - 2018,Trek,Electric Bikes,2,4999.99,0.05,9499.98,Rowlett Bikes,Kali Vargas,2018-01-07
+1333,2018-01-06,4,Minerva Decker,Houston,TX,Electra Townie Original 21D EQ - 2017/2018,Electra,Comfort Bicycles,2,679.99,0.1,1223.98,Rowlett Bikes,Kali Vargas,2018-01-07
+1333,2018-01-06,4,Minerva Decker,Houston,TX,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra,Children Bicycles,2,299.99,0.1,539.98,Rowlett Bikes,Kali Vargas,2018-01-07
+1333,2018-01-06,4,Minerva Decker,Houston,TX,Electra Townie Original 21D - 2016,Electra,Cruisers Bicycles,1,549.99,0.05,522.49,Rowlett Bikes,Kali Vargas,2018-01-07
+1333,2018-01-06,4,Minerva Decker,Houston,TX,Sun Bicycles Biscayne Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,1,647.99,0.1,583.19,Rowlett Bikes,Kali Vargas,2018-01-07
+1331,2018-01-05,4,Cicely Deleon,Massapequa Park,NY,Electra Townie Go! 8i Ladies' - 2018,Electra,Cruisers Bicycles,1,2599.99,0.05,2469.99,Baldwin Bikes,Marcelene Boyer,2018-01-08
+1331,2018-01-05,4,Cicely Deleon,Massapequa Park,NY,"Electra Superbolt 3i 20"" - 2018",Electra,Children Bicycles,1,369.99,0.05,351.49,Baldwin Bikes,Marcelene Boyer,2018-01-08
+1331,2018-01-05,4,Cicely Deleon,Massapequa Park,NY,Trek Domane ALR 5 Disc - 2018,Trek,Road Bikes,2,1799.99,0.1,3239.98,Baldwin Bikes,Marcelene Boyer,2018-01-08
+1331,2018-01-05,4,Cicely Deleon,Massapequa Park,NY,Electra Townie Balloon 3i EQ Ladies' - 2018,Electra,Comfort Bicycles,1,799.99,0.2,639.99,Baldwin Bikes,Marcelene Boyer,2018-01-08
+1329,2018-01-04,4,Ayana Keith,Oxnard,CA,Trek Domane ALR 3 - 2018,Trek,Road Bikes,1,1099.99,0.07,1022.99,Santa Cruz Bikes,Genna Serrano,2018-01-06
+1329,2018-01-04,4,Ayana Keith,Oxnard,CA,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Comfort Bicycles,1,416.99,0.05,396.14,Santa Cruz Bikes,Genna Serrano,2018-01-06
+1329,2018-01-04,4,Ayana Keith,Oxnard,CA,Trek Domane S 6 - 2017,Trek,Road Bikes,1,2699.99,0.07,2510.99,Santa Cruz Bikes,Genna Serrano,2018-01-06
+1329,2018-01-04,4,Ayana Keith,Oxnard,CA,Electra Heartchya 1 (20-inch) - Girl's - 2018,Electra,Children Bicycles,2,319.99,0.2,511.98,Santa Cruz Bikes,Genna Serrano,2018-01-06
+1329,2018-01-04,4,Ayana Keith,Oxnard,CA,Electra Cruiser 1 (24-Inch) - 2016,Electra,Cruisers Bicycles,1,269.99,0.1,242.99,Santa Cruz Bikes,Genna Serrano,2018-01-06
+1330,2018-01-04,4,Rod Hatfield,Ronkonkoma,NY,Electra Cruiser Lux 7D Ladies' - 2018,Electra,Cruisers Bicycles,1,479.99,0.2,383.99,Baldwin Bikes,Venita Daniel,2018-01-07
+1330,2018-01-04,4,Rod Hatfield,Ronkonkoma,NY,Electra Townie Original 21D EQ Ladies' - 2018,Electra,Cruisers Bicycles,2,679.99,0.05,1291.98,Baldwin Bikes,Venita Daniel,2018-01-07
+1330,2018-01-04,4,Rod Hatfield,Ronkonkoma,NY,Electra Cruiser Lux 1 Ladies' - 2018,Electra,Cruisers Bicycles,2,429.99,0.2,687.98,Baldwin Bikes,Venita Daniel,2018-01-07
+1330,2018-01-04,4,Rod Hatfield,Ronkonkoma,NY,Electra Townie Original 7D - 2017,Electra,Comfort Bicycles,2,489.99,0.05,930.98,Baldwin Bikes,Venita Daniel,2018-01-07
+1330,2018-01-04,4,Rod Hatfield,Ronkonkoma,NY,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,Electra,Children Bicycles,1,279.99,0.1,251.99,Baldwin Bikes,Venita Daniel,2018-01-07
+1327,2018-01-02,4,Jenine Dawson,Endicott,NY,Trek Domane ALR 4 Disc Women's - 2018,Trek,Road Bikes,2,1549.99,0.07,2882.98,Baldwin Bikes,Marcelene Boyer,2018-01-05
+1327,2018-01-02,4,Jenine Dawson,Endicott,NY,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,2,899.99,0.1,1619.98,Baldwin Bikes,Marcelene Boyer,2018-01-05
+1327,2018-01-02,4,Jenine Dawson,Endicott,NY,Trek Emonda S 4 - 2017,Trek,Road Bikes,2,1499.99,0.1,2699.98,Baldwin Bikes,Marcelene Boyer,2018-01-05
+1327,2018-01-02,4,Jenine Dawson,Endicott,NY,Trek Domane AL 3 Women's - 2018,Trek,Road Bikes,1,919.99,0.2,735.99,Baldwin Bikes,Marcelene Boyer,2018-01-05
+1328,2018-01-02,4,Cher Alston,Wantagh,NY,Electra Townie Commute 8D - 2018,Electra,Cruisers Bicycles,1,749.99,0.07,697.49,Baldwin Bikes,Marcelene Boyer,2018-01-03
+1328,2018-01-02,4,Cher Alston,Wantagh,NY,Trek X-Caliber 7 - 2018,Trek,Mountain Bikes,2,919.99,0.1,1655.98,Baldwin Bikes,Marcelene Boyer,2018-01-03
+1328,2018-01-02,4,Cher Alston,Wantagh,NY,Electra Cruiser 7D Tall - 2016/2018,Electra,Cruisers Bicycles,1,319.99,0.07,297.59,Baldwin Bikes,Marcelene Boyer,2018-01-03
+1328,2018-01-02,4,Cher Alston,Wantagh,NY,Electra Townie Commute 8D - 2018,Electra,Comfort Bicycles,1,749.99,0.1,674.99,Baldwin Bikes,Marcelene Boyer,2018-01-03
+1328,2018-01-02,4,Cher Alston,Wantagh,NY,Electra Townie Original 7D EQ - 2018,Electra,Cruisers Bicycles,1,599.99,0.1,539.99,Baldwin Bikes,Marcelene Boyer,2018-01-03
+1324,2018-01-01,4,Mellie Puckett,Fresh Meadows,NY,Sun Bicycles Revolutions 24 - 2017,Sun Bicycles,Cruisers Bicycles,1,250.99,0.1,225.89,Baldwin Bikes,Marcelene Boyer,2018-01-03
+1324,2018-01-01,4,Mellie Puckett,Fresh Meadows,NY,Trek Fuel EX 7 29 - 2018,Trek,Mountain Bikes,2,2499.99,0.2,3999.98,Baldwin Bikes,Marcelene Boyer,2018-01-03
+1324,2018-01-01,4,Mellie Puckett,Fresh Meadows,NY,Electra Koa 3i Ladies' - 2018,Electra,Cruisers Bicycles,1,899.99,0.1,809.99,Baldwin Bikes,Marcelene Boyer,2018-01-03
+1324,2018-01-01,4,Mellie Puckett,Fresh Meadows,NY,Surly Wednesday Frameset - 2016,Surly,Mountain Bikes,1,999.99,0.2,799.99,Baldwin Bikes,Marcelene Boyer,2018-01-03
+1325,2018-01-01,4,Jayne Kirkland,Rowlett,TX,Trek Remedy 7 27.5 - 2018,Trek,Mountain Bikes,1,2999.99,0.05,2849.99,Rowlett Bikes,Kali Vargas,2018-01-03
+1325,2018-01-01,4,Jayne Kirkland,Rowlett,TX,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,Electra,Cruisers Bicycles,1,899.99,0.05,854.99,Rowlett Bikes,Kali Vargas,2018-01-03
+1325,2018-01-01,4,Jayne Kirkland,Rowlett,TX,Trek Crockett 7 Disc - 2018,Trek,Cyclocross Bicycles,1,2999.99,0.1,2699.99,Rowlett Bikes,Kali Vargas,2018-01-03
+1325,2018-01-01,4,Jayne Kirkland,Rowlett,TX,Surly Karate Monkey 27.5+ Frameset - 2017,Surly,Mountain Bikes,1,2499.99,0.07,2324.99,Rowlett Bikes,Kali Vargas,2018-01-03
+1326,2018-01-01,4,Sheila Travis,Longview,TX,Trek Dual Sport+ - 2018,Trek,Electric Bikes,2,2799.99,0.07,5207.98,Rowlett Bikes,Layla Terrell,2018-01-02
+1326,2018-01-01,4,Sheila Travis,Longview,TX,Trek Precaliber 12 Boy's - 2018,Trek,Children Bicycles,2,199.99,0.07,371.98,Rowlett Bikes,Layla Terrell,2018-01-02
+1322,2017-12-31,4,Janetta Aguirre,Lancaster,NY,Surly Karate Monkey 27.5+ Frameset - 2017,Surly,Mountain Bikes,2,2499.99,0.05,4749.98,Baldwin Bikes,Venita Daniel,2018-01-02
+1322,2017-12-31,4,Janetta Aguirre,Lancaster,NY,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,2,481.99,0.05,915.78,Baldwin Bikes,Venita Daniel,2018-01-02
+1323,2017-12-31,4,Queenie Vance,Ozone Park,NY,Surly Big Dummy Frameset - 2017,Surly,Mountain Bikes,2,999.99,0.07,1859.98,Baldwin Bikes,Marcelene Boyer,2018-01-01
+1323,2017-12-31,4,Queenie Vance,Ozone Park,NY,Electra Townie Original 7D EQ - Women's - 2016,Electra,Cruisers Bicycles,1,599.99,0.05,569.99,Baldwin Bikes,Marcelene Boyer,2018-01-01
+1323,2017-12-31,4,Queenie Vance,Ozone Park,NY,Electra Amsterdam Original 3i - 2015/2017,Electra,Cruisers Bicycles,1,659.99,0.05,626.99,Baldwin Bikes,Marcelene Boyer,2018-01-01
+1321,2017-12-30,4,Carline Collier,Fresno,CA,Trek Session DH 27.5 Carbon Frameset - 2017,Trek,Mountain Bikes,1,469.99,0.1,422.99,Santa Cruz Bikes,Genna Serrano,2017-12-31
+1321,2017-12-30,4,Carline Collier,Fresno,CA,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Comfort Bicycles,1,416.99,0.1,375.29,Santa Cruz Bikes,Genna Serrano,2017-12-31
+1321,2017-12-30,4,Carline Collier,Fresno,CA,Surly Straggler 650b - 2016,Surly,Cyclocross Bicycles,2,1680.99,0.1,3025.78,Santa Cruz Bikes,Genna Serrano,2017-12-31
+1320,2017-12-28,4,Jessika Bray,San Pablo,CA,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,1,481.99,0.1,433.79,Santa Cruz Bikes,Genna Serrano,2017-12-29
+1320,2017-12-28,4,Jessika Bray,San Pablo,CA,Haro Shredder 20 Girls - 2017,Haro,Children Bicycles,1,209.99,0.05,199.49,Santa Cruz Bikes,Genna Serrano,2017-12-29
+1320,2017-12-28,4,Jessika Bray,San Pablo,CA,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra,Children Bicycles,2,299.99,0.2,479.98,Santa Cruz Bikes,Genna Serrano,2017-12-29
+1317,2017-12-27,4,Georgeanna Webster,Oxnard,CA,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,1,659.99,0.1,593.99,Santa Cruz Bikes,Genna Serrano,2017-12-29
+1318,2017-12-27,4,Abby Gamble,Amityville,NY,Electra Amsterdam Original 3i Ladies' - 2017,Electra,Cruisers Bicycles,2,659.99,0.2,1055.98,Baldwin Bikes,Marcelene Boyer,2017-12-29
+1318,2017-12-27,4,Abby Gamble,Amityville,NY,Trek Boone 7 - 2017,Trek,Cyclocross Bicycles,2,3499.99,0.2,5599.98,Baldwin Bikes,Marcelene Boyer,2017-12-29
+1318,2017-12-27,4,Abby Gamble,Amityville,NY,Sun Bicycles Drifter 7 - Women's - 2017,Sun Bicycles,Comfort Bicycles,1,470.99,0.2,376.79,Baldwin Bikes,Marcelene Boyer,2017-12-29
+1318,2017-12-27,4,Abby Gamble,Amityville,NY,Haro Shredder 20 - 2017,Haro,Children Bicycles,1,209.99,0.07,195.29,Baldwin Bikes,Marcelene Boyer,2017-12-29
+1319,2017-12-27,4,Kylee Dickson,Amityville,NY,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,Electra,Cruisers Bicycles,1,599.99,0.07,557.99,Baldwin Bikes,Marcelene Boyer,2017-12-30
+1319,2017-12-27,4,Kylee Dickson,Amityville,NY,Trek Precaliber 24 (21-Speed) - Girls - 2017,Trek,Children Bicycles,1,349.99,0.2,279.99,Baldwin Bikes,Marcelene Boyer,2017-12-30
+1316,2017-12-26,4,Sylvester Chan,Rocklin,CA,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Cruisers Bicycles,2,299.99,0.1,539.98,Santa Cruz Bikes,Genna Serrano,2017-12-27
+1316,2017-12-26,4,Sylvester Chan,Rocklin,CA,Trek Precaliber 16 Girls - 2017,Trek,Children Bicycles,1,209.99,0.1,188.99,Santa Cruz Bikes,Genna Serrano,2017-12-27
+1312,2017-12-25,4,Charise Burt,Fresno,CA,Sun Bicycles Revolutions 24 - Girl's - 2017,Sun Bicycles,Cruisers Bicycles,2,250.99,0.05,476.88,Santa Cruz Bikes,Genna Serrano,2017-12-26
+1312,2017-12-25,4,Charise Burt,Fresno,CA,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,1,269.99,0.2,215.99,Santa Cruz Bikes,Genna Serrano,2017-12-26
+1312,2017-12-25,4,Charise Burt,Fresno,CA,Electra Townie Original 7D EQ - Women's - 2016,Electra,Cruisers Bicycles,1,599.99,0.07,557.99,Santa Cruz Bikes,Genna Serrano,2017-12-26
+1313,2017-12-25,4,Edith Davenport,Ontario,CA,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,Electra,Cruisers Bicycles,1,599.99,0.2,479.99,Santa Cruz Bikes,Genna Serrano,2017-12-27
+1313,2017-12-25,4,Edith Davenport,Ontario,CA,Surly Wednesday Frameset - 2017,Surly,Mountain Bikes,1,469.99,0.2,375.99,Santa Cruz Bikes,Genna Serrano,2017-12-27
+1313,2017-12-25,4,Edith Davenport,Ontario,CA,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,1,416.99,0.07,387.8,Santa Cruz Bikes,Genna Serrano,2017-12-27
+1314,2017-12-25,4,Shanita Wiley,Saint Albans,NY,Surly Steamroller - 2017,Surly,Road Bikes,1,875.99,0.07,814.67,Baldwin Bikes,Venita Daniel,2017-12-28
+1314,2017-12-25,4,Shanita Wiley,Saint Albans,NY,Sun Bicycles Biscayne Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,2,619.99,0.05,1177.98,Baldwin Bikes,Venita Daniel,2017-12-28
+1314,2017-12-25,4,Shanita Wiley,Saint Albans,NY,Haro Shredder Pro 20 - 2017,Haro,Children Bicycles,1,249.99,0.1,224.99,Baldwin Bikes,Venita Daniel,2017-12-28
+1315,2017-12-25,4,Porter Bass,San Angelo,TX,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,2,481.99,0.07,896.5,Rowlett Bikes,Layla Terrell,2017-12-28
+1315,2017-12-25,4,Porter Bass,San Angelo,TX,Haro Shift R3 - 2017,Haro,Mountain Bikes,1,1469.99,0.05,1396.49,Rowlett Bikes,Layla Terrell,2017-12-28
+1315,2017-12-25,4,Porter Bass,San Angelo,TX,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,1,549.99,0.1,494.99,Rowlett Bikes,Layla Terrell,2017-12-28
+1315,2017-12-25,4,Porter Bass,San Angelo,TX,Electra Townie Original 7D EQ - 2016,Electra,Comfort Bicycles,1,599.99,0.07,557.99,Rowlett Bikes,Layla Terrell,2017-12-28
+1315,2017-12-25,4,Porter Bass,San Angelo,TX,Electra Townie Original 7D EQ - 2016,Electra,Cruisers Bicycles,2,599.99,0.2,959.98,Rowlett Bikes,Layla Terrell,2017-12-28
+1310,2017-12-24,4,Caridad Compton,San Lorenzo,CA,Trek Domane S 5 Disc - 2017,Trek,Road Bikes,1,2599.99,0.2,2079.99,Santa Cruz Bikes,Genna Serrano,2017-12-26
+1310,2017-12-24,4,Caridad Compton,San Lorenzo,CA,Electra Glam Punk 3i Ladies' - 2017,Electra,Cruisers Bicycles,2,799.99,0.2,1279.98,Santa Cruz Bikes,Genna Serrano,2017-12-26
+1310,2017-12-24,4,Caridad Compton,San Lorenzo,CA,Surly Straggler 650b - 2016,Surly,Cyclocross Bicycles,2,1680.99,0.1,3025.78,Santa Cruz Bikes,Genna Serrano,2017-12-26
+1310,2017-12-24,4,Caridad Compton,San Lorenzo,CA,Trek Domane SL Disc Frameset - 2017,Trek,Road Bikes,1,3199.99,0.2,2559.99,Santa Cruz Bikes,Genna Serrano,2017-12-26
+1311,2017-12-24,4,Nicolas Carlson,Saint Albans,NY,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,1,416.99,0.1,375.29,Baldwin Bikes,Marcelene Boyer,2017-12-27
+1311,2017-12-24,4,Nicolas Carlson,Saint Albans,NY,Haro SR 1.2 - 2017,Haro,Mountain Bikes,2,869.99,0.07,1618.18,Baldwin Bikes,Marcelene Boyer,2017-12-27
+1311,2017-12-24,4,Nicolas Carlson,Saint Albans,NY,Surly Big Dummy Frameset - 2017,Surly,Mountain Bikes,2,999.99,0.1,1799.98,Baldwin Bikes,Marcelene Boyer,2017-12-27
+1311,2017-12-24,4,Nicolas Carlson,Saint Albans,NY,Trek Fuel EX 5 27.5 Plus - 2017,Trek,Mountain Bikes,1,2299.99,0.1,2069.99,Baldwin Bikes,Marcelene Boyer,2017-12-27
+1307,2017-12-22,4,Elmo Sweeney,San Carlos,CA,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,2,349.99,0.07,650.98,Santa Cruz Bikes,Mireya Copeland,2017-12-25
+1307,2017-12-22,4,Elmo Sweeney,San Carlos,CA,Surly Ogre Frameset - 2017,Surly,Road Bikes,2,749.99,0.2,1199.98,Santa Cruz Bikes,Mireya Copeland,2017-12-25
+1307,2017-12-22,4,Elmo Sweeney,San Carlos,CA,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,2,416.99,0.2,667.18,Santa Cruz Bikes,Mireya Copeland,2017-12-25
+1308,2017-12-22,4,Ilona Spears,Port Jefferson Station,NY,Trek Domane SL Disc Frameset - 2017,Trek,Road Bikes,1,3199.99,0.05,3039.99,Baldwin Bikes,Venita Daniel,2017-12-24
+1308,2017-12-22,4,Ilona Spears,Port Jefferson Station,NY,Sun Bicycles Cruz 7 - 2017,Sun Bicycles,Cruisers Bicycles,1,416.99,0.2,333.59,Baldwin Bikes,Venita Daniel,2017-12-24
+1308,2017-12-22,4,Ilona Spears,Port Jefferson Station,NY,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,2,269.99,0.07,502.18,Baldwin Bikes,Venita Daniel,2017-12-24
+1308,2017-12-22,4,Ilona Spears,Port Jefferson Station,NY,Trek Domane SLR 6 Disc - 2017,Trek,Road Bikes,1,5499.99,0.2,4399.99,Baldwin Bikes,Venita Daniel,2017-12-24
+1308,2017-12-22,4,Ilona Spears,Port Jefferson Station,NY,Trek Farley Alloy Frameset - 2017,Trek,Mountain Bikes,1,469.99,0.07,437.09,Baldwin Bikes,Venita Daniel,2017-12-24
+1309,2017-12-22,4,Cassidy Clark,Astoria,NY,Sun Bicycles Lil Bolt Type-R - 2017,Sun Bicycles,Cruisers Bicycles,1,346.99,0.05,329.64,Baldwin Bikes,Marcelene Boyer,2017-12-24
+1309,2017-12-22,4,Cassidy Clark,Astoria,NY,Trek Precaliber 12 Boys - 2017,Trek,Children Bicycles,2,189.99,0.2,303.98,Baldwin Bikes,Marcelene Boyer,2017-12-24
+1306,2017-12-20,4,Jeanice Frost,Ossining,NY,Sun Bicycles Streamway 3 - 2017,Sun Bicycles,Comfort Bicycles,2,551.99,0.05,1048.78,Baldwin Bikes,Marcelene Boyer,2017-12-22
+1306,2017-12-20,4,Jeanice Frost,Ossining,NY,Electra Amsterdam Fashion 7i Ladies' - 2017,Electra,Cruisers Bicycles,2,1099.99,0.07,2045.98,Baldwin Bikes,Marcelene Boyer,2017-12-22
+1306,2017-12-20,4,Jeanice Frost,Ossining,NY,Haro SR 1.2 - 2017,Haro,Mountain Bikes,1,869.99,0.2,695.99,Baldwin Bikes,Marcelene Boyer,2017-12-22
+1306,2017-12-20,4,Jeanice Frost,Ossining,NY,Trek Fuel EX 5 27.5 Plus - 2017,Trek,Mountain Bikes,1,2299.99,0.2,1839.99,Baldwin Bikes,Marcelene Boyer,2017-12-22
+1306,2017-12-20,4,Jeanice Frost,Ossining,NY,Trek Conduit+ - 2016,Trek,Electric Bikes,2,2999.99,0.07,5579.98,Baldwin Bikes,Marcelene Boyer,2017-12-22
+1305,2017-12-17,4,Earl Stanley,Elmhurst,NY,Haro Downtown 16 - 2017,Haro,Children Bicycles,1,329.99,0.2,263.99,Baldwin Bikes,Venita Daniel,2017-12-18
+1305,2017-12-17,4,Earl Stanley,Elmhurst,NY,Trek Conduit+ - 2016,Trek,Electric Bikes,1,2999.99,0.07,2789.99,Baldwin Bikes,Venita Daniel,2017-12-18
+1305,2017-12-17,4,Earl Stanley,Elmhurst,NY,Surly Straggler 650b - 2016,Surly,Cyclocross Bicycles,1,1680.99,0.05,1596.94,Baldwin Bikes,Venita Daniel,2017-12-18
+1305,2017-12-17,4,Earl Stanley,Elmhurst,NY,Trek Precaliber 24 (21-Speed) - Girls - 2017,Trek,Children Bicycles,2,349.99,0.05,664.98,Baldwin Bikes,Venita Daniel,2017-12-18
+1301,2017-12-16,4,Jane Henderson,Apple Valley,CA,Haro SR 1.2 - 2017,Haro,Mountain Bikes,2,869.99,0.2,1391.98,Santa Cruz Bikes,Genna Serrano,2017-12-19
+1301,2017-12-16,4,Jane Henderson,Apple Valley,CA,Sun Bicycles Streamway 7 - 2017,Sun Bicycles,Comfort Bicycles,2,533.99,0.1,961.18,Santa Cruz Bikes,Genna Serrano,2017-12-19
+1301,2017-12-16,4,Jane Henderson,Apple Valley,CA,Trek Remedy 29 Carbon Frameset - 2016,Trek,Mountain Bikes,1,1799.99,0.2,1439.99,Santa Cruz Bikes,Genna Serrano,2017-12-19
+1302,2017-12-16,4,Merideth Preston,Poughkeepsie,NY,Haro Flightline Two 26 Plus - 2017,Haro,Mountain Bikes,1,549.99,0.05,522.49,Baldwin Bikes,Venita Daniel,2017-12-19
+1302,2017-12-16,4,Merideth Preston,Poughkeepsie,NY,Electra Townie Original 7D EQ - Women's - 2016,Electra,Cruisers Bicycles,2,599.99,0.1,1079.98,Baldwin Bikes,Venita Daniel,2017-12-19
+1302,2017-12-16,4,Merideth Preston,Poughkeepsie,NY,Trek Domane SLR 6 Disc - 2017,Trek,Road Bikes,2,5499.99,0.07,10229.98,Baldwin Bikes,Venita Daniel,2017-12-19
+1303,2017-12-16,4,Melodie Melton,Smithtown,NY,Electra Moto 3i (20-inch) - Boy's - 2017,Electra,Children Bicycles,1,349.99,0.1,314.99,Baldwin Bikes,Venita Daniel,2017-12-18
+1303,2017-12-16,4,Melodie Melton,Smithtown,NY,Trek Boone Race Shop Limited - 2017,Trek,Cyclocross Bicycles,2,3499.99,0.2,5599.98,Baldwin Bikes,Venita Daniel,2017-12-18
+1303,2017-12-16,4,Melodie Melton,Smithtown,NY,Sun Bicycles Cruz 3 - Women's - 2017,Sun Bicycles,Comfort Bicycles,1,449.99,0.1,404.99,Baldwin Bikes,Venita Daniel,2017-12-18
+1303,2017-12-16,4,Melodie Melton,Smithtown,NY,Sun Bicycles Brickell Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,1,749.99,0.1,674.99,Baldwin Bikes,Venita Daniel,2017-12-18
+1303,2017-12-16,4,Melodie Melton,Smithtown,NY,Electra Townie Original 21D - 2016,Electra,Comfort Bicycles,2,549.99,0.1,989.98,Baldwin Bikes,Venita Daniel,2017-12-18
+1304,2017-12-16,4,Lamar Bush,Buffalo,NY,Sun Bicycles Brickell Tandem CB - 2017,Sun Bicycles,Cruisers Bicycles,1,761.99,0.05,723.89,Baldwin Bikes,Marcelene Boyer,2017-12-17
+1304,2017-12-16,4,Lamar Bush,Buffalo,NY,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,Electra,Children Bicycles,2,299.99,0.05,569.98,Baldwin Bikes,Marcelene Boyer,2017-12-17
+1304,2017-12-16,4,Lamar Bush,Buffalo,NY,Electra Townie Original 7D - 2017,Electra,Comfort Bicycles,1,489.99,0.2,391.99,Baldwin Bikes,Marcelene Boyer,2017-12-17
+1304,2017-12-16,4,Lamar Bush,Buffalo,NY,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,1,429.0,0.05,407.55,Baldwin Bikes,Marcelene Boyer,2017-12-17
+1299,2017-12-15,4,Elvina Gates,Pleasanton,CA,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,Electra,Cruisers Bicycles,2,269.99,0.1,485.98,Santa Cruz Bikes,Mireya Copeland,2017-12-16
+1299,2017-12-15,4,Elvina Gates,Pleasanton,CA,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,1,339.99,0.05,322.99,Santa Cruz Bikes,Mireya Copeland,2017-12-16
+1299,2017-12-15,4,Elvina Gates,Pleasanton,CA,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,Electra,Cruisers Bicycles,1,599.99,0.05,569.99,Santa Cruz Bikes,Mireya Copeland,2017-12-16
+1299,2017-12-15,4,Elvina Gates,Pleasanton,CA,Surly Steamroller - 2017,Surly,Road Bikes,2,875.99,0.2,1401.58,Santa Cruz Bikes,Mireya Copeland,2017-12-16
+1300,2017-12-15,4,Veronika Rollins,Webster,NY,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,2,339.99,0.07,632.38,Baldwin Bikes,Marcelene Boyer,2017-12-17
+1300,2017-12-15,4,Veronika Rollins,Webster,NY,Trek Madone 9.2 - 2017,Trek,Road Bikes,2,4999.99,0.05,9499.98,Baldwin Bikes,Marcelene Boyer,2017-12-17
+1296,2017-12-14,4,Jenee Rasmussen,Sacramento,CA,Electra Townie Original 7D - 2015/2016,Electra,Comfort Bicycles,2,499.99,0.05,949.98,Santa Cruz Bikes,Genna Serrano,2017-12-15
+1296,2017-12-14,4,Jenee Rasmussen,Sacramento,CA,Trek Precaliber 16 Girls - 2017,Trek,Children Bicycles,1,209.99,0.1,188.99,Santa Cruz Bikes,Genna Serrano,2017-12-15
+1296,2017-12-14,4,Jenee Rasmussen,Sacramento,CA,Electra Townie Original 7D EQ - 2016,Electra,Cruisers Bicycles,1,599.99,0.05,569.99,Santa Cruz Bikes,Genna Serrano,2017-12-15
+1296,2017-12-14,4,Jenee Rasmussen,Sacramento,CA,Ritchey Timberwolf Frameset - 2016,Ritchey,Mountain Bikes,2,749.99,0.1,1349.98,Santa Cruz Bikes,Genna Serrano,2017-12-15
+1297,2017-12-14,4,Shae Hickman,Floral Park,NY,Sun Bicycles Streamway - 2017,Sun Bicycles,Comfort Bicycles,2,481.99,0.07,896.5,Baldwin Bikes,Marcelene Boyer,2017-12-16
+1297,2017-12-14,4,Shae Hickman,Floral Park,NY,Trek Fuel EX 9.8 27.5 Plus - 2017,Trek,Mountain Bikes,1,5299.99,0.05,5034.99,Baldwin Bikes,Marcelene Boyer,2017-12-16
+1297,2017-12-14,4,Shae Hickman,Floral Park,NY,Trek Silque SLR 8 Women's - 2017,Trek,Road Bikes,2,6499.99,0.05,12349.98,Baldwin Bikes,Marcelene Boyer,2017-12-16
+1298,2017-12-14,4,Garret Clay,Corpus Christi,TX,Trek Domane S 5 Disc - 2017,Trek,Road Bikes,1,2599.99,0.05,2469.99,Rowlett Bikes,Layla Terrell,2017-12-16
+1298,2017-12-14,4,Garret Clay,Corpus Christi,TX,Sun Bicycles Drifter 7 - 2017,Sun Bicycles,Comfort Bicycles,2,470.99,0.07,876.04,Rowlett Bikes,Layla Terrell,2017-12-16
+1294,2017-12-11,4,Angele Castro,Palos Verdes Peninsula,CA,"Electra Girl's Hawaii 1 16"" - 2017",Electra,Children Bicycles,2,299.99,0.05,569.98,Santa Cruz Bikes,Mireya Copeland,2017-12-14
+1294,2017-12-11,4,Angele Castro,Palos Verdes Peninsula,CA,Haro SR 1.1 - 2017,Haro,Mountain Bikes,1,539.99,0.05,512.99,Santa Cruz Bikes,Mireya Copeland,2017-12-14
+1295,2017-12-11,4,Melia Brady,Maspeth,NY,Heller Shagamaw Frame - 2016,Heller,Mountain Bikes,2,1320.99,0.2,2113.58,Baldwin Bikes,Venita Daniel,2017-12-14
+1295,2017-12-11,4,Melia Brady,Maspeth,NY,Trek Powerfly 8 FS Plus - 2017,Trek,Electric Bikes,1,4999.99,0.2,3999.99,Baldwin Bikes,Venita Daniel,2017-12-14
+1295,2017-12-11,4,Melia Brady,Maspeth,NY,Surly Steamroller - 2017,Surly,Road Bikes,1,875.99,0.05,832.19,Baldwin Bikes,Venita Daniel,2017-12-14
+1292,2017-12-10,4,Leola Gould,Astoria,NY,Electra Amsterdam Original 3i - 2015/2017,Electra,Cruisers Bicycles,1,659.99,0.07,613.79,Baldwin Bikes,Marcelene Boyer,2017-12-11
+1293,2017-12-10,4,Willetta Murphy,East Elmhurst,NY,Trek Precaliber 12 Girls - 2017,Trek,Children Bicycles,2,189.99,0.1,341.98,Baldwin Bikes,Venita Daniel,2017-12-11
+1293,2017-12-10,4,Willetta Murphy,East Elmhurst,NY,Electra Cruiser Lux 1 - 2017,Electra,Cruisers Bicycles,2,439.99,0.05,835.98,Baldwin Bikes,Venita Daniel,2017-12-11
+1293,2017-12-10,4,Willetta Murphy,East Elmhurst,NY,Haro Flightline Two 26 Plus - 2017,Haro,Mountain Bikes,2,549.99,0.07,1022.98,Baldwin Bikes,Venita Daniel,2017-12-11
+1291,2017-12-09,4,Shanice Spears,Brooklyn,NY,Trek Emonda S 5 - 2017,Trek,Road Bikes,1,1999.99,0.1,1799.99,Baldwin Bikes,Marcelene Boyer,2017-12-12
+1291,2017-12-09,4,Shanice Spears,Brooklyn,NY,Trek Madone 9.2 - 2017,Trek,Road Bikes,2,4999.99,0.05,9499.98,Baldwin Bikes,Marcelene Boyer,2017-12-12
+1289,2017-12-08,4,Lakenya Oliver,San Lorenzo,CA,Trek Precaliber 16 Boys - 2017,Trek,Children Bicycles,1,209.99,0.05,199.49,Santa Cruz Bikes,Genna Serrano,2017-12-10
+1289,2017-12-08,4,Lakenya Oliver,San Lorenzo,CA,Surly Wednesday Frameset - 2016,Surly,Mountain Bikes,1,999.99,0.1,899.99,Santa Cruz Bikes,Genna Serrano,2017-12-10
+1290,2017-12-08,4,Laurette Hebert,Canandaigua,NY,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,Electra,Cruisers Bicycles,2,599.99,0.05,1139.98,Baldwin Bikes,Marcelene Boyer,2017-12-10
+1290,2017-12-08,4,Laurette Hebert,Canandaigua,NY,Surly Troll Frameset - 2017,Surly,Mountain Bikes,1,832.99,0.05,791.34,Baldwin Bikes,Marcelene Boyer,2017-12-10
+1290,2017-12-08,4,Laurette Hebert,Canandaigua,NY,Haro Shredder 20 - 2017,Haro,Children Bicycles,2,209.99,0.1,377.98,Baldwin Bikes,Marcelene Boyer,2017-12-10
+1287,2017-12-07,4,Justina Long,South El Monte,CA,Surly Big Dummy Frameset - 2017,Surly,Mountain Bikes,2,999.99,0.2,1599.98,Santa Cruz Bikes,Genna Serrano,2017-12-09
+1287,2017-12-07,4,Justina Long,South El Monte,CA,Trek Boone 7 - 2017,Trek,Cyclocross Bicycles,2,3499.99,0.1,6299.98,Santa Cruz Bikes,Genna Serrano,2017-12-09
+1287,2017-12-07,4,Justina Long,South El Monte,CA,Sun Bicycles Streamway 3 - 2017,Sun Bicycles,Comfort Bicycles,1,551.99,0.1,496.79,Santa Cruz Bikes,Genna Serrano,2017-12-09
+1287,2017-12-07,4,Justina Long,South El Monte,CA,Electra Townie 3i EQ (20-inch) - Boys' - 2017,Electra,Children Bicycles,2,489.99,0.05,930.98,Santa Cruz Bikes,Genna Serrano,2017-12-09
+1288,2017-12-07,4,Corrinne Garrison,Victoria,TX,Sun Bicycles Brickell Tandem 7 - 2017,Sun Bicycles,Cruisers Bicycles,1,749.99,0.2,599.99,Rowlett Bikes,Layla Terrell,2017-12-09
+1288,2017-12-07,4,Corrinne Garrison,Victoria,TX,Electra Townie Original 7D - 2017,Electra,Cruisers Bicycles,2,489.99,0.2,783.98,Rowlett Bikes,Layla Terrell,2017-12-09
+1288,2017-12-07,4,Corrinne Garrison,Victoria,TX,Trek Boone 7 - 2017,Trek,Cyclocross Bicycles,2,3499.99,0.1,6299.98,Rowlett Bikes,Layla Terrell,2017-12-09
+1288,2017-12-07,4,Corrinne Garrison,Victoria,TX,Pure Cycles Vine 8-Speed - 2016,Pure Cycles,Cruisers Bicycles,2,429.0,0.07,797.94,Rowlett Bikes,Layla Terrell,2017-12-09
+1283,2017-12-04,4,Teofila Fischer,Huntington Station,NY,Trek Powerfly 8 FS Plus - 2017,Trek,Electric Bikes,2,4999.99,0.05,9499.98,Baldwin Bikes,Venita Daniel,2017-12-07
+1283,2017-12-04,4,Teofila Fischer,Huntington Station,NY,Electra Amsterdam Fashion 7i Ladies' - 2017,Electra,Cruisers Bicycles,1,1099.99,0.2,879.99,Baldwin Bikes,Venita Daniel,2017-12-07
+1283,2017-12-04,4,Teofila Fischer,Huntington Station,NY,Trek Slash 8 27.5 - 2016,Trek,Mountain Bikes,1,3999.99,0.1,3599.99,Baldwin Bikes,Venita Daniel,2017-12-07
+1283,2017-12-04,4,Teofila Fischer,Huntington Station,NY,Trek Farley Alloy Frameset - 2017,Trek,Mountain Bikes,1,469.99,0.1,422.99,Baldwin Bikes,Venita Daniel,2017-12-07
+1283,2017-12-04,4,Teofila Fischer,Huntington Station,NY,Surly Straggler 650b - 2016,Surly,Cyclocross Bicycles,1,1680.99,0.2,1344.79,Baldwin Bikes,Venita Daniel,2017-12-07
+1284,2017-12-04,4,Terrance Lynn,Plattsburgh,NY,Electra Townie 7D (20-inch) - Boys' - 2017,Electra,Children Bicycles,1,339.99,0.07,316.19,Baldwin Bikes,Venita Daniel,2017-12-07
