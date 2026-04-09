@@ -3,10 +3,9 @@ import pandas as pd
 from sqlalchemy import create_engine
 from dotenv import load_dotenv
 from urllib.parse import quote_plus
+import logging
 
 pd.set_option('display.max_columns', None)
-
-# Load variables from .env file
 load_dotenv()
 password = quote_plus(os.getenv('DB_PASSWORD'))
 
@@ -15,28 +14,28 @@ engine = create_engine(
     f"{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}"
 )
 
+# Always save next to this script's parent folder (project root)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CSV_PATH = os.path.join(BASE_DIR, 'sales_summary.csv')
+
 def load_data():
     print("🚀 Bike Store Data Loader Started (PostgreSQL)...")
-
     try:
-        # Test the connection
         with engine.connect() as conn:
             print("✅ Successfully connected to PostgreSQL!")
 
-        # Load the main view
-        df = pd.read_sql("SELECT * FROM sales_summary ORDER BY order_date DESC LIMIT 1000", engine)
-        
+        df = pd.read_sql("SELECT * FROM sales_summary", engine)
         print(f"✅ Successfully loaded {len(df):,} rows from sales_summary")
-
-        # Show sample data
-        print("\nSample Data:")
         print(df.tail())
+        print(f"shape: {df.shape}")
 
-        # Export for Power BI
-        df.to_csv('sales_summary.csv', index=False)
-        print("💾 Exported sales_summary.csv successfully!")
+        assert df['quantity'].min() >= 0
+        assert df['list_price'].min() > 0
+        assert df['discount'].between(0, 1).all()
 
-        print("\n🎉 All done! You can now open sales_summary.csv in Power BI.")
+        # Save to explicit path
+        df.to_csv(CSV_PATH, index=False)
+        print(f"💾 Exported to: {CSV_PATH}")
 
     except Exception as e:
         print(f"❌ Error: {e}")

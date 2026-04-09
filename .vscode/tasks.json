@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "1. Load Data",
+      "type": "shell",
+      "command": "py -3.11 python_scripts/data_loader.py"
+    },
+    {
+      "label": "2. Run EDA",
+      "type": "shell",
+      "command": "py -3.11 python_scripts/eda.py"
+    },
+    {
+      "label": "3. Push to Power BI",
+      "type": "shell",
+      "command": "py -3.11 python_scripts/push_to_powerbi.py"
+    },
+    {
+      "label": "4. Compile & Open PBIX",
+      "type": "shell",
+      "command": "pbi-tools compile power_bi/bike_store && Start-Process power_bi/bike_store.pbix"
+    }
+  ]
+}
