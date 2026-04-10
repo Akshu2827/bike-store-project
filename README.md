@@ -32,25 +32,8 @@ This project builds an end-to-end data pipeline for analyzing bike store sales d
 
 # Data Analytics / ML Problem Statements
 
----
 
-## Question 1 — "Will this order be shipped on time?"
-
-**Model:** Classification (Predicting Late Delivery)
-
-# Features to Use
-- `store_name`
-- `staff_name`
-- `quantity`
-- `discount`
-- `order_status`
-- Day of week from `order_date`
-
-## Business Value
-
-Flag high-risk orders before they go late → alert staff proactively.
-
-# Question 2 — "How much revenue will we make next month?"
+# Question 1 — "How much revenue will we make next month?"
 
 **Model:** Time Series Forecasting (Revenue Prediction)
 
@@ -67,7 +50,7 @@ Flag high-risk orders before they go late → alert staff proactively.
 
 ---
 
-# Question 3 — "Which customers are about to stop buying?"
+# Question 2 — "Which customers are about to stop buying?"
 
 **Model:** Customer Churn Classification
 
@@ -83,7 +66,7 @@ Flag high-risk orders before they go late → alert staff proactively.
 
 ---
 
-**Question 4 "Which products should we stock more of, and which should we drop?"**
+**Question 3 "Which products should we stock more of, and which should we drop?"**
 
 **Model: Product Portfolio Optimization**
 - category_name + brand_name + quantity + revenue → 
