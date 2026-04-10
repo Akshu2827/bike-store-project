@@ -29,3 +29,67 @@ This project builds an end-to-end data pipeline for analyzing bike store sales d
 ---
 
 ## 📂 Project Structure
+
+# Data Analytics / ML Problem Statements
+
+---
+
+## Question 1 — "Will this order be shipped on time?"
+
+**Model:** Classification (Predicting Late Delivery)
+
+# Features to Use
+- `store_name`
+- `staff_name`
+- `quantity`
+- `discount`
+- `order_status`
+- Day of week from `order_date`
+
+## Business Value
+
+Flag high-risk orders before they go late → alert staff proactively.
+
+# Question 2 — "How much revenue will we make next month?"
+
+**Model:** Time Series Forecasting (Revenue Prediction)
+
+**Features to use:**
+- order_date
+- revenue
+- store_name
+- category_name
+
+**Business value:**
+- Inventory planning
+- staff scheduling
+- sales targets.
+
+---
+
+# Question 3 — "Which customers are about to stop buying?"
+
+**Model:** Customer Churn Classification
+
+**Features to use:**
+- total orders per customer
+- avg revenue
+- avg discount
+- days since last order
+- favourite category
+
+**Business value:**
+- Trigger retention campaigns for at-risk customers.
+
+---
+
+**Question 4 "Which products should we stock more of, and which should we drop?"**
+
+**Model: Product Portfolio Optimization**
+- category_name + brand_name + quantity + revenue → 
+- identify high revenue / low stock risk products
+- identify low revenue / high discount products (dead weight)
+
+Controllable action: Reorder bestsellers earlier, discontinue dead stock, negotiate better with top brands.
+What makes it controllable: Purchasing and inventory decisions are fully internal.
+

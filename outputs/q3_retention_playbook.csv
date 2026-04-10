@@ -1,0 +1,4 @@
+trigger_condition,recommended_action,priority
+days_since_order > 180,Win-back email,High
+churn_probability > 0.75,Personal outreach,Critical
+avg_discount > 0.2,Bundle offer,Medium
